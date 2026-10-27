@@ -17,23 +17,6 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-professor-de-apoio-educacional-especializado-paee-colegio-estadual-jorge-q-netto": {
-      "visto": "2026-10-27",
-      "fonte": "freehire",
-      "score": 55,
-      "categoria": "Escola / educação infantil",
-      "vaga": {
-        "id": "api-professor-de-apoio-educacional-especializado-paee-colegio-estadual-jorge-q-netto",
-        "name": "Tom Educação",
-        "role": "Professor de Apoio Educacional Especializado (PAEE) | Colégio Estadual Jorge Q. Netto",
-        "area": "PIRAI DO SUL, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://tomeducacao.gupy.io/jobs/12683769?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-assistente-administrativo-cruzeiro-do-sul-educacional-s-a-4r3fcad4": {
       "visto": "2026-10-27",
       "fonte": "freehire",
@@ -250,6 +233,23 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI2MTk2NjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12759090": {
+      "visto": "2026-10-27",
+      "fonte": "gupy",
+      "score": 55,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "gupy-12759090",
+        "name": "Tom Educação",
+        "role": "Professor de Apoio Educacional Especializado (PAEE) | Colégio Estadual Anibal Khury Neto",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://tomeducacao.gupy.io/job/eyJqb2JJZCI6MTI3NTkwOTAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -1442,6 +1442,57 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3NDUwMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12691904": {
+      "visto": "2026-10-27",
+      "fonte": "gupy",
+      "score": 40,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "gupy-12691904",
+        "name": "ViV",
+        "role": "Recepcionista | Curitiba - PR",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://vivsaude.gupy.io/job/eyJqb2JJZCI6MTI2OTE5MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12675389": {
+      "visto": "2026-10-27",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "gupy-12675389",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Recepcionista / CEDIP Alto da XV",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI2NzUzODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12488652": {
+      "visto": "2026-10-27",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "gupy-12488652",
+        "name": "Dasa",
+        "role": "Recepcionista - Paraná",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://dasaatendimento.gupy.io/job/eyJqb2JJZCI6MTI0ODg2NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."

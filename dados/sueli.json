@@ -353,6 +353,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12675389",
+      "name": "Carreiras Pilar Hospital",
+      "role": "Recepcionista / CEDIP Alto da XV",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI2NzUzODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-recepcionista-comercial-clinica-de-cirurgia-estetica-glasses-santana-costa-nxwxa",
       "name": "GLASSES SANTANA COSTA",
       "role": "Recepcionista /Comercial - Clinica de Cirurgia Estética",
@@ -395,6 +406,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12488652",
+      "name": "Dasa",
+      "role": "Recepcionista - Paraná",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://dasaatendimento.gupy.io/job/eyJqb2JJZCI6MTI0ODg2NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-recepcionista-pilar-hospital-carreiras-vera-cruz-hospital-lkgdrt22",
@@ -747,6 +769,17 @@
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12691904",
+      "name": "ViV",
+      "role": "Recepcionista | Curitiba - PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://vivsaude.gupy.io/job/eyJqb2JJZCI6MTI2OTE5MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-recepcionista-parana-rede-americas-uth7tjhv",
