@@ -10,17 +10,39 @@ from html import unescape
 D = Path(__file__).resolve().parents[1] / "dados"
 API = "https://freehire.me/api/v1/jobs/search"
 CONSULTAS = {
-    "beatriz": [("São José dos Pinhais", x) for x in ("creche", "infantil", "pedagogia", "auxiliar")],
+    "beatriz": ([( "São José dos Pinhais", x) for x in ("creche", "infantil", "pedagogia", "auxiliar de sala", "professor")] + [(cidade, x) for cidade in ("Curitiba", "São José dos Pinhais") for x in ("tecnico de enfermagem", "pediatria", "neonatal", "hospital pequeno principe")]),
     "sueli": [(cidade, cargo) for cidade in ("Curitiba", "Pinhais") for cargo in ("enfermagem", "farmacia", "recepcionista", "hospital")],
 }
 CARGOS = {
-    "beatriz": ("creche", "infantil", "pedagog", "bercario", "auxiliar de sala", "educador", "professor"),
+    "beatriz": ("creche", "infantil", "pedagog", "bercario", "auxiliar de sala", "educador", "professor", "tecnico de enfermagem", "tecnica de enfermagem", "auxiliar de enfermagem"),
     "sueli": ("enferm", "farmac", "recepcion", "hospital", "clinica", "laboratorio"),
 }
-CIDADES = {"beatriz": ("sao jose dos pinhais",), "sueli": ("curitiba", "pinhais")}
+CIDADES = {"beatriz": ("sao jose dos pinhais", "curitiba"), "sueli": ("curitiba", "pinhais")}
 
 def normalizar(s):
     return "".join(c for c in unicodedata.normalize("NFKD", str(s or "").lower()) if not unicodedata.combining(c))
+
+def cidade_valida(local, pessoa, titulo):
+    local = normalizar(local)
+    cidade = local.split(",")[0].strip()
+    if cidade not in CIDADES[pessoa]:
+        return False
+    if pessoa == "beatriz" and cidade == "curitiba":
+        cargo = normalizar(titulo)
+        return ("tecnic" in cargo or "auxiliar de enfermagem" in cargo) and "enfermagem" in cargo
+    return True
+
+def cargo_valido(pessoa, titulo, empresa):
+    t = normalizar(titulo)
+    if pessoa == "beatriz":
+        return any(x in t for x in CARGOS[pessoa])
+    if "enferm" in t:
+        return ("tecnic" in t or "auxiliar de enfermagem" in t) and "enfermagem" in t
+    if "farmac" in t:
+        return any(x in t for x in ("auxiliar", "atendente", "balconista", "assistente", "tecnic"))
+    if "recepcion" in t:
+        return any(x in normalizar(empresa + " " + titulo) for x in ("hospital", "clinica", "medic", "laboratorio", "saude", "cedip", "pilar", "pequeno principe", "unimed", "rede d'or", "dasa"))
+    return False
 
 def consultar(cidade, cargo):
     params = urllib.parse.urlencode({"cities": cidade, "q": cargo, "q_fields": "title", "limit": 100, "offset": 0})
@@ -55,9 +77,9 @@ def executar():
                     continue
                 titulo = str(vaga.get("title") or "")
                 local = normalizar(" ".join([str(vaga.get("location") or "")] + [str(x) for x in vaga.get("cities", [])]))
-                if not any(x in normalizar(titulo) for x in CARGOS[pessoa]):
+                if not cargo_valido(pessoa, titulo, str(vaga.get("company") or "")):
                     continue
-                if not any(x in local for x in CIDADES[pessoa]):
+                if not cidade_valida(vaga.get("location") or "", pessoa, titulo):
                     continue
                 if vaga.get("countries") and not any(normalizar(x) == "br" for x in vaga["countries"]):
                     continue
@@ -69,7 +91,7 @@ def executar():
                     "pessoa": pessoa, "id": "api-" + uid,
                     "name": str(vaga.get("company") or "Empresa não informada"),
                     "role": titulo, "area": str(vaga.get("location") or cidade),
-                    "zone": "sjp" if pessoa == "beatriz" else ("pinhais" if "pinhais" in local and "curitiba" not in local else "curitiba"),
+                    "zone": ("sjp" if "sao jose dos pinhais" in normalizar(vaga.get("location") or "") else "curitiba") if pessoa == "beatriz" else ("pinhais" if "pinhais" in local and "curitiba" not in local else "curitiba"),
                     "source": link, "wa": "", "email": "",
                     "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
                 })
@@ -84,9 +106,11 @@ def executar():
                 continue
             if not str(vaga["source"]).startswith("https://"):
                 continue
-            if pessoa == "beatriz" and (vaga.get("zone") != "sjp" or "sao jose dos pinhais" not in normalizar(vaga["area"])):
+            if pessoa == "beatriz" and not cidade_valida(vaga["area"], pessoa, vaga["role"]):
                 continue
-            if pessoa == "sueli" and vaga.get("zone") not in ("curitiba", "pinhais"):
+            if pessoa == "sueli" and not cidade_valida(vaga["area"], pessoa, vaga["role"]):
+                continue
+            if not cargo_valido(pessoa, vaga["role"], vaga["name"]):
                 continue
             if vaga["id"] in vistos:
                 continue
