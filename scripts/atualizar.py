@@ -106,8 +106,15 @@ GUPY_BEATRIZ_ESCOLA = (
     "professor de educação infantil", "berçarista", "monitor", "auxiliar de classe",
     "creche", "escola", "secretaria escolar", "recepcionista", "auxiliar administrativo",
     "pedagógico",
+    # Ampliação (a Gupy é a fonte que mais traz escola):
+    "inspetor", "assistente de sala", "auxiliar de turma", "auxiliar de educação",
+    "berçário", "cuidador", "professor", "apoio escolar", "atendente", "secretária",
+    "colégio", "infantil",
 )
-GUPY_ENFERMAGEM = ("técnico de enfermagem", "técnico em enfermagem", "auxiliar de enfermagem")
+GUPY_ENFERMAGEM = ("técnico de enfermagem", "técnico em enfermagem", "auxiliar de enfermagem",
+                   "enfermagem pediatria", "enfermagem neonatal", "maternidade")
+GUPY_SUELI_EXTRAS = ("técnica de enfermagem", "recepcionista", "recepção", "balconista",
+                     "atendente de farmácia", "atendente de loja", "auxiliar de laboratório")
 
 # Categorias (aparecem no log e definem a ordem no site)
 CAT_ESCOLA = "Escola / educação infantil"
@@ -480,6 +487,9 @@ class Vaga:
 
 
 RE_BRASIL = _re(r"\b(br|bra|brasil|brazil)\b")
+RE_LOCAL_GENERICO = _re(
+    r"((pr|parana|brasil|brazil|br|regiao sul|sul|remoto|remote|hibrido|presencial|regiao metropolitana)\s*)*"
+)
 
 
 def avaliar(pessoa: str, v: Vaga, hoje: date) -> tuple[Resultado, set]:
@@ -493,7 +503,11 @@ def avaliar(pessoa: str, v: Vaga, hoje: date) -> tuple[Resultado, set]:
     if not v.link.startswith("https://"):
         return _rej("sem link https"), set()
 
-    cidades = cidades_do_local(v.local_busca, v.area)
+    # A localização principal do anúncio manda. Lista extra de cidades/regiões só vale quando
+    # o local principal é genérico ("PR, Brasil"). Ex.: "PIRAI DO SUL, PR" não vira Curitiba.
+    cidades = cidades_do_local(v.area)
+    if not cidades and (not v.area.strip() or RE_LOCAL_GENERICO.fullmatch(normalizar(v.area))):
+        cidades = cidades_do_local(v.local_busca)
     if not cidades & CIDADES_PERMITIDAS[pessoa]:
         return _rej("cidade incorreta"), cidades
 
@@ -876,7 +890,7 @@ def montar_consultas(usar_gupy: bool = True) -> list:
            for cidade in (CWB, PINHAIS) for cargo in SUELI_CARGOS]
     if usar_gupy:
         cs += [Consulta("sueli", "SAÚDE / FARMÁCIA", "gupy", cidade, cargo, None, MAX_PAGINAS_GUPY)
-               for cidade in (CWB, PINHAIS) for cargo in SUELI_CARGOS]
+               for cidade in (CWB, PINHAIS) for cargo in SUELI_CARGOS + GUPY_SUELI_EXTRAS]
     return cs
 
 
