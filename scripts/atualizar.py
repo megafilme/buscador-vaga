@@ -10,38 +10,46 @@ from html import unescape
 D = Path(__file__).resolve().parents[1] / "dados"
 API = "https://freehire.me/api/v1/jobs/search"
 CONSULTAS = {
-    "beatriz": ([( "São José dos Pinhais", x) for x in ("creche", "infantil", "pedagogia", "auxiliar de sala", "professor")] + [(cidade, x) for cidade in ("Curitiba", "São José dos Pinhais") for x in ("tecnico de enfermagem", "pediatria", "neonatal", "hospital pequeno principe")]),
-    "sueli": [(cidade, cargo) for cidade in ("Curitiba", "Pinhais") for cargo in ("enfermagem", "farmacia", "recepcionista", "hospital")],
+    "beatriz": [("São José dos Pinhais", x) for x in ("creche", "educação infantil", "auxiliar de professora", "auxiliar de sala", "berçarista", "pedagogia")],
+    "sueli": [(cidade, cargo) for cidade in ("Curitiba", "Pinhais") for cargo in ("técnico de enfermagem", "auxiliar de enfermagem", "auxiliar de farmácia", "atendente de farmácia", "recepcionista clínica", "recepcionista hospital")],
 }
-CARGOS = {
-    "beatriz": ("creche", "infantil", "pedagog", "bercario", "auxiliar de sala", "educador", "professor", "tecnico de enfermagem", "tecnica de enfermagem", "auxiliar de enfermagem"),
-    "sueli": ("enferm", "farmac", "recepcion", "hospital", "clinica", "laboratorio"),
-}
-CIDADES = {"beatriz": ("sao jose dos pinhais", "curitiba"), "sueli": ("curitiba", "pinhais")}
-
 def normalizar(s):
-    return "".join(c for c in unicodedata.normalize("NFKD", str(s or "").lower()) if not unicodedata.combining(c))
+    return "".join(c for c in unicodedata.normalize("NFKD", str(s or "").lower())
+                   if not unicodedata.combining(c))
 
-def cidade_valida(local, pessoa, titulo):
-    local = normalizar(local)
-    cidade = local.split(",")[0].strip()
-    if cidade not in CIDADES[pessoa]:
-        return False
-    if pessoa == "beatriz" and cidade == "curitiba":
-        cargo = normalizar(titulo)
-        return ("tecnic" in cargo or "auxiliar de enfermagem" in cargo) and "enfermagem" in cargo
-    return True
-
-def cargo_valido(pessoa, titulo, empresa):
-    t = normalizar(titulo)
+def cidade_valida(local, pessoa):
+    cidade = normalizar(local).split(",")[0].strip()
     if pessoa == "beatriz":
-        return any(x in t for x in CARGOS[pessoa])
-    if "enferm" in t:
-        return ("tecnic" in t or "auxiliar de enfermagem" in t) and "enfermagem" in t
+        return cidade == "sao jose dos pinhais"
+    return cidade in ("curitiba", "pinhais")
+
+def cargo_valido(pessoa, titulo, empresa=""):
+    t, e = normalizar(titulo), normalizar(empresa)
+    if pessoa == "beatriz":
+        if any(x in t for x in ("ensino medio", "ensino fundamental", "professor de ingles",
+                               "professor de matematica", "professor de portugues",
+                               "professor de historia", "professor de quimica",
+                               "professor de fisica", "professor de geografia",
+                               "professor de administracao", "professor de logistica",
+                               "professor de espanhol", "professor de biologia",
+                               "professor de filosofia", "professor de sociologia",
+                               "professor de artes", "curso tecnico", "enfermagem")):
+            return False
+        return any(x in t for x in ("educacao infantil", "auxiliar de professora",
+            "auxiliar de professor", "auxiliar de sala", "auxiliar de turma",
+            "auxiliar de creche", "professora infantil", "professor infantil",
+            "bercarista", "bercario", "recreadora infantil", "recreador infantil",
+            "educadora infantil", "educador infantil", "pedagoga infantil",
+            "pedagogo infantil", "atendente de creche", "monitor infantil",
+            "monitora infantil"))
+    if "enfermagem" in t:
+        return any(x in t for x in ("tecnic", "auxiliar de enfermagem"))
     if "farmac" in t:
-        return any(x in t for x in ("auxiliar", "atendente", "balconista", "assistente", "tecnic"))
+        return any(x in t for x in ("auxiliar", "atendente", "balconista", "tecnic"))
     if "recepcion" in t:
-        return any(x in normalizar(empresa + " " + titulo) for x in ("hospital", "clinica", "medic", "laboratorio", "saude", "cedip", "pilar", "pequeno principe", "unimed", "rede d'or", "dasa"))
+        return any(x in t or x in e for x in ("hospital", "clinica", "laboratorio",
+            "centro medico", "centro de diagnostico", "ambulatorio",
+            "unimed", "dasa", "pequeno principe", "rede d'or", "pilar hospital"))
     return False
 
 def consultar(cidade, cargo):
@@ -62,12 +70,12 @@ def executar():
     if not isinstance(manual, list):
         raise ValueError("dados/fontes.json precisa ser uma lista")
     itens = list(manual)
-    sucessos = 0
+    sucessos = {pessoa: 0 for pessoa in CONSULTAS}
     for pessoa, buscas in CONSULTAS.items():
         for cidade, cargo in buscas:
             try:
                 encontrados = consultar(cidade, cargo)
-                sucessos += 1
+                sucessos[pessoa] += 1
                 print(pessoa, cidade, cargo, "API:", len(encontrados))
             except Exception as erro:
                 print("ERRO API:", pessoa, cidade, cargo, repr(erro))
@@ -79,45 +87,10 @@ def executar():
                 local = normalizar(" ".join([str(vaga.get("location") or "")] + [str(x) for x in vaga.get("cities", [])]))
                 if not cargo_valido(pessoa, titulo, str(vaga.get("company") or "")):
                     continue
-                if not cidade_valida(vaga.get("location") or "", pessoa, titulo):
+                if not cidade_valida(vaga.get("location") or "", pessoa):
                     continue
                 if vaga.get("countries") and not any(normalizar(x) == "br" for x in vaga["countries"]):
                     continue
                 link = str(vaga.get("apply_url") or vaga.get("url") or "")
                 if not link.startswith("https://"):
                     continue
-                uid = str(vaga.get("public_slug") or hashlib.sha256(link.encode()).hexdigest()[:16])
-                itens.append({
-                    "pessoa": pessoa, "id": "api-" + uid,
-                    "name": str(vaga.get("company") or "Empresa não informada"),
-                    "role": titulo, "area": str(vaga.get("location") or cidade),
-                    "zone": ("sjp" if "sao jose dos pinhais" in normalizar(vaga.get("location") or "") else "curitiba") if pessoa == "beatriz" else ("pinhais" if "pinhais" in local and "curitiba" not in local else "curitiba"),
-                    "source": link, "wa": "", "email": "",
-                    "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-                })
-    if not sucessos:
-        raise RuntimeError("Nenhuma consulta à API funcionou; arquivos existentes foram preservados.")
-    for pessoa in CONSULTAS:
-        resultado, vistos = [], set()
-        for vaga in itens:
-            if not isinstance(vaga, dict) or str(vaga.get("pessoa", "")).lower() != pessoa:
-                continue
-            if not all(vaga.get(k) for k in ("id", "name", "role", "area", "source")):
-                continue
-            if not str(vaga["source"]).startswith("https://"):
-                continue
-            if pessoa == "beatriz" and not cidade_valida(vaga["area"], pessoa, vaga["role"]):
-                continue
-            if pessoa == "sueli" and not cidade_valida(vaga["area"], pessoa, vaga["role"]):
-                continue
-            if not cargo_valido(pessoa, vaga["role"], vaga["name"]):
-                continue
-            if vaga["id"] in vistos:
-                continue
-            vistos.add(vaga["id"])
-            resultado.append({k: v for k, v in vaga.items() if k != "pessoa"})
-        (D / (pessoa + ".json")).write_text(json.dumps({"jobs": resultado}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(pessoa, len(resultado), "vagas")
-
-if __name__ == "__main__":
-    executar()
