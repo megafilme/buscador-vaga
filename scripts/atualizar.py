@@ -10,7 +10,7 @@ from html import unescape
 D = Path(__file__).resolve().parents[1] / "dados"
 API = "https://freehire.me/api/v1/jobs/search"
 CONSULTAS = {
-    "beatriz": ([("São José dos Pinhais", x) for x in ("creche", "educação infantil", "auxiliar de professora", "auxiliar de sala", "berçarista", "pedagogia")] + [(cidade, x) for cidade in ("Curitiba", "São José dos Pinhais") for x in ("técnico de enfermagem pediatria", "técnico de enfermagem neonatal", "técnico de enfermagem pequeno príncipe", "técnico de enfermagem teste do pezinho")]),
+    "beatriz": ([("São José dos Pinhais", x) for x in ("creche", "educação infantil", "auxiliar de professora", "auxiliar de sala", "berçarista", "pedagogia", "secretaria escolar", "secretária escolar", "auxiliar de secretaria", "recepcionista escolar", "auxiliar administrativo escolar", "auxiliar de desenvolvimento infantil", "atendente infantil")] + [(cidade, x) for cidade in ("Curitiba", "São José dos Pinhais") for x in ("técnico de enfermagem pediatria", "técnico de enfermagem neonatal", "técnico de enfermagem pequeno príncipe", "técnico de enfermagem teste do pezinho", "técnico de enfermagem")]),
     "sueli": [(cidade, cargo) for cidade in ("Curitiba", "Pinhais") for cargo in ("técnico de enfermagem", "auxiliar de enfermagem", "auxiliar de farmácia", "atendente de farmácia", "recepcionista clínica", "recepcionista hospital")],
 }
 def normalizar(s):
@@ -53,7 +53,7 @@ def cargo_valido(pessoa, titulo, empresa=""):
             "bercarista", "bercario", "recreadora infantil", "recreador infantil",
             "educadora infantil", "educador infantil", "pedagoga infantil",
             "pedagogo infantil", "atendente de creche", "monitor infantil",
-            "monitora infantil"))
+            "monitora infantil", "auxiliar de desenvolvimento infantil", "atendente infantil", "secretaria escolar", "secretario escolar", "secretaria de escola", "secretario de escola", "auxiliar de secretaria", "recepcionista escolar", "recepcionista de escola", "auxiliar administrativo escolar", "assistente administrativo escolar", "assistente de secretaria escolar"))
     if "enfermagem" in t:
         return any(x in t for x in ("tecnic", "auxiliar de enfermagem"))
     if "farmac" in t:
@@ -94,51 +94,3 @@ def executar():
                 continue
             for vaga in encontrados:
                 if not isinstance(vaga, dict) or vaga.get("closed_at"):
-                    continue
-                titulo = str(vaga.get("title") or "")
-                local = normalizar(" ".join([str(vaga.get("location") or "")] + [str(x) for x in vaga.get("cities", [])]))
-                if not cargo_valido(pessoa, titulo, str(vaga.get("company") or "")):
-                    continue
-                if not cidade_valida(vaga.get("location") or "", pessoa, titulo, str(vaga.get("company") or "")):
-                    continue
-                if vaga.get("countries") and not any(normalizar(x) == "br" for x in vaga["countries"]):
-                    continue
-                link = str(vaga.get("apply_url") or vaga.get("url") or "")
-                if not link.startswith("https://"):
-                    continue
-                uid = str(vaga.get("public_slug") or hashlib.sha256(link.encode()).hexdigest()[:16])
-                itens.append({
-                    "pessoa": pessoa, "id": "api-" + uid,
-                    "name": str(vaga.get("company") or "Empresa não informada"),
-                    "role": titulo, "area": str(vaga.get("location") or cidade),
-                    "zone": "sjp" if pessoa == "beatriz" else ("pinhais" if normalizar(vaga.get("location") or "").split(",")[0].strip() == "pinhais" else "curitiba"),
-                    "source": link, "wa": "", "email": "",
-                    "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-                })
-    if not any(sucessos.values()):
-        raise RuntimeError("Nenhuma consulta à API funcionou; arquivos existentes foram preservados.")
-    for pessoa in CONSULTAS:
-        resultado, vistos = [], set()
-        for vaga in itens:
-            if not isinstance(vaga, dict) or str(vaga.get("pessoa", "")).lower() != pessoa:
-                continue
-            if not all(vaga.get(k) for k in ("id", "name", "role", "area", "source")):
-                continue
-            if not str(vaga["source"]).startswith("https://"):
-                continue
-            if not cidade_valida(vaga["area"], pessoa, vaga["role"], vaga["name"]):
-                continue
-            if not cargo_valido(pessoa, vaga["role"], vaga["name"]):
-                continue
-            if vaga["id"] in vistos:
-                continue
-            vistos.add(vaga["id"])
-            resultado.append({k: v for k, v in vaga.items() if k != "pessoa"})
-        if not sucessos[pessoa] or (not resultado and (D / (pessoa + ".json")).exists()):
-            print(pessoa, "sem novas vagas válidas ou API indisponível; arquivo preservado")
-            continue
-        (D / (pessoa + ".json")).write_text(json.dumps({"jobs": resultado}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-        print(pessoa, len(resultado), "vagas")
-
-if __name__ == "__main__":
-    executar()
