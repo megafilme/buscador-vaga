@@ -1,307 +1,99 @@
+import hashlib
 import json
 import re
-import hashlib
 import unicodedata
+import urllib.parse
 import urllib.request
-import xml.etree.ElementTree as ET
-
 from pathlib import Path
 from html import unescape
 
-ROOT = Path(__file__).resolve().parents[1]
-D = ROOT / "dados"
-
-CIDADES = {
-    "beatriz": ["sao jose dos pinhais", "sjp"],
-    "sueli": ["curitiba", "pinhais", "cajuru"]
+D = Path(__file__).resolve().parents[1] / "dados"
+API = "https://freehire.me/api/v1/jobs/search"
+CONSULTAS = {
+    "beatriz": [("São José dos Pinhais", x) for x in ("creche", "infantil", "pedagogia", "auxiliar")],
+    "sueli": [(cidade, cargo) for cidade in ("Curitiba", "Pinhais") for cargo in ("enfermagem", "farmacia", "recepcionista", "hospital")],
 }
-
 CARGOS = {
-    "beatriz": [
-        "educacao infantil",
-        "auxiliar de creche",
-        "auxiliar de sala",
-        "auxiliar de educacao",
-        "bercario",
-        "pedagogia",
-        "professora infantil",
-        "professor infantil"
-    ],
-    "sueli": [
-        "tecnico de enfermagem",
-        "auxiliar de enfermagem",
-        "enfermagem",
-        "atendente de farmacia",
-        "balconista de farmacia",
-        "recepcionista hospitalar",
-        "recepcionista de clinica",
-        "recepcionista de laboratorio"
-    ]
+    "beatriz": ("creche", "infantil", "pedagog", "bercario", "auxiliar de sala", "educador", "professor"),
+    "sueli": ("enferm", "farmac", "recepcion", "hospital", "clinica", "laboratorio"),
 }
+CIDADES = {"beatriz": ("sao jose dos pinhais",), "sueli": ("curitiba", "pinhais")}
 
+def normalizar(s):
+    return "".join(c for c in unicodedata.normalize("NFKD", str(s or "").lower()) if not unicodedata.combining(c))
 
-def normalizar(texto):
-    texto = str(texto or "").lower()
-    texto = unicodedata.normalize("NFKD", texto)
-    texto = "".join(
-        c for c in texto
-        if not unicodedata.combining(c)
-    )
-    return texto
+def consultar(cidade, cargo):
+    params = urllib.parse.urlencode({"cities": cidade, "q": cargo, "q_fields": "title", "limit": 100, "offset": 0})
+    req = urllib.request.Request(API + "?" + params, headers={"User-Agent": "PainelVagasPessoal/1.0", "Accept": "application/json"})
+    with urllib.request.urlopen(req, timeout=25) as response:
+        data = json.load(response)
+    if not isinstance(data, dict) or not isinstance(data.get("data"), list):
+        raise ValueError("Resposta inesperada da API")
+    if data.get("meta", {}).get("ignored_params"):
+        raise ValueError("Filtros ignorados pela API: " + str(data["meta"]["ignored_params"]))
+    return data["data"]
 
-
-def limpar(texto):
-    texto = unescape(str(texto or ""))
-    texto = re.sub(r"<[^>]+>", " ", texto)
-    return re.sub(r"\s+", " ", texto).strip()
-
-
-def ler(nome, padrao):
-    caminho = D / nome
-
-    if not caminho.exists():
-        return padrao
-
-    with caminho.open("r", encoding="utf-8") as arquivo:
-        return json.load(arquivo)
-
-
-def cidade_ok(texto, pessoa):
-    t = normalizar(texto)
-    return any(c in t for c in CIDADES[pessoa])
-
-
-def cargo_ok(texto, pessoa):
-    t = normalizar(texto)
-    return any(c in t for c in CARGOS[pessoa])
-
-
-def contato(texto):
-    email = re.search(
-        r"[\w.+-]+@[\w.-]+\.[a-z]{2,}",
-        texto,
-        re.I
-    )
-
-    telefone = re.search(
-        r"(?:\+?55\s*)?\(?41\)?[\s.-]*9\d{4}[\s.-]*\d{4}",
-        texto
-    )
-
-    whatsapp = ""
-
-    if telefone and "whatsapp" in normalizar(texto):
-        whatsapp = re.sub(r"\D", "", telefone.group())
-
-    return whatsapp, email.group() if email else ""
-
-
-def processar():
+def executar():
     D.mkdir(parents=True, exist_ok=True)
-
-    itens = ler("fontes.json", [])
-    feeds = ler("feeds.json", [])
-
-    if not isinstance(itens, list):
-        raise ValueError("fontes.json precisa ser uma lista")
-
-    if not isinstance(feeds, list):
-        raise ValueError("feeds.json precisa ser uma lista")
-
-    itens = list(itens)
-
-    for feed in feeds:
-
-        if not isinstance(feed, dict):
-            continue
-
-        url = str(feed.get("url", ""))
-        pessoa = str(feed.get("pessoa", "")).lower()
-
-        if pessoa not in CIDADES:
-            continue
-
-        if not url.startswith("https://"):
-            continue
-
-        try:
-            requisicao = urllib.request.Request(
-                url,
-                headers={
-                    "User-Agent": "Mozilla/5.0 PainelVagas/1.0"
-                }
-            )
-
-            with urllib.request.urlopen(
-                requisicao,
-                timeout=20
-            ) as resposta:
-                xml = resposta.read(2_000_000)
-
-            raiz = ET.fromstring(xml)
-
-            entradas = raiz.findall(".//item")
-
-            for item in entradas[:100]:
-
-                titulo = limpar(
-                    item.findtext("title", "")
-                )
-
-                descricao = limpar(
-                    item.findtext("description", "")
-                )
-
-                link = (
-                    item.findtext("link", "") or ""
-                ).strip()
-
-                texto = f"{titulo} {descricao}"
-
-                local = str(
-                    feed.get("cidade", "")
-                ).strip()
-
-                if not cargo_ok(titulo, pessoa):
+    manual_path = D / "fontes.json"
+    manual = json.loads(manual_path.read_text(encoding="utf-8")) if manual_path.exists() else []
+    if not isinstance(manual, list):
+        raise ValueError("dados/fontes.json precisa ser uma lista")
+    itens = list(manual)
+    sucessos = 0
+    for pessoa, buscas in CONSULTAS.items():
+        for cidade, cargo in buscas:
+            try:
+                encontrados = consultar(cidade, cargo)
+                sucessos += 1
+                print(pessoa, cidade, cargo, "API:", len(encontrados))
+            except Exception as erro:
+                print("ERRO API:", pessoa, cidade, cargo, repr(erro))
+                continue
+            for vaga in encontrados:
+                if not isinstance(vaga, dict) or vaga.get("closed_at"):
                     continue
-
-                if not cidade_ok(
-                    f"{texto} {local}",
-                    pessoa
-                ):
+                titulo = str(vaga.get("title") or "")
+                local = normalizar(" ".join([str(vaga.get("location") or "")] + [str(x) for x in vaga.get("cities", [])]))
+                if not any(x in normalizar(titulo) for x in CARGOS[pessoa]):
                     continue
-
+                if not any(x in local for x in CIDADES[pessoa]):
+                    continue
+                if vaga.get("countries") and not any(normalizar(x) == "br" for x in vaga["countries"]):
+                    continue
+                link = str(vaga.get("apply_url") or vaga.get("url") or "")
                 if not link.startswith("https://"):
                     continue
-
-                whatsapp, email = contato(descricao)
-
-                if pessoa == "beatriz":
-                    cidade = "São José dos Pinhais, PR"
-                    zona = "sjp"
-                else:
-                    cidade = (
-                        local or
-                        "Curitiba ou Pinhais, PR - conferir anúncio"
-                    )
-
-                    zona = (
-                        "pinhais"
-                        if normalizar(cidade).startswith("pinhais")
-                        else "curitiba"
-                    )
-
-                identificador = hashlib.sha256(
-                    link.encode("utf-8")
-                ).hexdigest()[:16]
-
+                uid = str(vaga.get("public_slug") or hashlib.sha256(link.encode()).hexdigest()[:16])
                 itens.append({
-                    "pessoa": pessoa,
-                    "id": "rss-" + identificador,
-                    "name": feed.get(
-                        "nome",
-                        "Vaga publicada"
-                    ),
-                    "role": titulo,
-                    "area": cidade,
-                    "zone": zona,
-                    "source": link,
-                    "wa": whatsapp,
-                    "email": email,
-                    "info": (
-                        "Confira a localização e a "
-                        "disponibilidade no anúncio."
-                    )
+                    "pessoa": pessoa, "id": "api-" + uid,
+                    "name": str(vaga.get("company") or "Empresa não informada"),
+                    "role": titulo, "area": str(vaga.get("location") or cidade),
+                    "zone": "sjp" if pessoa == "beatriz" else ("pinhais" if "pinhais" in local and "curitiba" not in local else "curitiba"),
+                    "source": link, "wa": "", "email": "",
+                    "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
                 })
-
-        except Exception as erro:
-            print(
-                "Falha ao consultar:",
-                url,
-                str(erro)[:150]
-            )
-
-    for pessoa in ("beatriz", "sueli"):
-
-        resultado = []
-        vistos = set()
-
+    if not sucessos:
+        raise RuntimeError("Nenhuma consulta à API funcionou; arquivos existentes foram preservados.")
+    for pessoa in CONSULTAS:
+        resultado, vistos = [], set()
         for vaga in itens:
-
-            if not isinstance(vaga, dict):
+            if not isinstance(vaga, dict) or str(vaga.get("pessoa", "")).lower() != pessoa:
                 continue
-
-            if str(
-                vaga.get("pessoa", "")
-            ).lower() != pessoa:
+            if not all(vaga.get(k) for k in ("id", "name", "role", "area", "source")):
                 continue
-
-            obrigatorios = (
-                "id",
-                "name",
-                "role",
-                "area",
-                "source"
-            )
-
-            if not all(
-                vaga.get(campo)
-                for campo in obrigatorios
-            ):
+            if not str(vaga["source"]).startswith("https://"):
                 continue
-
-            if not str(
-                vaga["source"]
-            ).startswith("https://"):
+            if pessoa == "beatriz" and (vaga.get("zone") != "sjp" or "sao jose dos pinhais" not in normalizar(vaga["area"])):
                 continue
-
-            if pessoa == "beatriz":
-
-                if vaga.get("zone") != "sjp":
-                    continue
-
-                if not cidade_ok(
-                    vaga["area"],
-                    pessoa
-                ):
-                    continue
-
-            if pessoa == "sueli":
-
-                if vaga.get("zone") not in (
-                    "curitiba",
-                    "pinhais"
-                ):
-                    continue
-
+            if pessoa == "sueli" and vaga.get("zone") not in ("curitiba", "pinhais"):
+                continue
             if vaga["id"] in vistos:
                 continue
-
             vistos.add(vaga["id"])
-
-            resultado.append({
-                chave: valor
-                for chave, valor in vaga.items()
-                if chave != "pessoa"
-            })
-
-        caminho = D / f"{pessoa}.json"
-
-        caminho.write_text(
-            json.dumps(
-                {"jobs": resultado},
-                ensure_ascii=False,
-                indent=2
-            ) + "\n",
-            encoding="utf-8"
-        )
-
-        print(
-            pessoa,
-            len(resultado),
-            "vagas encontradas"
-        )
-
+            resultado.append({k: v for k, v in vaga.items() if k != "pessoa"})
+        (D / (pessoa + ".json")).write_text(json.dumps({"jobs": resultado}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print(pessoa, len(resultado), "vagas")
 
 if __name__ == "__main__":
-    processar()
+    executar()
