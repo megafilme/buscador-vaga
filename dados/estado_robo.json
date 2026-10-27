@@ -34,6 +34,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-secretaria-executiva-sefe-sistema-educacional-familia-e-escola-ltda-fk4an3hx": {
+      "visto": "2026-10-27",
+      "fonte": "freehire",
+      "score": 35,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "api-secretaria-executiva-sefe-sistema-educacional-familia-e-escola-ltda-fk4an3hx",
+        "name": "SEFE - SISTEMA EDUCACIONAL FAMILIA E ESCOLA LTDA",
+        "role": "Secretária Executiva",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://editoraopet.vagas.solides.com.br/vaga/943241?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-administrativo-comercial-rhf-talentos-7lazsorj": {
       "visto": "2026-10-27",
       "fonte": "freehire",
@@ -1294,6 +1311,23 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12791449": {
+      "visto": "2026-10-27",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12791449",
+        "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
+        "role": "AUXILIAR DE ENFERMAGEM | PR",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI3OTE0NDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12533896": {
       "visto": "2026-10-27",
       "fonte": "gupy",
@@ -1306,23 +1340,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://hospitaluniversitariocajuru.gupy.io/job/eyJqb2JJZCI6MTI1MzM4OTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12491208": {
-      "visto": "2026-10-27",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12491208",
-        "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
-        "role": "AUXILIAR DE ENFERMAGEM | PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI0OTEyMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -1498,6 +1515,23 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12790504": {
+      "visto": "2026-10-27",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "gupy-12790504",
+        "name": "CLAMED Lojas",
+        "role": "(PP) Atendente de Farmácia - CENTRO | PINHAIS/PR",
+        "area": "Pinhais, Paraná",
+        "zone": "pinhais",
+        "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3OTA1MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12648072": {
       "visto": "2026-10-27",
       "fonte": "gupy",
@@ -1527,23 +1561,6 @@
         "area": "Pinhais, Paraná",
         "zone": "pinhais",
         "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDc0MTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12505027": {
-      "visto": "2026-10-27",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "gupy-12505027",
-        "name": "CLAMED Lojas",
-        "role": "(PP) Atendente de Farmácia - CENTRO | PINHAIS/PR",
-        "area": "Pinhais, Paraná",
-        "zone": "pinhais",
-        "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI1MDUwMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
