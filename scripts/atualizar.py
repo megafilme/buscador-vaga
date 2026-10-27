@@ -94,3 +94,52 @@ def executar():
                 continue
             for vaga in encontrados:
                 if not isinstance(vaga, dict) or vaga.get("closed_at"):
+                    continue
+                titulo = str(vaga.get("title") or "")
+                local = normalizar(" ".join([str(vaga.get("location") or "")] + [str(x) for x in vaga.get("cities", [])]))
+                if not cargo_valido(pessoa, titulo, str(vaga.get("company") or "")):
+                    continue
+                if not cidade_valida(vaga.get("location") or "", pessoa, titulo, str(vaga.get("company") or "")):
+                    continue
+                if vaga.get("countries") and not any(normalizar(x) == "br" for x in vaga["countries"]):
+                    continue
+                link = str(vaga.get("apply_url") or vaga.get("url") or "")
+                if not link.startswith("https://"):
+                    continue
+                uid = str(vaga.get("public_slug") or hashlib.sha256(link.encode()).hexdigest()[:16])
+                itens.append({
+                    "pessoa": pessoa, "id": "api-" + uid,
+                    "name": str(vaga.get("company") or "Empresa não informada"),
+                    "role": titulo, "area": str(vaga.get("location") or cidade),
+                    "zone": ("curitiba" if normalizar(vaga.get("location") or "").startswith("curitiba") else "sjp") if pessoa == "beatriz" else ("pinhais" if normalizar(vaga.get("location") or "").split(",")[0].strip() == "pinhais" else "curitiba"),
+                    "source": link, "wa": "", "email": "",
+                    "info": ("Localização exata da escola NÃO confirmada. Priorizar apenas vagas próximas à Colônia Rio Grande; verificar endereço antes de candidatar-se. " if pessoa == "beatriz" and not enfermagem_infantil(titulo, str(vaga.get("company") or "")) else "") + "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
+                })
+    if not any(sucessos.values()):
+        raise RuntimeError("Nenhuma consulta à API funcionou; arquivos existentes foram preservados.")
+    for pessoa in CONSULTAS:
+        resultado, vistos = [], set()
+        for vaga in itens:
+            if not isinstance(vaga, dict) or str(vaga.get("pessoa", "")).lower() != pessoa:
+                continue
+            if not all(vaga.get(k) for k in ("id", "name", "role", "area", "source")):
+                continue
+            if not str(vaga["source"]).startswith("https://"):
+                continue
+            if not cidade_valida(vaga["area"], pessoa, vaga["role"], vaga["name"]):
+                continue
+            if not cargo_valido(pessoa, vaga["role"], vaga["name"]):
+                continue
+            if vaga["id"] in vistos:
+                continue
+            vistos.add(vaga["id"])
+            resultado.append({k: v for k, v in vaga.items() if k != "pessoa"})
+        if not sucessos[pessoa]:
+            print(pessoa, "API indisponível; arquivo preservado")
+            continue
+        resultado.sort(key=lambda v: (0 if pessoa == "beatriz" and not enfermagem_infantil(v["role"], v["name"]) else 1, v["role"].lower()))
+        (D / (pessoa + ".json")).write_text(json.dumps({"jobs": resultado}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        print(pessoa, len(resultado), "vagas")
+
+if __name__ == "__main__":
+    executar()
