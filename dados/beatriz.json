@@ -1,6 +1,72 @@
 {
   "jobs": [
     {
+      "id": "gupy-12394742",
+      "name": "Elite",
+      "role": "Inspetor Escolar | Elite - São José dos Pinhais - Centro",
+      "area": "São José dos Pinhais, Paraná",
+      "zone": "sjp",
+      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTIzOTQ3NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12776473",
+      "name": "Elite",
+      "role": "Inspetor Escolar | Elite - SJP AFONSO PENA",
+      "area": "São José dos Pinhais, Paraná",
+      "zone": "sjp",
+      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI3NzY0NzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12684591",
+      "name": "Colégio Everest Internacional Curitiba",
+      "role": "Auxiliar de professor - Banco de talentos",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://colegioeverestcuritiba.gupy.io/job/eyJqb2JJZCI6MTI2ODQ1OTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-professor-de-apoio-educacional-especializado-paee-colegio-estadual-jorge-q-netto",
+      "name": "Tom Educação",
+      "role": "Professor de Apoio Educacional Especializado (PAEE) | Colégio Estadual Jorge Q. Netto",
+      "area": "PIRAI DO SUL, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://tomeducacao.gupy.io/jobs/12683769?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-professor-a-regente-educacao-infantil-banco-de-talentos-grupo-positivo-7kk5nd2c",
+      "name": "Grupo Positivo",
+      "role": "PROFESSOR (A) REGENTE EDUCAÇÃO INFANTIL - BANCO DE TALENTOS",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://colegiopositivo.gupy.io/jobs/12684017?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12684017",
+      "name": "Colégio Positivo",
+      "role": "PROFESSOR (A) REGENTE EDUCAÇÃO INFANTIL - BANCO DE TALENTOS",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://colegiopositivo.gupy.io/job/eyJqb2JJZCI6MTI2ODQwMTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy",
       "name": "Dasa",
       "role": "Técnico(a) de Enfermagem – Coleta, Vacinação e Teste do Pezinho",
@@ -10,6 +76,39 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12692329",
+      "name": "hapvidandi (Gupy)",
+      "role": "TECNICO ENFERMAGEM HOSPITALAR - UTI PEDIATRICA - HOSPITAL ONIX BATEL PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2OTIzMjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12692506",
+      "name": "Grupo Positivo",
+      "role": "INSPETOR(A) ESCOLAR | ÁGUA VERDE",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI2OTI1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12619662",
+      "name": "Elite",
+      "role": "Inspetor Escolar | Elite - Curitiba Novo Mundo",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI2MTk2NjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po",
@@ -43,6 +142,50 @@
       "wa": "",
       "email": "",
       "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo",
+      "name": "BM VAGAS",
+      "role": "AUXILIAR ADMINISTRATIVO ESCOLA INFANTIL",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3830562?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12469014",
+      "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
+      "role": "TÉCNICO DE ENFERMAGEM AMBULATORIAL | PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI0NjkwMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Foco infantil citado só na descrição; confirme o setor. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-assistente-administrativo-cruzeiro-do-sul-educacional-s-a-4r3fcad4",
+      "name": "Cruzeiro do Sul Educacional S/A",
+      "role": "ASSISTENTE ADMINISTRATIVO",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://up.gupy.io/jobs/12733985?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-auxiliar-administrativo-comercial-rhf-talentos-7lazsorj",
+      "name": "Rhf talentos",
+      "role": "Auxiliar Administrativo Comercial",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11916825?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     }
   ]
 }

@@ -1,8 +1,63 @@
 {
   "jobs": [
     {
+      "id": "gupy-12647061",
+      "name": "RD Saúde - Farmácias",
+      "role": "Atendente de Farmácia - Curitiba",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDcwNjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12648068",
+      "name": "RD Saúde - Farmácias",
+      "role": "Atendente de Farmácia - Curitiba (Vaga Exclusiva para Pessoas com Deficiência)",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDgwNjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12647419",
+      "name": "RD Saúde - Farmácias",
+      "role": "Atendente de Farmácia - Pinhais",
+      "area": "Pinhais, Paraná",
+      "zone": "pinhais",
+      "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDc0MTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12648072",
+      "name": "RD Saúde - Farmácias",
+      "role": "Atendente de Farmácia - Pinhais (Vaga Exclusiva para Pessoas com Deficiência)",
+      "area": "Pinhais, Paraná",
+      "zone": "pinhais",
+      "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDgwNzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12713730",
+      "name": "CLAMED Lojas",
+      "role": "Atendente de Farmácia Pivô - Curitiba e Região Metropolitana",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3MTM3MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-auxiliar-de-enfermagem-hospitalar-centro-cirurgico-hospital-onix-batel-pr-pagina",
-      "name": "Página de Carreira",
+      "name": "hapvidandi (Gupy)",
       "role": "AUXILIAR DE ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL ONIX BATEL PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
@@ -13,7 +68,7 @@
     },
     {
       "id": "api-auxiliar-de-enfermagem-hospitalar-centro-cirurgico-hospital-onix-mateus-leme-pr-",
-      "name": "Página de Carreira",
+      "name": "hapvidandi (Gupy)",
       "role": "AUXILIAR DE ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL ONIX MATEUS LEME PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
@@ -24,7 +79,7 @@
     },
     {
       "id": "api-auxiliar-de-enfermagem-hospitalar-pronto-socorro-hospital-onix-mateus-leme-pr-pa",
-      "name": "Página de Carreira",
+      "name": "hapvidandi (Gupy)",
       "role": "AUXILIAR DE ENFERMAGEM HOSPITALAR - PRONTO SOCORRO - HOSPITAL ONIX MATEUS LEME PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
@@ -35,7 +90,7 @@
     },
     {
       "id": "api-auxiliar-de-enfermagem-pr-pagina-de-carreira-ssqcxeaf",
-      "name": "Página de Carreira",
+      "name": "hapvidanditea (Gupy)",
       "role": "AUXILIAR DE ENFERMAGEM | PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
@@ -43,6 +98,28 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12491208",
+      "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
+      "role": "AUXILIAR DE ENFERMAGEM | PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI0OTEyMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12729321",
+      "name": "Carreiras Pilar Hospital",
+      "role": "Auxiliar de Farmácia / Pilar Hospital",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3MjkzMjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-auxiliar-de-laboratorio-farmacia-de-manipulacao-rhf-talentos-curitiba-reboucas-p",
@@ -56,6 +133,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12492021",
+      "name": "CLAMED Lojas",
+      "role": "(DC) Atendente de Farmácia - Centro | Curitiba/PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI0OTIwMjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-pessoa-auxiliar-de-enfermagem-fluxista-grupo-marista-a2tosdtg",
       "name": "Grupo Marista",
       "role": "Pessoa Auxiliar de Enfermagem Fluxista",
@@ -65,6 +153,127 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12533896",
+      "name": "Hospital Universitário Cajuru",
+      "role": "Pessoa Auxiliar de Enfermagem Fluxista",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitaluniversitariocajuru.gupy.io/job/eyJqb2JJZCI6MTI1MzM4OTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12581416",
+      "name": "Hospital São Marcelino Champagnat",
+      "role": "Pessoa Técnica de Enfermagem | Centro Cirúrgico Hemodinâmica | HSMC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI1ODE0MTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12655428",
+      "name": "Hospital São Marcelino Champagnat",
+      "role": "Pessoa Técnica de Enfermagem | Centro Cirúrgico Vídeo | HSMC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI2NTU0MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12721009",
+      "name": "Hospital São Marcelino Champagnat",
+      "role": "Pessoa Técnica de Enfermagem | HSMC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI3MjEwMDksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12721592",
+      "name": "Hospital Universitário Cajuru",
+      "role": "Pessoa Técnica de Enfermagem | HUC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitaluniversitariocajuru.gupy.io/job/eyJqb2JJZCI6MTI3MjE1OTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12378552",
+      "name": "Hospital Universitário Cajuru",
+      "role": "Pessoa Técnica de Enfermagem Multissetorial | Vaga afirmativa para profissionais 50+",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitaluniversitariocajuru.gupy.io/job/eyJqb2JJZCI6MTIzNzg1NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12584738",
+      "name": "Hospital São Marcelino Champagnat",
+      "role": "Pessoa Técnica de Enfermagem | Unidade de Internação | HSMC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI1ODQ3MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12584524",
+      "name": "Hospital Universitário Cajuru",
+      "role": "Pessoa Técnica de Enfermagem | Unidade de Internação | HUC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitaluniversitariocajuru.gupy.io/job/eyJqb2JJZCI6MTI1ODQ1MjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12375880",
+      "name": "Hospital Universitário Cajuru",
+      "role": "Pessoa Técnica de Enfermagem | UTI | HUC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitaluniversitariocajuru.gupy.io/job/eyJqb2JJZCI6MTIzNzU4ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12766821",
+      "name": "Hospital Universitário Cajuru",
+      "role": "Pessoa Técnica de Enfermagem | Vaga exclusiva para pessoas com deficiência e reabilitados do INSS | HUC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitaluniversitariocajuru.gupy.io/job/eyJqb2JJZCI6MTI3NjY4MjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12707597",
+      "name": "Hospital São Marcelino Champagnat",
+      "role": "Pessoa Técnica de Enfermagem | Volante | HSMC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI3MDc1OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-pessoa-tecnico-de-enfermagem-internacao-manha-tarde-hospital-marcelino-champagna",
@@ -78,6 +287,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12518228",
+      "name": "Hospital São Marcelino Champagnat",
+      "role": "Pessoa Técnico de Enfermagem Internação - Manhã/Tarde | Hospital Marcelino Champagnat",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI1MTgyMjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-pessoa-tecnico-de-enfermagem-internacao-tarde-noite-hospital-marcelino-champagna",
       "name": "Grupo Marista",
       "role": "Pessoa Técnico de Enfermagem Internação - Tarde/Noite | Hospital Marcelino Champagnat",
@@ -87,6 +307,39 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12479298",
+      "name": "Hospital São Marcelino Champagnat",
+      "role": "Pessoa Técnico de Enfermagem Internação - Tarde/Noite | Hospital Marcelino Champagnat",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI0NzkyOTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12505027",
+      "name": "CLAMED Lojas",
+      "role": "(PP) Atendente de Farmácia - CENTRO | PINHAIS/PR",
+      "area": "Pinhais, Paraná",
+      "zone": "pinhais",
+      "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI1MDUwMjcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12762513",
+      "name": "CLAMED Lojas",
+      "role": "(PP) Atendente de Farmácia - Centro | São José dos Pinhais/PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3NjI1MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2",
@@ -133,17 +386,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-curitiba-laboratorio-vetex-cyhubyu6",
-      "name": "Laboratório Vetex",
-      "role": "Recepcionista Curitiba",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://laboratoriovetex.pandape.infojobs.com.br/Detail/3779995?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx",
       "name": "Hospital Pequeno Príncipe",
       "role": "Recepcionista I",
@@ -166,6 +408,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12745012",
+      "name": "Carreiras Pilar Hospital",
+      "role": "Recepcionista / Pilar Hospital",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3NDUwMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-recepcionista-recepcao-central-hospital-inc-vjhd5a4y",
       "name": "Hospital INC",
       "role": "Recepcionista – Recepção Central",
@@ -175,6 +428,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12469014",
+      "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
+      "role": "TÉCNICO DE ENFERMAGEM AMBULATORIAL | PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI0NjkwMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-de-enfermagem-cme-hospital-santa-cruz-rede-d-or-vbh2lgck",
@@ -197,6 +461,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12725985",
+      "name": "Nina Saúde",
+      "role": "Técnico(a) de Enfermagem - Curitiba, PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://ninasaude.gupy.io/job/eyJqb2JJZCI6MTI3MjU5ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-de-enfermagem-do-trabalho-rh-genoma-ltda-54e4ilmt",
@@ -230,6 +505,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12453308",
+      "name": "Nina Saúde",
+      "role": "Técnico(a) de Enfermagem (em imunização) - Curitiba, PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://ninasaude.gupy.io/job/eyJqb2JJZCI6MTI0NTMzMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-de-enfermagem-infusao-rh-center-trabalho-temporario-ltda-zfujdzc2",
@@ -287,6 +573,105 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12589299",
+      "name": "Carreiras Pilar Hospital",
+      "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI1ODkyOTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12622376",
+      "name": "Serviços Assistenciais aos Pacientes",
+      "role": "Técnico Enfermagem Crônico",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://servicosassistenciais.gupy.io/job/eyJqb2JJZCI6MTI2MjIzNzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12687672",
+      "name": "hapvidandi (Gupy)",
+      "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL ONIX MATEUS LEME PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODc2NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12687588",
+      "name": "hapvidandi (Gupy)",
+      "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL SANTA BRIGIDA PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODc1ODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12771506",
+      "name": "hapvidandi (Gupy)",
+      "role": "TECNICO ENFERMAGEM HOSPITALAR - CLINICA MÉDICA - HOSPITAL ONIX MATEUS LEME PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI3NzE1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12692404",
+      "name": "hapvidandi (Gupy)",
+      "role": "TECNICO ENFERMAGEM HOSPITALAR - CME - HOSPITAL ONIX BATEL PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2OTI0MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12686904",
+      "name": "hapvidandi (Gupy)",
+      "role": "TECNICO ENFERMAGEM HOSPITALAR - PRONTO SOCORRO ADULTO - HOSPITAL ONIX MATEUS LEME PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODY5MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12686814",
+      "name": "hapvidandi (Gupy)",
+      "role": "TECNICO ENFERMAGEM HOSPITALAR - PRONTO SOCORRO ADULTO - HOSPITAL SANTA BRIGIDA PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODY4MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12692329",
+      "name": "hapvidandi (Gupy)",
+      "role": "TECNICO ENFERMAGEM HOSPITALAR - UTI PEDIATRICA - HOSPITAL ONIX BATEL PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2OTIzMjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-recepcionista-agilidade-gestao-de-pessoas-e-solucoes-22hxrrar",
       "name": "Agilidade gestão de pessoas e soluções",
       "role": "Recepcionista",
@@ -342,8 +727,19 @@
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-recepcionista-acrisure-c4tfx2hk",
+      "name": "Acrisure",
+      "role": "Recepcionista",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://segurosconfidencial.gupy.io/jobs/12395414?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-recepcionista-curitiba-pr-confidencial-v7zwen3h",
-      "name": "confidencial",
+      "name": "vivsaude (Gupy)",
       "role": "Recepcionista | Curitiba - PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
@@ -370,6 +766,17 @@
       "area": "Pinhais, PR",
       "zone": "pinhais",
       "source": "https://www.empregos.com.br/vaga/11952661?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-secretaria-recepcionista-radar-gestao-para-advogados-ubzvbt3v",
+      "name": "Radar - Gestão para Advogados",
+      "role": "SECRETÁRIA/RECEPCIONISTA",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://radardagestao.pandape.infojobs.com.br/Detail/3720451?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
