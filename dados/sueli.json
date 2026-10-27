@@ -144,6 +144,17 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12375018",
+      "name": "Hospital São Marcelino Champagnat",
+      "role": "Pessoa Auxiliar de Enfermagem | Centro Cirúrgico | HSMC",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTIzNzUwMTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-pessoa-auxiliar-de-enfermagem-fluxista-grupo-marista-a2tosdtg",
       "name": "Grupo Marista",
       "role": "Pessoa Auxiliar de Enfermagem Fluxista",
@@ -333,13 +344,24 @@
     {
       "id": "gupy-12762513",
       "name": "CLAMED Lojas",
-      "role": "(PP) Atendente de Farmácia - Centro | São José dos Pinhais/PR",
+      "role": "(PP) Atendente de Farmácia - Centro | São José dos Pinhais/PR - Exclusivo para Pessoas com Deficiência",
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
       "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3NjI1MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-recepcionista-hospital-costantini-ho2emgi5",
+      "name": "Hospital Costantini",
+      "role": "Recepcionista",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11966009?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2",

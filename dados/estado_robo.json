@@ -51,6 +51,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-auxiliar-administrativo-gc-talentos-dwpgq2wb": {
+      "visto": "2026-10-27",
+      "fonte": "freehire",
+      "score": 20,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "api-auxiliar-administrativo-gc-talentos-dwpgq2wb",
+        "name": "GC Talentos",
+        "role": "Auxiliar Administrativo",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/11964937?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-administrativo-comercial-rhf-talentos-7lazsorj": {
       "visto": "2026-10-27",
       "fonte": "freehire",
@@ -694,6 +711,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://glassessantanacosta.pandape.infojobs.com.br/Detail/3783364?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-hospital-costantini-ho2emgi5": {
+      "visto": "2026-10-27",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-hospital-costantini-ho2emgi5",
+        "name": "Hospital Costantini",
+        "role": "Recepcionista",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/11966009?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1345,6 +1379,23 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12375018": {
+      "visto": "2026-10-27",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12375018",
+        "name": "Hospital São Marcelino Champagnat",
+        "role": "Pessoa Auxiliar de Enfermagem | Centro Cirúrgico | HSMC",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTIzNzUwMTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12729321": {
       "visto": "2026-10-27",
       "fonte": "gupy",
@@ -1370,7 +1421,7 @@
       "vaga": {
         "id": "gupy-12762513",
         "name": "CLAMED Lojas",
-        "role": "(PP) Atendente de Farmácia - Centro | São José dos Pinhais/PR",
+        "role": "(PP) Atendente de Farmácia - Centro | São José dos Pinhais/PR - Exclusivo para Pessoas com Deficiência",
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3NjI1MTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
