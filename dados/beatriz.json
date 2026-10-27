@@ -1,6 +1,17 @@
 {
   "jobs": [
     {
+      "id": "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy",
+      "name": "Dasa",
+      "role": "Técnico(a) de Enfermagem – Coleta, Vacinação e Teste do Pezinho",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://dasa.pandape.infojobs.com.br/Detail/3831438?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po",
       "name": "HOSPITAL PEQUENO PRÍNCIPE",
       "role": "Técnico de Enfermagem (Eletroencefalograma)",
@@ -9,7 +20,7 @@
       "source": "https://www.vagas.com.br/vagas/v2840318/tecnico-de-enfermagem-eletroencefalograma?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
+      "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-de-enfermagem-setor-ambulatorio-hospital-pequeno-principe-5ftmgsz4",
@@ -20,21 +31,10 @@
       "source": "https://www.vagas.com.br/vagas/v2839919/tecnico-de-enfermagem-setor-ambulatorio?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
+      "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-de-enfermagem-setor-eletro-encefalo-hospital-pequeno-principe-c5wmooyn",
-      "name": "HOSPITAL PEQUENO PRÍNCIPE",
-      "role": "Técnico de Enfermagem - Setor Eletro Encefalo",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://www.vagas.com.br/vagas/v2828993/tecnico-de-enfermagem-setor-eletro-encefalo?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-setor-unidade-de-internacao-hospital-pequeno-principe-2px7mjil",
+      "id": "api-tecnico-de-enfermagem-setor-unidade-de-internacao-hospital-pequeno-principe-2px7",
       "name": "HOSPITAL PEQUENO PRÍNCIPE",
       "role": "Técnico de Enfermagem - Setor Unidade de Internação",
       "area": "Curitiba, PR, Brasil",
@@ -42,73 +42,7 @@
       "source": "https://www.vagas.com.br/vagas/v2839293/tecnico-de-enfermagem-setor-unidade-de-internacao?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-emergencia-pediatrica-santa-cruz-curitiba-rede-d-or-illmixgl",
-      "name": "Rede D'Or",
-      "role": "Técnico de Enfermagem Emergência Pediátrica | Santa Cruz - Curitiba",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://rededor.gupy.io/jobs/12300752?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-maternidade-e-obstetricia-santa-cruz-curitiba-rede-d-or-k3kql6zr",
-      "name": "Rede D'Or",
-      "role": "Técnico de Enfermagem Maternidade e Obstetrícia | Santa Cruz - Curitiba",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://rededor.gupy.io/jobs/12302361?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-uni-pediatrica-santa-cruz-curitiba-rede-d-or-hxwk3xdn",
-      "name": "Rede D'Or",
-      "role": "Técnico de Enfermagem UNI Pediátrica | Santa Cruz - Curitiba",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://rededor.gupy.io/jobs/12301994?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-uti-neonatal-santa-cruz-curitiba-rede-d-or-mpghxjas",
-      "name": "Rede D'Or",
-      "role": "Técnico de Enfermagem UTI Neonatal | Santa Cruz - Curitiba",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://rededor.gupy.io/jobs/12300025?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-uti-pediatrica-santa-cruz-curitiba-rede-d-or-xmbx7yxn",
-      "name": "Rede D'Or",
-      "role": "Técnico de Enfermagem UTI Pediátrica | Santa Cruz - Curitiba",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://rededor.gupy.io/jobs/12300389?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy",
-      "name": "Dasa",
-      "role": "Técnico(a) de Enfermagem – Coleta, Vacinação e Teste do Pezinho",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://dasa.pandape.infojobs.com.br/Detail/3831438?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública. Confira a disponibilidade no anúncio."
+      "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     }
   ]
 }
