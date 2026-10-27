@@ -10,8 +10,8 @@ from html import unescape
 D = Path(__file__).resolve().parents[1] / "dados"
 API = "https://freehire.me/api/v1/jobs/search"
 CONSULTAS = {
-    "beatriz": ([("São José dos Pinhais", x) for x in ("creche", "educação infantil", "auxiliar de professora", "auxiliar de sala", "berçarista", "pedagogia", "secretaria escolar", "secretária escolar", "auxiliar de secretaria", "recepcionista escolar", "auxiliar administrativo escolar", "auxiliar de desenvolvimento infantil", "atendente infantil")] + [(cidade, x) for cidade in ("Curitiba", "São José dos Pinhais") for x in ("técnico de enfermagem pediatria", "técnico de enfermagem neonatal", "técnico de enfermagem pequeno príncipe", "técnico de enfermagem teste do pezinho", "técnico de enfermagem")]),
-    "sueli": [(cidade, cargo) for cidade in ("Curitiba", "Pinhais") for cargo in ("técnico de enfermagem", "auxiliar de enfermagem", "auxiliar de farmácia", "atendente de farmácia", "recepcionista clínica", "recepcionista hospital")],
+    "beatriz": ([("São José dos Pinhais", x) for x in ("creche", "educação infantil", "auxiliar de professora", "auxiliar de sala", "berçarista", "pedagogia", "secretaria escolar", "secretária escolar", "auxiliar de secretaria", "recepcionista escolar", "auxiliar administrativo escolar", "auxiliar de desenvolvimento infantil", "atendente infantil", "monitor de creche", "auxiliar pedagógico", "assistente de educação infantil")] + [(cidade, x) for cidade in ("Curitiba", "São José dos Pinhais") for x in ("técnico de enfermagem pediatria", "técnico de enfermagem neonatal", "técnico de enfermagem pequeno príncipe", "técnico de enfermagem teste do pezinho", "técnico de enfermagem")]),
+    "sueli": [(cidade, cargo) for cidade in ("Curitiba", "Pinhais") for cargo in ("técnico de enfermagem", "auxiliar de enfermagem", "auxiliar de farmácia", "atendente de farmácia", "recepcionista clínica", "recepcionista hospital", "farmácia", "balconista de farmácia", "recepcionista laboratório")],
 }
 def normalizar(s):
     return "".join(c for c in unicodedata.normalize("NFKD", str(s or "").lower())
@@ -53,7 +53,7 @@ def cargo_valido(pessoa, titulo, empresa=""):
             "bercarista", "bercario", "recreadora infantil", "recreador infantil",
             "educadora infantil", "educador infantil", "pedagoga infantil",
             "pedagogo infantil", "atendente de creche", "monitor infantil",
-            "monitora infantil", "auxiliar de desenvolvimento infantil", "atendente infantil", "secretaria escolar", "secretario escolar", "secretaria de escola", "secretario de escola", "auxiliar de secretaria", "recepcionista escolar", "recepcionista de escola", "auxiliar administrativo escolar", "assistente administrativo escolar", "assistente de secretaria escolar"))
+            "monitora infantil", "auxiliar de desenvolvimento infantil", "atendente infantil", "secretaria escolar", "secretario escolar", "secretaria de escola", "secretario de escola", "auxiliar de secretaria", "recepcionista escolar", "recepcionista de escola", "auxiliar administrativo escolar", "assistente administrativo escolar", "assistente de secretaria escolar", "monitor de creche", "auxiliar pedagogico", "assistente de educacao infantil"))
     if "enfermagem" in t:
         return any(x in t for x in ("tecnic", "auxiliar de enfermagem"))
     if "farmac" in t:
