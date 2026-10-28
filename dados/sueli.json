@@ -177,6 +177,17 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12799600",
+      "name": "Grupo Marista",
+      "role": "Pessoa Técnica de Enfermagem",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://pucpr.gupy.io/job/eyJqb2JJZCI6MTI3OTk2MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12581416",
       "name": "Hospital São Marcelino Champagnat",
       "role": "Pessoa Técnica de Enfermagem | Centro Cirúrgico Hemodinâmica | HSMC",
@@ -331,12 +342,23 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12795580",
+      "id": "api-pp-atendente-de-farmacia-capao-raso-curitiba-pr-clamed-lojas-jiypisms",
       "name": "CLAMED Lojas",
       "role": "(PP) Atendente de Farmácia - CAPÃO RASO | CURITIBA/PR",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://clamedlojas.gupy.io/jobs/12795580?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12799626",
+      "name": "CLAMED Lojas",
+      "role": "(PP) Atendente de Farmácia - Centro Cívico | Curitiba/PR",
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3OTU1ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3OTk2MjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -518,15 +540,15 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12736932",
+      "id": "api-tecnico-a-de-enfermagem-grupo-positivo-buedta57",
       "name": "Grupo Positivo",
       "role": "TÉCNICO(A) DE ENFERMAGEM",
-      "area": "Curitiba, Paraná",
+      "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI3MzY5MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://positivo.gupy.io/jobs/12736932?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12469014",

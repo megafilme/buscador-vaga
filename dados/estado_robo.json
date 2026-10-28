@@ -580,6 +580,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnico-a-de-enfermagem-grupo-positivo-buedta57": {
+      "visto": "2026-10-28",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-a-de-enfermagem-grupo-positivo-buedta57",
+        "name": "Grupo Positivo",
+        "role": "TÉCNICO(A) DE ENFERMAGEM",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://positivo.gupy.io/jobs/12736932?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy": {
       "visto": "2026-10-28",
       "fonte": "freehire",
@@ -745,6 +762,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://rhfcuritibacentroreboucas.pandape.infojobs.com.br/Detail/3696525?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-pp-atendente-de-farmacia-capao-raso-curitiba-pr-clamed-lojas-jiypisms": {
+      "visto": "2026-10-28",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-pp-atendente-de-farmacia-capao-raso-curitiba-pr-clamed-lojas-jiypisms",
+        "name": "CLAMED Lojas",
+        "role": "(PP) Atendente de Farmácia - CAPÃO RASO | CURITIBA/PR",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://clamedlojas.gupy.io/jobs/12795580?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1039,18 +1073,18 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "gupy-12736932": {
+    "gupy-12799600": {
       "visto": "2026-10-28",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
       "vaga": {
-        "id": "gupy-12736932",
-        "name": "Grupo Positivo",
-        "role": "TÉCNICO(A) DE ENFERMAGEM",
+        "id": "gupy-12799600",
+        "name": "Grupo Marista",
+        "role": "Pessoa Técnica de Enfermagem",
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
-        "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI3MzY5MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "source": "https://pucpr.gupy.io/job/eyJqb2JJZCI6MTI3OTk2MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -1532,18 +1566,18 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
-    "gupy-12795580": {
+    "gupy-12799626": {
       "visto": "2026-10-28",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
       "vaga": {
-        "id": "gupy-12795580",
+        "id": "gupy-12799626",
         "name": "CLAMED Lojas",
-        "role": "(PP) Atendente de Farmácia - CAPÃO RASO | CURITIBA/PR",
+        "role": "(PP) Atendente de Farmácia - Centro Cívico | Curitiba/PR",
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
-        "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3OTU1ODAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI3OTk2MjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
