@@ -427,6 +427,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnico-de-enfermagem-laboratorio-irmandade-da-santa-casa-de-misericordia-de-cur": {
+      "visto": "2026-10-27",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-laboratorio-irmandade-da-santa-casa-de-misericordia-de-cur",
+        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
+        "role": "Técnico de enfermagem - Laboratório",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3536262?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-de-enfermagem-do-trabalho-rh-genoma-ltda-54e4ilmt": {
       "visto": "2026-10-27",
       "fonte": "freehire",
