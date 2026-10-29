@@ -78,15 +78,26 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12692329",
+      "id": "api-tecnico-enfermagem-hospitalar-uti-pediatrica-hospital-onix-batel-pr-pagina-de-ca",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM HOSPITALAR - UTI PEDIATRICA - HOSPITAL ONIX BATEL PR",
-      "area": "Curitiba, Paraná",
+      "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2OTIzMjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://hapvidandi.gupy.io/jobs/12692329?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-estagio-secretaria-escolar-souza-santos-consultoria-kkfgg3ge",
+      "name": "SOUZA SANTOS CONSULTORIA",
+      "role": "Estágio Secretaria Escolar",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://souzasantosconsultoria.pandape.infojobs.com.br/Detail/3767944?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12692506",
@@ -95,17 +106,6 @@
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
       "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI2OTI1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "gupy-12619662",
-      "name": "Elite",
-      "role": "Inspetor Escolar | Elite - Curitiba Novo Mundo",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI2MTk2NjIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -139,6 +139,17 @@
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
       "source": "https://www.vagas.com.br/vagas/v2839293/tecnico-de-enfermagem-setor-unidade-de-internacao?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-tecnico-de-enfermagem-setor-uti-hospital-pequeno-principe-5xgig573",
+      "name": "HOSPITAL PEQUENO PRÍNCIPE",
+      "role": "Tecnico de Enfermagem - Setor UTI",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://www.vagas.com.br/vagas/v2836980/tecnico-de-enfermagem-setor-uti?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
