@@ -727,6 +727,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12766789",
+      "name": "Carreiras Pilar Hospital",
+      "role": "Técnico de Enfermagem UTI / Pilar Hospital",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3NjY3ODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12622376",
       "name": "Serviços Assistenciais aos Pacientes",
       "role": "Técnico Enfermagem Crônico",
