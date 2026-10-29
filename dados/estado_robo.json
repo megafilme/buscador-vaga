@@ -1,7 +1,7 @@
 {
   "beatriz": {
     "api-professor-a-regente-educacao-infantil-banco-de-talentos-grupo-positivo-7kk5nd2c": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 55,
       "categoria": "Escola / educação infantil",
@@ -18,7 +18,7 @@
       }
     },
     "api-assistente-administrativo-cruzeiro-do-sul-educacional-s-a-4r3fcad4": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 20,
       "categoria": "Escola — recepção/administrativo",
@@ -35,7 +35,7 @@
       }
     },
     "api-secretaria-executiva-sefe-sistema-educacional-familia-e-escola-ltda-fk4an3hx": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 35,
       "categoria": "Escola — recepção/administrativo",
@@ -52,7 +52,7 @@
       }
     },
     "api-auxiliar-administrativo-gc-talentos-dwpgq2wb": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 20,
       "categoria": "Escola — recepção/administrativo",
@@ -68,25 +68,8 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-auxiliar-administrativo-comercial-rhf-talentos-7lazsorj": {
-      "visto": "2026-10-28",
-      "fonte": "freehire",
-      "score": 20,
-      "categoria": "Escola — recepção/administrativo",
-      "vaga": {
-        "id": "api-auxiliar-administrativo-comercial-rhf-talentos-7lazsorj",
-        "name": "Rhf talentos",
-        "role": "Auxiliar Administrativo Comercial",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/11916825?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Escola — recepção/administrativo",
@@ -103,7 +86,7 @@
       }
     },
     "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 45,
       "categoria": "Enfermagem pediátrica/neonatal",
@@ -120,7 +103,7 @@
       }
     },
     "api-tecnico-de-enfermagem-setor-ambulatorio-hospital-pequeno-principe-5ftmgsz4": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 45,
       "categoria": "Enfermagem pediátrica/neonatal",
@@ -137,7 +120,7 @@
       }
     },
     "api-tecnico-de-enfermagem-setor-unidade-de-internacao-hospital-pequeno-principe-2px7": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 45,
       "categoria": "Enfermagem pediátrica/neonatal",
@@ -154,7 +137,7 @@
       }
     },
     "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem pediátrica/neonatal",
@@ -171,7 +154,7 @@
       }
     },
     "gupy-12776473": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 90,
       "categoria": "Escola / educação infantil",
@@ -188,7 +171,7 @@
       }
     },
     "gupy-12394742": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 90,
       "categoria": "Escola / educação infantil",
@@ -205,7 +188,7 @@
       }
     },
     "gupy-12684017": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 55,
       "categoria": "Escola / educação infantil",
@@ -222,7 +205,7 @@
       }
     },
     "gupy-12684591": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 55,
       "categoria": "Escola / educação infantil",
@@ -239,7 +222,7 @@
       }
     },
     "gupy-12692506": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 45,
       "categoria": "Escola / educação infantil",
@@ -256,7 +239,7 @@
       }
     },
     "gupy-12619662": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 45,
       "categoria": "Escola / educação infantil",
@@ -273,7 +256,7 @@
       }
     },
     "gupy-12759090": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 55,
       "categoria": "Escola / educação infantil",
@@ -290,7 +273,7 @@
       }
     },
     "gupy-12736932": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 35,
       "categoria": "Enfermagem pediátrica/neonatal",
@@ -307,7 +290,7 @@
       }
     },
     "gupy-12692329": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem pediátrica/neonatal",
@@ -324,7 +307,7 @@
       }
     },
     "gupy-12469014": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 35,
       "categoria": "Enfermagem pediátrica/neonatal",
@@ -343,7 +326,7 @@
   },
   "sueli": {
     "api-recepcionista-pinhais-pr-pinhais-pr-tcxzax3l": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -360,7 +343,7 @@
       }
     },
     "api-recepcionista-agilidade-gestao-de-pessoas-e-solucoes-22hxrrar": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -377,7 +360,7 @@
       }
     },
     "api-tecnico-de-enfermagem-irmandade-da-santa-casa-de-misericordia-de-curitiba-jozjol": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -394,7 +377,7 @@
       }
     },
     "api-tecnico-de-enfermagem-interliga-solucoes-em-servicos-de-saude-ltda-d6q557vs": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -411,7 +394,7 @@
       }
     },
     "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -428,7 +411,7 @@
       }
     },
     "api-tecnico-de-enfermagem-infusao-rh-center-trabalho-temporario-ltda-zfujdzc2": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -445,7 +428,7 @@
       }
     },
     "api-tecnico-de-enfermagem-infusao-unimed-curitiba-h6myowkz": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -462,7 +445,7 @@
       }
     },
     "api-tecnico-de-enfermagem-setor-ambulatorio-hospital-pequeno-principe-5ftmgsz4": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -479,7 +462,7 @@
       }
     },
     "api-tecnico-de-enfermagem-laboratorio-irmandade-da-santa-casa-de-misericordia-de-cur": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -496,7 +479,7 @@
       }
     },
     "api-tecnico-de-enfermagem-do-trabalho-rh-genoma-ltda-54e4ilmt": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -513,7 +496,7 @@
       }
     },
     "api-tecnico-de-enfermagem-setor-unidade-de-internacao-hospital-pequeno-principe-2px7": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -530,7 +513,7 @@
       }
     },
     "api-tecnico-de-enfermagem-uti-irmandade-da-santa-casa-de-misericordia-de-curitiba-hy": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -547,7 +530,7 @@
       }
     },
     "api-tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -564,7 +547,7 @@
       }
     },
     "api-tecnico-de-enfermagem-cme-hospital-santa-cruz-rede-d-or-vbh2lgck": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -581,7 +564,7 @@
       }
     },
     "api-tecnico-a-de-enfermagem-grupo-positivo-buedta57": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -598,7 +581,7 @@
       }
     },
     "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -615,7 +598,7 @@
       }
     },
     "api-tecnico-a-de-enfermagem-do-trabalho-concentrix-brasil-tr7x556k": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -632,7 +615,7 @@
       }
     },
     "api-pessoa-tecnico-de-enfermagem-internacao-manha-tarde-hospital-marcelino-champagna": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -649,7 +632,7 @@
       }
     },
     "api-pessoa-tecnico-de-enfermagem-internacao-tarde-noite-hospital-marcelino-champagna": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -666,7 +649,7 @@
       }
     },
     "api-auxiliar-de-enfermagem-hospitalar-centro-cirurgico-hospital-onix-batel-pr-pagina": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -683,7 +666,7 @@
       }
     },
     "api-auxiliar-de-enfermagem-hospitalar-pronto-socorro-hospital-onix-mateus-leme-pr-pa": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -700,7 +683,7 @@
       }
     },
     "api-auxiliar-de-enfermagem-hospitalar-centro-cirurgico-hospital-onix-mateus-leme-pr-": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -717,7 +700,7 @@
       }
     },
     "api-auxiliar-de-enfermagem-pr-pagina-de-carreira-ssqcxeaf": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -734,7 +717,7 @@
       }
     },
     "api-pessoa-auxiliar-de-enfermagem-fluxista-grupo-marista-a2tosdtg": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
@@ -751,7 +734,7 @@
       }
     },
     "api-auxiliar-de-laboratorio-farmacia-de-manipulacao-rhf-talentos-curitiba-reboucas-p": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Farmácia",
@@ -768,7 +751,7 @@
       }
     },
     "api-pp-atendente-de-farmacia-centro-civico-curitiba-pr-clamed-lojas-lbyg6pvp": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Farmácia",
@@ -785,7 +768,7 @@
       }
     },
     "api-pp-atendente-de-farmacia-capao-raso-curitiba-pr-clamed-lojas-jiypisms": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Farmácia",
@@ -802,7 +785,7 @@
       }
     },
     "api-recepcionista-comercial-clinica-estetica-glasses-santana-costa-w5prip5e": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -819,7 +802,7 @@
       }
     },
     "api-recepcionista-comercial-clinica-de-cirurgia-estetica-glasses-santana-costa-nxwxa": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -836,7 +819,7 @@
       }
     },
     "api-recepcionista-comercial-de-clinica-de-cirurgia-plastica-glasses-santana-costa-gb": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -853,7 +836,7 @@
       }
     },
     "api-recepcionista-hospital-costantini-ho2emgi5": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -870,7 +853,7 @@
       }
     },
     "api-recepcionista-adecco-6lvgotti": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -887,7 +870,7 @@
       }
     },
     "api-recepcionista-gd9-rh-fjnjayzt": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -904,7 +887,7 @@
       }
     },
     "api-recepcionista-rh-curitiba-57qyw6sz": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -921,7 +904,7 @@
       }
     },
     "api-recepcionista-the-foursales-company-2d5iak2h": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -938,7 +921,7 @@
       }
     },
     "api-recepcionista-acrisure-c4tfx2hk": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -955,7 +938,7 @@
       }
     },
     "api-recepcionista-pilar-hospital-carreiras-vera-cruz-hospital-lkgdrt22": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -972,7 +955,7 @@
       }
     },
     "api-recepcionista-curitiba-pr-confidencial-v7zwen3h": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -989,7 +972,7 @@
       }
     },
     "api-recepcionista-recepcao-central-hospital-inc-vjhd5a4y": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -1006,7 +989,7 @@
       }
     },
     "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -1023,7 +1006,7 @@
       }
     },
     "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -1040,7 +1023,7 @@
       }
     },
     "api-recepcionista-ambulatorial-hapvida-notredame-intermedica-gchfv3au": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -1057,7 +1040,7 @@
       }
     },
     "api-recepcionista-parana-rede-americas-uth7tjhv": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -1074,7 +1057,7 @@
       }
     },
     "api-secretaria-recepcionista-radar-gestao-para-advogados-ubzvbt3v": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "freehire",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -1091,7 +1074,7 @@
       }
     },
     "gupy-12799600": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1108,7 +1091,7 @@
       }
     },
     "gupy-12771506": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1125,7 +1108,7 @@
       }
     },
     "gupy-12766821": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1142,7 +1125,7 @@
       }
     },
     "gupy-12725985": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1159,7 +1142,7 @@
       }
     },
     "gupy-12721592": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1176,7 +1159,7 @@
       }
     },
     "gupy-12721009": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1193,7 +1176,7 @@
       }
     },
     "gupy-12707597": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1210,7 +1193,7 @@
       }
     },
     "gupy-12622376": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1227,7 +1210,7 @@
       }
     },
     "gupy-12692404": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1244,7 +1227,7 @@
       }
     },
     "gupy-12692329": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1261,7 +1244,7 @@
       }
     },
     "gupy-12687672": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1278,7 +1261,7 @@
       }
     },
     "gupy-12687588": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1295,7 +1278,7 @@
       }
     },
     "gupy-12686904": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1312,7 +1295,7 @@
       }
     },
     "gupy-12686814": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1329,7 +1312,7 @@
       }
     },
     "gupy-12655428": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1346,7 +1329,7 @@
       }
     },
     "gupy-12589299": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1363,7 +1346,7 @@
       }
     },
     "gupy-12584738": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1380,7 +1363,7 @@
       }
     },
     "gupy-12584524": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1397,7 +1380,7 @@
       }
     },
     "gupy-12581416": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1414,7 +1397,7 @@
       }
     },
     "gupy-12518228": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1431,7 +1414,7 @@
       }
     },
     "gupy-12479298": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1448,7 +1431,7 @@
       }
     },
     "gupy-12469014": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1465,7 +1448,7 @@
       }
     },
     "gupy-12453308": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1482,7 +1465,7 @@
       }
     },
     "gupy-12378552": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1499,7 +1482,7 @@
       }
     },
     "gupy-12375880": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1516,7 +1499,7 @@
       }
     },
     "gupy-12791449": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1533,7 +1516,7 @@
       }
     },
     "gupy-12533896": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1550,7 +1533,7 @@
       }
     },
     "gupy-12375018": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Enfermagem",
@@ -1567,7 +1550,7 @@
       }
     },
     "gupy-12729321": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
@@ -1584,7 +1567,7 @@
       }
     },
     "gupy-12762513": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
@@ -1601,7 +1584,7 @@
       }
     },
     "gupy-12713730": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
@@ -1618,7 +1601,7 @@
       }
     },
     "gupy-12648068": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
@@ -1635,7 +1618,7 @@
       }
     },
     "gupy-12647061": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
@@ -1652,7 +1635,7 @@
       }
     },
     "gupy-12492021": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
@@ -1669,7 +1652,7 @@
       }
     },
     "gupy-12745012": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -1686,7 +1669,7 @@
       }
     },
     "gupy-12691904": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 40,
       "categoria": "Recepção saúde",
@@ -1703,7 +1686,7 @@
       }
     },
     "gupy-12675389": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -1720,7 +1703,7 @@
       }
     },
     "gupy-12488652": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Recepção saúde",
@@ -1737,7 +1720,7 @@
       }
     },
     "gupy-12790504": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
@@ -1754,7 +1737,7 @@
       }
     },
     "gupy-12648072": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
@@ -1771,7 +1754,7 @@
       }
     },
     "gupy-12647419": {
-      "visto": "2026-10-28",
+      "visto": "2026-10-29",
       "fonte": "gupy",
       "score": 50,
       "categoria": "Farmácia",
