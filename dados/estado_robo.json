@@ -43,7 +43,7 @@
         "id": "api-secretaria-executiva-sefe-sistema-educacional-familia-e-escola-ltda-fk4an3hx",
         "name": "SEFE - SISTEMA EDUCACIONAL FAMILIA E ESCOLA LTDA",
         "role": "Secretária Executiva",
-        "area": "Curitiba, PR",
+        "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://editoraopet.vagas.solides.com.br/vaga/943241?utm_source=freehire.me",
         "wa": "",
@@ -68,23 +68,6 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo": {
-      "visto": "2026-10-30",
-      "fonte": "freehire",
-      "score": 40,
-      "categoria": "Escola — recepção/administrativo",
-      "vaga": {
-        "id": "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo",
-        "name": "BM VAGAS",
-        "role": "AUXILIAR ADMINISTRATIVO ESCOLA INFANTIL",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3830562?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-estagio-secretaria-escolar-souza-santos-consultoria-kkfgg3ge": {
       "visto": "2026-10-30",
       "fonte": "freehire",
@@ -97,6 +80,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://souzasantosconsultoria.pandape.infojobs.com.br/Detail/3767944?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo": {
+      "visto": "2026-10-30",
+      "fonte": "freehire",
+      "score": 40,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo",
+        "name": "BM VAGAS",
+        "role": "AUXILIAR ADMINISTRATIVO ESCOLA INFANTIL",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3830562?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1204,6 +1204,23 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://clamedlojas.gupy.io/jobs/12795580?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-clinica-de-alto-padrao-instituto-giorgio-baretta-dk2iu6ir": {
+      "visto": "2026-10-30",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-clinica-de-alto-padrao-instituto-giorgio-baretta-dk2iu6ir",
+        "name": "Instituto Giorgio Baretta",
+        "role": "Recepcionista | Clínica de Alto Padrão",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://www.catho.com.br/vagas/recepcionista-clinica-de-alto-padrao/39042848/?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
