@@ -68,23 +68,6 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo": {
-      "visto": "2026-10-29",
-      "fonte": "freehire",
-      "score": 40,
-      "categoria": "Escola — recepção/administrativo",
-      "vaga": {
-        "id": "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo",
-        "name": "BM VAGAS",
-        "role": "AUXILIAR ADMINISTRATIVO ESCOLA INFANTIL",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3830562?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-estagio-secretaria-escolar-souza-santos-consultoria-kkfgg3ge": {
       "visto": "2026-10-29",
       "fonte": "freehire",
@@ -97,6 +80,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://souzasantosconsultoria.pandape.infojobs.com.br/Detail/3767944?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo": {
+      "visto": "2026-10-29",
+      "fonte": "freehire",
+      "score": 40,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo",
+        "name": "BM VAGAS",
+        "role": "AUXILIAR ADMINISTRATIVO ESCOLA INFANTIL",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3830562?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -427,6 +427,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-": {
+      "visto": "2026-10-29",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-",
+        "name": "Carreiras Vera Cruz Hospital",
+        "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/jobs/12745884?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po": {
       "visto": "2026-10-29",
       "fonte": "freehire",
@@ -575,23 +592,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://www.vagas.com.br/vagas/v2836980/tecnico-de-enfermagem-setor-uti?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-": {
-      "visto": "2026-10-29",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-",
-        "name": "Carreiras Vera Cruz Hospital",
-        "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/jobs/12589299?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1323,23 +1323,6 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://thefoursalescompany.pandape.infojobs.com.br/Detail/3788311?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-recepcionista-acrisure-c4tfx2hk": {
-      "visto": "2026-10-29",
-      "fonte": "freehire",
-      "score": 40,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-acrisure-c4tfx2hk",
-        "name": "Acrisure",
-        "role": "Recepcionista",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://segurosconfidencial.gupy.io/jobs/12395414?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
