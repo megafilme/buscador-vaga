@@ -562,6 +562,17 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-recepcionista-clinica-de-alto-padrao-rpo-solutions-736wjcdy",
+      "name": "RPO Solutions",
+      "role": "Recepcionista | Clínica de Alto Padrão",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://rposolutions.pandape.infojobs.com.br/Detail/3879353?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-recepcionista-clinica-de-alto-padrao-instituto-giorgio-baretta-dk2iu6ir",
       "name": "Instituto Giorgio Baretta",
       "role": "Recepcionista | Clínica de Alto Padrão",
@@ -793,6 +804,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-tecnico-de-enfermagem-do-trabalho-i-construtora-elevacao-62swcd2o",
+      "name": "Construtora Elevação",
+      "role": "Técnico de Enfermagem do Trabalho I",
+      "area": "Curitiba, PR, BR",
+      "zone": "curitiba",
+      "source": "https://construtoraelevacao.inhire.app/vagas/d63bf883-e435-4435-beb0-093ff4de945c/tecnico-de-enfermagem-do-trabalho-i?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po",
       "name": "HOSPITAL PEQUENO PRÍNCIPE",
       "role": "Técnico de Enfermagem (Eletroencefalograma)",
@@ -815,23 +837,23 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-tecnico-de-enfermagem-hemodinamica-hospital-inc-ll5qq5ad",
+      "name": "Hospital INC",
+      "role": "Técnico de Enfermagem - Hemodinâmica",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11979657?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnico-de-enfermagem-infusao-rh-center-trabalho-temporario-ltda-zfujdzc2",
       "name": "Rh center trabalho temporario ltda",
       "role": "Técnico de Enfermagem - Infusão",
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://www.empregos.com.br/vaga/11932217?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-infusao-unimed-curitiba-h6myowkz",
-      "name": "UNIMED CURITIBA",
-      "role": "Técnico de Enfermagem - Infusão",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/11927497?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."

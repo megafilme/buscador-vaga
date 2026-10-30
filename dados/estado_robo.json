@@ -1,5 +1,22 @@
 {
   "beatriz": {
+    "api-estagio-secretaria-iel-5wqm53dw": {
+      "visto": "2026-10-30",
+      "fonte": "freehire",
+      "score": 65,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "api-estagio-secretaria-iel-5wqm53dw",
+        "name": "IEL",
+        "role": "Estágio Secretaria",
+        "area": "São José dos Pinhais, PR",
+        "zone": "sjp",
+        "source": "https://iel.pandape.infojobs.com.br/Detail/3677968?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-professor-a-regente-educacao-infantil-banco-de-talentos-grupo-positivo-7kk5nd2c": {
       "visto": "2026-10-30",
       "fonte": "freehire",
@@ -444,6 +461,40 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnico-de-enfermagem-hemodinamica-hospital-inc-ll5qq5ad": {
+      "visto": "2026-10-30",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-hemodinamica-hospital-inc-ll5qq5ad",
+        "name": "Hospital INC",
+        "role": "Técnico de Enfermagem - Hemodinâmica",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/11979657?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-de-enfermagem-do-trabalho-i-construtora-elevacao-62swcd2o": {
+      "visto": "2026-10-30",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-do-trabalho-i-construtora-elevacao-62swcd2o",
+        "name": "Construtora Elevação",
+        "role": "Técnico de Enfermagem do Trabalho I",
+        "area": "Curitiba, PR, BR",
+        "zone": "curitiba",
+        "source": "https://construtoraelevacao.inhire.app/vagas/d63bf883-e435-4435-beb0-093ff4de945c/tecnico-de-enfermagem-do-trabalho-i?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-": {
       "visto": "2026-10-30",
       "fonte": "freehire",
@@ -490,23 +541,6 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://www.empregos.com.br/vaga/11932217?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-de-enfermagem-infusao-unimed-curitiba-h6myowkz": {
-      "visto": "2026-10-30",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-infusao-unimed-curitiba-h6myowkz",
-        "name": "UNIMED CURITIBA",
-        "role": "Técnico de Enfermagem - Infusão",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/11927497?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1204,6 +1238,23 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://clamedlojas.gupy.io/jobs/12795580?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-clinica-de-alto-padrao-rpo-solutions-736wjcdy": {
+      "visto": "2026-10-30",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-clinica-de-alto-padrao-rpo-solutions-736wjcdy",
+        "name": "RPO Solutions",
+        "role": "Recepcionista | Clínica de Alto Padrão",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://rposolutions.pandape.infojobs.com.br/Detail/3879353?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."

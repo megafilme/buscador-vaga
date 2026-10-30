@@ -23,6 +23,17 @@
       "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-estagio-secretaria-iel-5wqm53dw",
+      "name": "IEL",
+      "role": "Estágio Secretaria",
+      "area": "São José dos Pinhais, PR",
+      "zone": "sjp",
+      "source": "https://iel.pandape.infojobs.com.br/Detail/3677968?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12684591",
       "name": "Colégio Everest Internacional Curitiba",
       "role": "Auxiliar de professor - Banco de talentos",
