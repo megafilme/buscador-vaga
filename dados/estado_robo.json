@@ -1498,6 +1498,23 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-balconista-de-farmacia-callfarma-b3rtvkwm": {
+      "visto": "2026-10-31",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-balconista-de-farmacia-callfarma-b3rtvkwm",
+        "name": "CALLFARMA",
+        "role": "balconista de farmacia",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://www.catho.com.br/vagas/balconista-de-farmacia/39062356/?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-balconista-de-farmacia-bacacheri-comercio-de-medicamentos-maeoka-ltda-e5r3yzls": {
       "visto": "2026-10-31",
       "fonte": "freehire",
