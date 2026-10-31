@@ -78,6 +78,17 @@
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-professor-ensino-infantil-bilingue-rp-20115-manpower-staffing-matriz-kncibja3",
+      "name": "MANPOWER STAFFING. (Matriz)",
+      "role": "Professor Ensino Infantil (Bilíngue) - RP 20115",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://manpowergroup.pandape.infojobs.com.br/Detail/3865949?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy",
       "name": "Dasa",
       "role": "Técnico(a) de Enfermagem – Coleta, Vacinação e Teste do Pezinho",
@@ -153,17 +164,6 @@
       "wa": "",
       "email": "",
       "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo",
-      "name": "BM VAGAS",
-      "role": "AUXILIAR ADMINISTRATIVO ESCOLA INFANTIL",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3830562?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-secretaria-executiva-sefe-sistema-educacional-familia-e-escola-ltda-fk4an3hx",

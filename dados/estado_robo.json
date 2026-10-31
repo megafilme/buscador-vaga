@@ -68,6 +68,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-professor-ensino-infantil-bilingue-rp-20115-manpower-staffing-matriz-kncibja3": {
+      "visto": "2026-10-31",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-professor-ensino-infantil-bilingue-rp-20115-manpower-staffing-matriz-kncibja3",
+        "name": "MANPOWER STAFFING. (Matriz)",
+        "role": "Professor Ensino Infantil (Bilíngue) - RP 20115",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://manpowergroup.pandape.infojobs.com.br/Detail/3865949?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-administrativo-gc-talentos-dwpgq2wb": {
       "visto": "2026-10-31",
       "fonte": "freehire",
@@ -97,23 +114,6 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://souzasantosconsultoria.pandape.infojobs.com.br/Detail/3767944?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo": {
-      "visto": "2026-10-31",
-      "fonte": "freehire",
-      "score": 40,
-      "categoria": "Escola — recepção/administrativo",
-      "vaga": {
-        "id": "api-auxiliar-administrativo-escola-infantil-bm-vagas-ynz2qbbo",
-        "name": "BM VAGAS",
-        "role": "AUXILIAR ADMINISTRATIVO ESCOLA INFANTIL",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3830562?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -439,6 +439,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://interligasolucoesemservicosdesaudeltda.pandape.infojobs.com.br/Detail/3739942?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-de-enfermagem-do-trabalho-curitiba-pr-imtep-saude-empresarial-wgvxsqpv": {
+      "visto": "2026-10-31",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-do-trabalho-curitiba-pr-imtep-saude-empresarial-wgvxsqpv",
+        "name": "Imtep saúde empresarial",
+        "role": "Técnico de Enfermagem do Trabalho - Curitiba/PR",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/11981045?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1073,6 +1090,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-auxiliar-de-farmacia-de-manipulacao-bm-vagas-rimqxgwf": {
+      "visto": "2026-10-31",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-auxiliar-de-farmacia-de-manipulacao-bm-vagas-rimqxgwf",
+        "name": "BM VAGAS",
+        "role": "AUXILIAR DE FARMÁCIA DE MANIPULAÇÃO",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3887718?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-de-farmacia-pilar-hospital-carreiras-vera-cruz-hospital-ckdamg6j": {
       "visto": "2026-10-31",
       "fonte": "freehire",
@@ -1323,6 +1357,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://thefoursalescompany.pandape.infojobs.com.br/Detail/3788311?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-vendedora-bm-vagas-nv5kuf3s": {
+      "visto": "2026-10-31",
+      "fonte": "freehire",
+      "score": 40,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-vendedora-bm-vagas-nv5kuf3s",
+        "name": "BM VAGAS",
+        "role": "RECEPCIONISTA VENDEDORA",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3887624?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
