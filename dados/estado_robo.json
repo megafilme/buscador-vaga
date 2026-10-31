@@ -170,23 +170,6 @@
         "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-tecnico-de-enfermagem-setor-uti-hospital-pequeno-principe-5xgig573": {
-      "visto": "2026-10-31",
-      "fonte": "freehire",
-      "score": 45,
-      "categoria": "Enfermagem pediátrica/neonatal",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-setor-uti-hospital-pequeno-principe-5xgig573",
-        "name": "HOSPITAL PEQUENO PRÍNCIPE",
-        "role": "Tecnico de Enfermagem - Setor UTI",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.vagas.com.br/vagas/v2836980/tecnico-de-enfermagem-setor-uti?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy": {
       "visto": "2026-10-31",
       "fonte": "freehire",
@@ -626,23 +609,6 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3793418?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-de-enfermagem-setor-uti-hospital-pequeno-principe-5xgig573": {
-      "visto": "2026-10-31",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-setor-uti-hospital-pequeno-principe-5xgig573",
-        "name": "HOSPITAL PEQUENO PRÍNCIPE",
-        "role": "Tecnico de Enfermagem - Setor UTI",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.vagas.com.br/vagas/v2836980/tecnico-de-enfermagem-setor-uti?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
