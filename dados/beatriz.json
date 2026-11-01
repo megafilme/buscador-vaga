@@ -1,17 +1,6 @@
 {
   "jobs": [
     {
-      "id": "gupy-12394742",
-      "name": "Elite",
-      "role": "Inspetor Escolar | Elite - São José dos Pinhais - Centro",
-      "area": "São José dos Pinhais, Paraná",
-      "zone": "sjp",
-      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTIzOTQ3NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "gupy-12776473",
       "name": "Elite",
       "role": "Inspetor Escolar | Elite - SJP AFONSO PENA",
