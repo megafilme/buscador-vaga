@@ -119,23 +119,6 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po": {
-      "visto": "2026-11-01",
-      "fonte": "freehire",
-      "score": 45,
-      "categoria": "Enfermagem pediátrica/neonatal",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po",
-        "name": "HOSPITAL PEQUENO PRÍNCIPE",
-        "role": "Técnico de Enfermagem (Eletroencefalograma)",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.vagas.com.br/vagas/v2840318/tecnico-de-enfermagem-eletroencefalograma?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-tecnico-de-enfermagem-setor-ambulatorio-hospital-pequeno-principe-5ftmgsz4": {
       "visto": "2026-11-01",
       "fonte": "freehire",
@@ -490,23 +473,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/jobs/12745884?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po": {
-      "visto": "2026-11-01",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-eletroencefalograma-hospital-pequeno-principe-spl3h2po",
-        "name": "HOSPITAL PEQUENO PRÍNCIPE",
-        "role": "Técnico de Enfermagem (Eletroencefalograma)",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.vagas.com.br/vagas/v2840318/tecnico-de-enfermagem-eletroencefalograma?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
