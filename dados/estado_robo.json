@@ -1838,23 +1838,6 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
-    "gupy-12453308": {
-      "visto": "2026-10-31",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12453308",
-        "name": "Nina Saúde",
-        "role": "Técnico(a) de Enfermagem (em imunização) - Curitiba, PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://ninasaude.gupy.io/job/eyJqb2JJZCI6MTI0NTMzMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
     "gupy-12791449": {
       "visto": "2026-10-31",
       "fonte": "gupy",
