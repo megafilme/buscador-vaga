@@ -903,23 +903,6 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-tecnico-em-enfermagem-do-trabalho-sykes-do-brasil-kxwv73q3": {
-      "visto": "2026-11-01",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-em-enfermagem-do-trabalho-sykes-do-brasil-kxwv73q3",
-        "name": "SYKES DO BRASIL",
-        "role": "Técnico em Enfermagem do Trabalho",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.catho.com.br/vagas/tecnico-em-enfermagem-do-trabalho/38966879/?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-tecnico-enfermagem-hospitalar-clinica-medica-hospital-onix-mateus-leme-pr-pagina": {
       "visto": "2026-11-01",
       "fonte": "freehire",
@@ -1328,23 +1311,6 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-recepcionista-i-hospital-pequeno-principe-yregrnej": {
-      "visto": "2026-11-01",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-i-hospital-pequeno-principe-yregrnej",
-        "name": "Hospital Pequeno Príncipe",
-        "role": "Recepcionista I",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.vagas.com.br/vagas/v2841449/recepcionista-i?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-recepcionista-pilar-hospital-carreiras-vera-cruz-hospital-lkgdrt22": {
       "visto": "2026-11-01",
       "fonte": "freehire",
@@ -1413,18 +1379,18 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-recepcionista-ambulatorial-hapvida-notredame-intermedica-gchfv3au": {
+    "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx": {
       "visto": "2026-11-01",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Recepção saúde",
       "vaga": {
-        "id": "api-recepcionista-ambulatorial-hapvida-notredame-intermedica-gchfv3au",
-        "name": "Hapvida NotreDame Intermédica",
-        "role": "Recepcionista Ambulatorial",
-        "area": "Curitiba, PR",
+        "id": "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx",
+        "name": "Hospital Pequeno Príncipe",
+        "role": "Recepcionista I",
+        "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://hapvidandi.pandape.infojobs.com.br/Detail/3743012?utm_source=freehire.me",
+        "source": "https://www.vagas.com.br/vagas/v2837675/recepcionista-i?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."

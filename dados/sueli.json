@@ -507,17 +507,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-ambulatorial-hapvida-notredame-intermedica-gchfv3au",
-      "name": "Hapvida NotreDame Intermédica",
-      "role": "Recepcionista Ambulatorial",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://hapvidandi.pandape.infojobs.com.br/Detail/3743012?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2",
       "name": "Carreiras Vera Cruz Hospital",
       "role": "Recepcionista / CEDIP Alto da XV",
@@ -595,12 +584,12 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-i-hospital-pequeno-principe-yregrnej",
+      "id": "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx",
       "name": "Hospital Pequeno Príncipe",
       "role": "Recepcionista I",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://www.vagas.com.br/vagas/v2841449/recepcionista-i?utm_source=freehire.me",
+      "source": "https://www.vagas.com.br/vagas/v2837675/recepcionista-i?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -898,17 +887,6 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://foundever.pandape.infojobs.com.br/Detail/3861635?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-em-enfermagem-do-trabalho-sykes-do-brasil-kxwv73q3",
-      "name": "SYKES DO BRASIL",
-      "role": "Técnico em Enfermagem do Trabalho",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://www.catho.com.br/vagas/tecnico-em-enfermagem-do-trabalho/38966879/?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
