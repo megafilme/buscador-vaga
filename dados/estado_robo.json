@@ -1,5 +1,22 @@
 {
   "beatriz": {
+    "api-professor-a-auxiliar-de-educacao-infantil-arqhuman-srkorq5j": {
+      "visto": "2026-11-03",
+      "fonte": "freehire",
+      "score": 55,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-professor-a-auxiliar-de-educacao-infantil-arqhuman-srkorq5j",
+        "name": "Arqhuman",
+        "role": "Professor(a) Auxiliar de Educação Infantil",
+        "area": "Curitiba - PR",
+        "zone": "curitiba",
+        "source": "https://arqhuman.pandape.infojobs.com.br/Detail/3797062?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-professor-a-regente-educacao-infantil-banco-de-talentos-grupo-positivo-7kk5nd2c": {
       "visto": "2026-11-03",
       "fonte": "freehire",
@@ -337,6 +354,23 @@
         "area": "Pinhais, PR",
         "zone": "pinhais",
         "source": "https://hospitalangelinacaron.pandape.infojobs.com.br/Detail/3305362?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-de-enfermagem-medilar-emergencias-medicas-campinas-5lslwuch": {
+      "visto": "2026-11-03",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-medilar-emergencias-medicas-campinas-5lslwuch",
+        "name": "Medilar Emergências Médicas Campinas",
+        "role": "Técnico de Enfermagem",
+        "area": "Curitiba - PR",
+        "zone": "curitiba",
+        "source": "https://medilaremergenciasmedicascampinas.pandape.infojobs.com.br/Detail/3874980?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1277,6 +1311,23 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-recepcionista-curitiba-pr-dasa-6b55fb2s": {
+      "visto": "2026-11-03",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-curitiba-pr-dasa-6b55fb2s",
+        "name": "Dasa",
+        "role": "Recepcionista | Curitiba-PR",
+        "area": "Curitiba - PR",
+        "zone": "curitiba",
+        "source": "https://dasa.pandape.infojobs.com.br/Detail/3848607?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-recepcionista-vendedora-bm-vagas-nv5kuf3s": {
       "visto": "2026-11-03",
       "fonte": "freehire",
@@ -1445,6 +1496,23 @@
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12677524": {
+      "visto": "2026-11-03",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12677524",
+        "name": "Oportunidades Confidenciais",
+        "role": "TECNICO ENFERMAGEM TRABALHO",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://oportunidadesconfidenciais.gupy.io/job/eyJqb2JJZCI6MTI2Nzc1MjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
     "gupy-12745884": {
