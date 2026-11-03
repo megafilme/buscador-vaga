@@ -1,12 +1,12 @@
 {
   "jobs": [
     {
-      "id": "gupy-12647061",
+      "id": "gupy-12829193",
       "name": "RD Saúde - Farmácias",
       "role": "Atendente de Farmácia - Curitiba",
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDcwNjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI4MjkxOTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -34,12 +34,12 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12647419",
+      "id": "gupy-12829600",
       "name": "RD Saúde - Farmácias",
       "role": "Atendente de Farmácia - Pinhais",
       "area": "Pinhais, Paraná",
       "zone": "pinhais",
-      "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDc0MTksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI4Mjk2MDAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -912,6 +912,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12715821",
+      "name": "DaVita Tratamento Renal - Serviços Assistenciais aos Pacientes",
+      "role": "Técnico Enfermagem Crônico",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://servicosassistenciais.gupy.io/job/eyJqb2JJZCI6MTI3MTU4MjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12622376",
