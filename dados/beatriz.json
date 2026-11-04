@@ -23,6 +23,17 @@
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12814243",
+      "name": "Colégio Católica Curitiba",
+      "role": "Auxiliar Pedagógico",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://colegiocatolicacuritiba.gupy.io/job/eyJqb2JJZCI6MTI4MTQyNDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-professor-a-auxiliar-de-educacao-infantil-arqhuman-srkorq5j",
       "name": "Arqhuman",
       "role": "Professor(a) Auxiliar de Educação Infantil",
@@ -139,6 +150,17 @@
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
       "source": "https://www.vagas.com.br/vagas/v2839293/tecnico-de-enfermagem-setor-unidade-de-internacao?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-tecnico-de-enfermagem-setor-uti-hospital-pequeno-principe-5xgig573",
+      "name": "HOSPITAL PEQUENO PRÍNCIPE",
+      "role": "Tecnico de Enfermagem - Setor UTI",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://www.vagas.com.br/vagas/v2836980/tecnico-de-enfermagem-setor-uti?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
