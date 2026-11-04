@@ -540,17 +540,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12675389",
-      "name": "Carreiras Pilar Hospital",
-      "role": "Recepcionista / CEDIP Alto da XV",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI2NzUzODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-clinica-de-alto-padrao-rpo-solutions-736wjcdy",
       "name": "RPO Solutions",
       "role": "Recepcionista | Clínica de Alto Padrão",
@@ -661,6 +650,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-recepcionista-vendas-de-clinica-de-estetica-rh-curitiba-xxofqxyp",
+      "name": "RH CURITIBA",
+      "role": "Recepcionista / Vendas de clinica de estética",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://curitibarh-agenciadeempregosltda.pandape.infojobs.com.br/Detail/3892489?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnica-de-enfermagem-clinica-medica-b7jznr25",
       "name": "Clinica Médica",
       "role": "Técnica de Enfermagem",
@@ -749,23 +749,23 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-de-enfermagem-cme-hospital-santa-cruz-rede-d-or-vbh2lgck",
-      "name": "Rede D'Or",
-      "role": "Técnico de Enfermagem | CME | Hospital Santa Cruz",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://rededor.gupy.io/jobs/12427756?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-tecnico-a-de-enfermagem-coleta-vacinacao-e-teste-do-pezinho-dasa-ziwzooiy",
       "name": "Dasa",
       "role": "Técnico(a) de Enfermagem – Coleta, Vacinação e Teste do Pezinho",
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://dasa.pandape.infojobs.com.br/Detail/3831438?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-tecnico-de-enfermagem-curitiba-pr-imtep-saude-empresarial-dmsbqolk",
+      "name": "Imtep saúde empresarial",
+      "role": "Técnico de Enfermagem - Curitiba/PR",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11987917?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -892,12 +892,12 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12745884",
+      "id": "gupy-12802995",
       "name": "Carreiras Pilar Hospital",
       "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3NDU4ODQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4MDI5OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -1013,6 +1013,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-tecnico-enfermagem-trabalho-grupo-positivo-yz22kvyg",
+      "name": "Grupo Positivo",
+      "role": "TECNICO ENFERMAGEM TRABALHO",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://oportunidadesconfidenciais.gupy.io/jobs/12677524?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12677524",
       "name": "Oportunidades Confidenciais",
       "role": "TECNICO ENFERMAGEM TRABALHO",
@@ -1024,12 +1035,12 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-agilidade-gestao-de-pessoas-e-solucoes-22hxrrar",
+      "id": "api-recepcionista-agilidade-gestao-de-pessoas-e-solucoes-hiwqs6vy",
       "name": "Agilidade gestão de pessoas e soluções",
       "role": "Recepcionista",
       "area": "Pinhais, PR",
       "zone": "pinhais",
-      "source": "https://www.empregos.com.br/vaga/11935558?utm_source=freehire.me",
+      "source": "https://www.empregos.com.br/vaga/11987203?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
