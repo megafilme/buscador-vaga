@@ -1107,6 +1107,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-auxiliar-de-farmacia-irmandade-da-santa-casa-de-misericordia-de-curitiba-zh4ttyn": {
+      "visto": "2026-11-05",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-auxiliar-de-farmacia-irmandade-da-santa-casa-de-misericordia-de-curitiba-zh4ttyn",
+        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
+        "role": "Auxiliar de Farmácia",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3211121?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-de-farmacia-de-manipulacao-bm-vagas-rimqxgwf": {
       "visto": "2026-11-05",
       "fonte": "freehire",
@@ -1153,6 +1170,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://rhfcuritibacentroreboucas.pandape.infojobs.com.br/Detail/3696525?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-de-farmacia-pivo-curitiba-e-regiao-pr-clamed-lojas-awnkkzj7": {
+      "visto": "2026-11-05",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-de-farmacia-pivo-curitiba-e-regiao-pr-clamed-lojas-awnkkzj7",
+        "name": "CLAMED Lojas",
+        "role": "Atendente de Farmácia Pivô - CURITIBA E REGIÃO/PR",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://clamedlojas.gupy.io/jobs/12839744?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -2054,6 +2088,23 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3NDUwMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12832930": {
+      "visto": "2026-11-05",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "gupy-12832930",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Recepcionista (12x36) / CEDIP Bom Retiro",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4MzI5MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
