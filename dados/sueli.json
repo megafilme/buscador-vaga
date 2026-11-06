@@ -562,6 +562,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-recepcionista-12x36-cedip-bom-retiro-carreiras-vera-cruz-hospital-we2l6a32",
+      "name": "Carreiras Vera Cruz Hospital",
+      "role": "Recepcionista (12x36) / CEDIP Bom Retiro",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/jobs/12832930?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12832930",
       "name": "Carreiras Pilar Hospital",
       "role": "Recepcionista (12x36) / CEDIP Bom Retiro",
@@ -881,17 +892,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-de-enfermagem-infusao-rh-center-trabalho-temporario-ltda-zfujdzc2",
-      "name": "Rh center trabalho temporario ltda",
-      "role": "Técnico de Enfermagem - Infusão",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/11932217?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-tecnico-de-enfermagem-laboratorio-irmandade-da-santa-casa-de-misericordia-de-cur",
       "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
       "role": "Técnico de enfermagem - Laboratório",
@@ -931,17 +931,6 @@
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
       "source": "https://www.vagas.com.br/vagas/v2836980/tecnico-de-enfermagem-setor-uti?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-",
-      "name": "Carreiras Vera Cruz Hospital",
-      "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/jobs/12589299?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1129,17 +1118,6 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://gd9rh.pandape.infojobs.com.br/Detail/3576891?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-recepcionista-rh-curitiba-57qyw6sz",
-      "name": "Rh curitiba",
-      "role": "Recepcionista",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/11913946?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
