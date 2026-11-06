@@ -133,17 +133,6 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-auxiliar-de-enfermagem-unidade-de-internacao-irmandade-da-santa-casa-de-miserico",
-      "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
-      "role": "Auxiliar de Enfermagem | Unidade de Internação",
-      "area": "Curitiba - PR",
-      "zone": "curitiba",
-      "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3786308?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-auxiliar-de-farmacia-irmandade-da-santa-casa-de-misericordia-de-curitiba-zh4ttyn",
       "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
       "role": "Auxiliar de Farmácia",
@@ -584,17 +573,6 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2",
-      "name": "Carreiras Vera Cruz Hospital",
-      "role": "Recepcionista / CEDIP Alto da XV",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/jobs/12675389?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-clinica-de-alto-padrao-rpo-solutions-736wjcdy",
       "name": "RPO Solutions",
       "role": "Recepcionista | Clínica de Alto Padrão",
@@ -991,15 +969,15 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12687672",
+      "id": "api-tecnico-enfermagem-hospitalar-centro-cirurgico-hospital-onix-mateus-leme-pr-pagi",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL ONIX MATEUS LEME PR",
-      "area": "Curitiba, Paraná",
+      "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODc2NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://hapvidandi.gupy.io/jobs/12687672?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12687588",

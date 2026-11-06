@@ -971,18 +971,18 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-auxiliar-de-enfermagem-unidade-de-internacao-irmandade-da-santa-casa-de-miserico": {
+    "api-tecnico-enfermagem-hospitalar-centro-cirurgico-hospital-onix-mateus-leme-pr-pagi": {
       "visto": "2026-11-06",
       "fonte": "freehire",
       "score": 50,
       "categoria": "Enfermagem",
       "vaga": {
-        "id": "api-auxiliar-de-enfermagem-unidade-de-internacao-irmandade-da-santa-casa-de-miserico",
-        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
-        "role": "Auxiliar de Enfermagem | Unidade de Internação",
-        "area": "Curitiba - PR",
+        "id": "api-tecnico-enfermagem-hospitalar-centro-cirurgico-hospital-onix-mateus-leme-pr-pagi",
+        "name": "hapvidandi (Gupy)",
+        "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL ONIX MATEUS LEME PR",
+        "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3786308?utm_source=freehire.me",
+        "source": "https://hapvidandi.gupy.io/jobs/12687672?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1481,23 +1481,6 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2": {
-      "visto": "2026-11-06",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2",
-        "name": "Carreiras Vera Cruz Hospital",
-        "role": "Recepcionista / CEDIP Alto da XV",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/jobs/12675389?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx": {
       "visto": "2026-11-06",
       "fonte": "freehire",
@@ -1765,23 +1748,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2OTI0MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12687672": {
-      "visto": "2026-11-06",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12687672",
-        "name": "hapvidandi (Gupy)",
-        "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL ONIX MATEUS LEME PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODc2NzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
