@@ -969,17 +969,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12687588",
-      "name": "hapvidandi (Gupy)",
-      "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL SANTA BRIGIDA PR",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODc1ODgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-tecnico-enfermagem-hospitalar-clinica-medica-hospital-onix-mateus-leme-pr-pagina",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM HOSPITALAR - CLINICA MÉDICA - HOSPITAL ONIX MATEUS LEME PR",
@@ -997,28 +986,6 @@
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
       "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2OTI0MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "gupy-12686904",
-      "name": "hapvidandi (Gupy)",
-      "role": "TECNICO ENFERMAGEM HOSPITALAR - PRONTO SOCORRO ADULTO - HOSPITAL ONIX MATEUS LEME PR",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODY5MDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "gupy-12686814",
-      "name": "hapvidandi (Gupy)",
-      "role": "TECNICO ENFERMAGEM HOSPITALAR - PRONTO SOCORRO ADULTO - HOSPITAL SANTA BRIGIDA PR",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2ODY4MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
