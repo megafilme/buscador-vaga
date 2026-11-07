@@ -177,6 +177,17 @@
       "info": "Foco infantil citado só na descrição; confirme o setor. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-assistente-administrativo-cruzeiro-do-sul-educacional-s-a-4r3fcad4",
+      "name": "Cruzeiro do Sul Educacional S/A",
+      "role": "ASSISTENTE ADMINISTRATIVO",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://up.gupy.io/jobs/12733985?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-auxiliar-administrativo-gc-talentos-dwpgq2wb",
       "name": "GC Talentos",
       "role": "Auxiliar Administrativo",
