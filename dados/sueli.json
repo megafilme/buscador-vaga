@@ -89,28 +89,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-auxiliar-de-enfermagem-hospitalar-centro-cirurgico-hospital-onix-mateus-leme-pr-",
-      "name": "hapvidandi (Gupy)",
-      "role": "AUXILIAR DE ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL ONIX MATEUS LEME PR",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12687807?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-auxiliar-de-enfermagem-hospitalar-pronto-socorro-hospital-onix-mateus-leme-pr-pa",
-      "name": "hapvidandi (Gupy)",
-      "role": "AUXILIAR DE ENFERMAGEM HOSPITALAR - PRONTO SOCORRO - HOSPITAL ONIX MATEUS LEME PR",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12687888?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-auxiliar-de-enfermagem-pr-pagina-de-carreira-ssqcxeaf",
       "name": "hapvidanditea (Gupy)",
       "role": "AUXILIAR DE ENFERMAGEM | PR",
@@ -265,17 +243,6 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-pessoa-tecnica-de-enfermagem-grupo-marista-r6u3cwtj",
-      "name": "Grupo Marista",
-      "role": "Pessoa Técnica de Enfermagem",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://pucpr.gupy.io/jobs/12799600?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-pessoa-tecnica-de-enfermagem-centro-cirurgico-hemodinamica-hsmc-grupo-marista-g3",
       "name": "Grupo Marista",
       "role": "Pessoa Técnica de Enfermagem | Centro Cirúrgico Hemodinâmica | HSMC",
@@ -417,17 +384,6 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-pessoa-tecnico-de-enfermagem-internacao-manha-tarde-hospital-marcelino-champagna",
-      "name": "Grupo Marista",
-      "role": "Pessoa Técnico de Enfermagem Internação - Manhã/Tarde | Hospital Marcelino Champagnat",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/jobs/12518228?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-pessoa-tecnico-de-enfermagem-internacao-tarde-noite-hospital-marcelino-champagna",
@@ -934,17 +890,6 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-enfermagem-hospitalar-centro-cirurgico-hospital-onix-mateus-leme-pr-pagi",
-      "name": "hapvidandi (Gupy)",
-      "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL ONIX MATEUS LEME PR",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12687672?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-enfermagem-hospitalar-clinica-medica-hospital-onix-mateus-leme-pr-pagina",
