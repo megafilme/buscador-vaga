@@ -1,12 +1,56 @@
 {
   "jobs": [
     {
+      "id": "gupy-12863231",
+      "name": "Farmácias Pague Menos",
+      "role": "Atendente de Farmácia | Água Verde - Curitiba/PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjMyMzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12863895",
+      "name": "Farmácias Pague Menos",
+      "role": "Atendente de Farmácia | Bigorrilho - Curitiba/PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjM4OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12863995",
+      "name": "Farmácias Pague Menos",
+      "role": "Atendente de Farmácia | Campo Comprido - Curitiba/PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjM5OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12829193",
       "name": "RD Saúde - Farmácias",
       "role": "Atendente de Farmácia - Curitiba",
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
       "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI4MjkxOTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12862985",
+      "name": "Farmácias Pague Menos",
+      "role": "Atendente de Farmácia | Curitiba/PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjI5ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -73,6 +117,17 @@
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
       "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI4Mzk3NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12864058",
+      "name": "Farmácias Pague Menos",
+      "role": "Atendente de Farmácia | Uberaba - Curitiba/PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjQwNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -914,26 +969,26 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-enfermagem-hospitalar-centro-cirurgico-hospital-e-maternidade-santa-brig",
+      "id": "gupy-12857444",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL E MATERNIDADE SANTA BRIGIDA",
-      "area": "Curitiba, PR, Brasil",
+      "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12857444?utm_source=freehire.me",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4NTc0NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-enfermagem-hospitalar-centro-cirurgico-hospital-hospital-onix-batel-pagi",
+      "id": "gupy-12858628",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM HOSPITALAR - CENTRO CIRURGICO - HOSPITAL HOSPITAL ONIX BATEL",
-      "area": "Curitiba, PR, Brasil",
+      "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12858628?utm_source=freehire.me",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4NTg2MjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-enfermagem-hospitalar-clinica-medica-hospital-onix-mateus-leme-pr-pagina",
@@ -969,15 +1024,15 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-enfermagem-hospitalar-uti-pediatrica-hospital-onix-batel-pagina-de-carre",
+      "id": "gupy-12858133",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM HOSPITALAR - UTI PEDIATRICA - HOSPITAL ONIX BATEL",
-      "area": "Curitiba, PR, Brasil",
+      "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12858133?utm_source=freehire.me",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4NTgxMzMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-enfermagem-trabalho-grupo-positivo-yz22kvyg",
