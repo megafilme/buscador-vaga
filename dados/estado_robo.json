@@ -85,23 +85,6 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-auxiliar-administrativo-gc-talentos-dwpgq2wb": {
-      "visto": "2026-11-10",
-      "fonte": "freehire",
-      "score": 20,
-      "categoria": "Escola — recepção/administrativo",
-      "vaga": {
-        "id": "api-auxiliar-administrativo-gc-talentos-dwpgq2wb",
-        "name": "GC Talentos",
-        "role": "Auxiliar Administrativo",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/11964937?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-estagio-secretaria-escolar-souza-santos-consultoria-kkfgg3ge": {
       "visto": "2026-11-10",
       "fonte": "freehire",
@@ -335,23 +318,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI3MzY5MzIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Foco infantil citado só na descrição; confirme o setor. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12469014": {
-      "visto": "2026-11-10",
-      "fonte": "gupy",
-      "score": 35,
-      "categoria": "Enfermagem pediátrica/neonatal",
-      "vaga": {
-        "id": "gupy-12469014",
-        "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
-        "role": "TÉCNICO DE ENFERMAGEM AMBULATORIAL | PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI0NjkwMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Foco infantil citado só na descrição; confirme o setor. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -1005,6 +971,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-auxiliar-de-farmacia-irmandade-da-santa-casa-de-misericordia-de-curitiba-eubxgm7": {
+      "visto": "2026-11-10",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-auxiliar-de-farmacia-irmandade-da-santa-casa-de-misericordia-de-curitiba-eubxgm7",
+        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
+        "role": "Auxiliar de Farmácia",
+        "area": "Curitiba - PR",
+        "zone": "curitiba",
+        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3916602?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-de-farmacia-callfarma-qkmrccjy": {
       "visto": "2026-11-10",
       "fonte": "freehire",
@@ -1017,23 +1000,6 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://www.empregos.com.br/vaga/12011490?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-auxiliar-de-farmacia-irmandade-da-santa-casa-de-misericordia-de-curitiba-zh4ttyn": {
-      "visto": "2026-11-10",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "api-auxiliar-de-farmacia-irmandade-da-santa-casa-de-misericordia-de-curitiba-zh4ttyn",
-        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
-        "role": "Auxiliar de Farmácia",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3211121?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1068,6 +1034,74 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/jobs/12729321?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-de-farmacia-uberaba-curitiba-pr-farmacias-pague-menos-saegwi7j": {
+      "visto": "2026-11-10",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-de-farmacia-uberaba-curitiba-pr-farmacias-pague-menos-saegwi7j",
+        "name": "Farmácias Pague Menos",
+        "role": "Atendente de Farmácia | Uberaba - Curitiba/PR",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://farmaciaspmenos.gupy.io/jobs/12864058?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-de-farmacia-campo-comprido-curitiba-pr-farmacias-pague-menos-dxnee6hs": {
+      "visto": "2026-11-10",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-de-farmacia-campo-comprido-curitiba-pr-farmacias-pague-menos-dxnee6hs",
+        "name": "Farmácias Pague Menos",
+        "role": "Atendente de Farmácia | Campo Comprido - Curitiba/PR",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://farmaciaspmenos.gupy.io/jobs/12863995?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-de-farmacia-bigorrilho-curitiba-pr-farmacias-pague-menos-5iiuepff": {
+      "visto": "2026-11-10",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-de-farmacia-bigorrilho-curitiba-pr-farmacias-pague-menos-5iiuepff",
+        "name": "Farmácias Pague Menos",
+        "role": "Atendente de Farmácia | Bigorrilho - Curitiba/PR",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://farmaciaspmenos.gupy.io/jobs/12863895?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-de-farmacia-agua-verde-curitiba-pr-farmacias-pague-menos-utxne7kr": {
+      "visto": "2026-11-10",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-de-farmacia-agua-verde-curitiba-pr-farmacias-pague-menos-utxne7kr",
+        "name": "Farmácias Pague Menos",
+        "role": "Atendente de Farmácia | Água Verde - Curitiba/PR",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://farmaciaspmenos.gupy.io/jobs/12863231?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1702,23 +1736,6 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
-    "gupy-12707597": {
-      "visto": "2026-11-10",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12707597",
-        "name": "Hospital São Marcelino Champagnat",
-        "role": "Pessoa Técnica de Enfermagem | Volante | HSMC",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI3MDc1OTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
     "gupy-12622376": {
       "visto": "2026-11-10",
       "fonte": "gupy",
@@ -1787,23 +1804,6 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
-    "gupy-12469014": {
-      "visto": "2026-11-10",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12469014",
-        "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
-        "role": "TÉCNICO DE ENFERMAGEM AMBULATORIAL | PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI0NjkwMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
     "gupy-12858702": {
       "visto": "2026-11-10",
       "fonte": "gupy",
@@ -1867,74 +1867,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3MjkzMjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12864058": {
-      "visto": "2026-11-10",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "gupy-12864058",
-        "name": "Farmácias Pague Menos",
-        "role": "Atendente de Farmácia | Uberaba - Curitiba/PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjQwNTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12863995": {
-      "visto": "2026-11-10",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "gupy-12863995",
-        "name": "Farmácias Pague Menos",
-        "role": "Atendente de Farmácia | Campo Comprido - Curitiba/PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjM5OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12863895": {
-      "visto": "2026-11-10",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "gupy-12863895",
-        "name": "Farmácias Pague Menos",
-        "role": "Atendente de Farmácia | Bigorrilho - Curitiba/PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjM4OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12863231": {
-      "visto": "2026-11-10",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "gupy-12863231",
-        "name": "Farmácias Pague Menos",
-        "role": "Atendente de Farmácia | Água Verde - Curitiba/PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://farmaciaspmenos.gupy.io/job/eyJqb2JJZCI6MTI4NjMyMzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."

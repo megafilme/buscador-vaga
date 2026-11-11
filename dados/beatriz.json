@@ -188,17 +188,6 @@
       "info": "Foco infantil citado só na descrição; confirme o setor. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12469014",
-      "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
-      "role": "TÉCNICO DE ENFERMAGEM AMBULATORIAL | PR",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI0NjkwMTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Foco infantil citado só na descrição; confirme o setor. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-assistente-administrativo-npj-cruzeiro-do-sul-educacional-s-a-j55oc7tv",
       "name": "Cruzeiro do Sul Educacional S/A",
       "role": "ASSISTENTE ADMINISTRATIVO (NPJ)",
@@ -219,17 +208,6 @@
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-auxiliar-administrativo-gc-talentos-dwpgq2wb",
-      "name": "GC Talentos",
-      "role": "Auxiliar Administrativo",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/11964937?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     }
   ]
 }
