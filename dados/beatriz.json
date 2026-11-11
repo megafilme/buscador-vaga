@@ -208,6 +208,17 @@
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-auxiliar-administrativo-comercial-rhf-talentos-4ihacbcs",
+      "name": "Rhf talentos",
+      "role": "Auxiliar Administrativo Comercial",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/12017753?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     }
   ]
 }
