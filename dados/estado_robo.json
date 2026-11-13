@@ -323,6 +323,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12890614": {
+      "visto": "2026-11-13",
+      "fonte": "gupy",
+      "score": 35,
+      "categoria": "Enfermagem pediátrica/neonatal",
+      "vaga": {
+        "id": "gupy-12890614",
+        "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
+        "role": "TECNICO ENFERMAGEM AMBULATORIAL | CURITIBA (PR)",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI4OTA2MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Foco infantil citado só na descrição; confirme o setor. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12858133": {
       "visto": "2026-11-13",
       "fonte": "gupy",
@@ -915,6 +932,23 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://hapvidandi.gupy.io/jobs/12888257?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-a-enfermagem-folguista-diurno-parana-clinicas-planos-de-saude-s-a-cmopdv": {
+      "visto": "2026-11-13",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-a-enfermagem-folguista-diurno-parana-clinicas-planos-de-saude-s-a-cmopdv",
+        "name": "PARANÁ CLINICAS - PLANOS DE SAUDE S/A.",
+        "role": "Tecnico(a) Enfermagem Folguista (Diurno)",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/12025878?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1683,6 +1717,23 @@
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12890614": {
+      "visto": "2026-11-13",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12890614",
+        "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
+        "role": "TECNICO ENFERMAGEM AMBULATORIAL | CURITIBA (PR)",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI4OTA2MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
     "gupy-12858628": {
