@@ -903,6 +903,40 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnico-enfermagem-centro-cirurgico-i-curitiba-pr-pagina-de-carreira-jpcqlr44": {
+      "visto": "2026-11-13",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-enfermagem-centro-cirurgico-i-curitiba-pr-pagina-de-carreira-jpcqlr44",
+        "name": "hapvidandi (Gupy)",
+        "role": "TECNICO ENFERMAGEM CENTRO CIRURGICO I CURITIBA (PR)",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/jobs/12888257?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-enfermagem-hospitalar-i-curitiba-pr-pagina-de-carreira-rqbv72vc": {
+      "visto": "2026-11-13",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-enfermagem-hospitalar-i-curitiba-pr-pagina-de-carreira-rqbv72vc",
+        "name": "hapvidandi (Gupy)",
+        "role": "TECNICO ENFERMAGEM HOSPITALAR I CURITIBA (PR)",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/jobs/12887866?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-enfermagem-hospitalar-uti-neonatal-hospital-e-maternidade-santa-brigida-": {
       "visto": "2026-11-13",
       "fonte": "freehire",
@@ -1153,6 +1187,23 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://www.catho.com.br/vagas/atendente-de-farmacia-de-manipulacao/39032534/?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-pp-atendente-de-farmacia-centro-curitiba-pr-exclusivo-para-pessoas-com-deficienc": {
+      "visto": "2026-11-13",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-pp-atendente-de-farmacia-centro-curitiba-pr-exclusivo-para-pessoas-com-deficienc",
+        "name": "CLAMED Lojas",
+        "role": "(PP) Atendente de Farmácia - CENTRO | CURITIBA/PR - Exclusivo para pessoas com deficiência",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://clamedlojas.gupy.io/jobs/12887696?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1425,23 +1476,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/jobs/12855056?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-recepcionista-ambulatorial-curitiba-pagina-de-carreira-fpodxe37": {
-      "visto": "2026-11-13",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-ambulatorial-curitiba-pagina-de-carreira-fpodxe37",
-        "name": "hapvidandi (Gupy)",
-        "role": "RECEPCIONISTA AMBULATORIAL - CURITIBA",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://hapvidandi.gupy.io/jobs/12878563?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -2156,6 +2190,23 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4NTUwNTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12878563": {
+      "visto": "2026-11-13",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "gupy-12878563",
+        "name": "hapvidandi (Gupy)",
+        "role": "RECEPCIONISTA AMBULATORIAL - CURITIBA",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4Nzg1NjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
