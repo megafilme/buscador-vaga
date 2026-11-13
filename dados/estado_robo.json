@@ -1396,6 +1396,23 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-ydykmrgm": {
+      "visto": "2026-11-12",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-ydykmrgm",
+        "name": "Carreiras Vera Cruz Hospital",
+        "role": "Recepcionista / CEDIP Alto da XV",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/jobs/12855056?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-recepcionista-ambulatorial-curitiba-pagina-de-carreira-fpodxe37": {
       "visto": "2026-11-12",
       "fonte": "freehire",
@@ -1564,6 +1581,23 @@
         "wa": "",
         "email": "",
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-estagio-em-farmacia-departamento-tecnico-1-grifols-6ubc6tjd": {
+      "visto": "2026-11-12",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-estagio-em-farmacia-departamento-tecnico-1-grifols-6ubc6tjd",
+        "name": "Grifols",
+        "role": "Estágio em Farmácia - Departamento Técnico 1",
+        "area": "Curitiba - Paraná, BR",
+        "zone": "curitiba",
+        "source": "https://jobsearch.grifols.com/job/Curitiba-Paran%C3%A1-Est%C3%A1gio-em-Farm%C3%A1cia-Departamento-T%C3%A9cnico-1/1456789733/?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
     "api-balconista-de-farmacia-callfarma-b3rtvkwm": {
