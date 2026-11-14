@@ -661,6 +661,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-recepcionista-em-clinica-de-estetica-vaga-masculina-no-perfil-agencia-de-emprego",
+      "name": "NO PERFIL - AGENCIA DE EMPREGOS",
+      "role": "Recepcionista em clinica de estética - vaga Masculina",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://www.catho.com.br/vagas/recepcionista-em-clinica-de-estetica-vaga-masculina/39261091/?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx",
       "name": "Hospital Pequeno Príncipe",
       "role": "Recepcionista I",
@@ -1044,17 +1055,6 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-enfermagem-hospitalar-clinica-medica-hospital-onix-mateus-leme-pr-pagina",
-      "name": "hapvidandi (Gupy)",
-      "role": "TECNICO ENFERMAGEM HOSPITALAR - CLINICA MÉDICA - HOSPITAL ONIX MATEUS LEME PR",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12771506?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-enfermagem-hospitalar-i-curitiba-pr-pagina-de-carreira-rqbv72vc",

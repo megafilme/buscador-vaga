@@ -119,6 +119,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-recepcionista-servopa-matriz-servopa-axgd4osi": {
+      "visto": "2026-11-14",
+      "fonte": "freehire",
+      "score": 20,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "api-recepcionista-servopa-matriz-servopa-axgd4osi",
+        "name": "SERVOPA",
+        "role": "Recepcionista - Servopa Matriz",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://www.catho.com.br/vagas/recepcionista-servopa-matriz/39263568/?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-estagio-secretaria-escolar-souza-santos-consultoria-kkfgg3ge": {
       "visto": "2026-11-14",
       "fonte": "freehire",
@@ -1039,23 +1056,6 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-tecnico-enfermagem-hospitalar-clinica-medica-hospital-onix-mateus-leme-pr-pagina": {
-      "visto": "2026-11-14",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-enfermagem-hospitalar-clinica-medica-hospital-onix-mateus-leme-pr-pagina",
-        "name": "hapvidandi (Gupy)",
-        "role": "TECNICO ENFERMAGEM HOSPITALAR - CLINICA MÉDICA - HOSPITAL ONIX MATEUS LEME PR",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://hapvidandi.gupy.io/jobs/12771506?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-auxiliar-de-enfermagem-pr-pagina-de-carreira-ssqcxeaf": {
       "visto": "2026-11-14",
       "fonte": "freehire",
@@ -1272,6 +1272,23 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://clamedlojas.gupy.io/jobs/12799626?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-em-clinica-de-estetica-vaga-masculina-no-perfil-agencia-de-emprego": {
+      "visto": "2026-11-14",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-em-clinica-de-estetica-vaga-masculina-no-perfil-agencia-de-emprego",
+        "name": "NO PERFIL - AGENCIA DE EMPREGOS",
+        "role": "Recepcionista em clinica de estética - vaga Masculina",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://www.catho.com.br/vagas/recepcionista-em-clinica-de-estetica-vaga-masculina/39261091/?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
