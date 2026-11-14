@@ -463,28 +463,6 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-pessoa-tecnico-de-enfermagem-internacao-tarde-noite-hospital-marcelino-champagna",
-      "name": "Grupo Marista",
-      "role": "Pessoa Técnico de Enfermagem Internação - Tarde/Noite | Hospital Marcelino Champagnat",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/jobs/12479298?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-pp-atendente-de-farmacia-capao-raso-curitiba-pr-clamed-lojas-jiypisms",
-      "name": "CLAMED Lojas",
-      "role": "(PP) Atendente de Farmácia - CAPÃO RASO | CURITIBA/PR",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://clamedlojas.gupy.io/jobs/12795580?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-pp-atendente-de-farmacia-centro-civico-curitiba-pr-clamed-lojas-lbyg6pvp",
       "name": "CLAMED Lojas",
       "role": "(PP) Atendente de Farmácia - Centro Cívico | Curitiba/PR",
