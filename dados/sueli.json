@@ -133,17 +133,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-auxiliar-de-enfermagem-pr-pagina-de-carreira-ssqcxeaf",
-      "name": "hapvidanditea (Gupy)",
-      "role": "AUXILIAR DE ENFERMAGEM | PR",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://hapvidanditea.gupy.io/jobs/12491208?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "gupy-12791449",
       "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
       "role": "AUXILIAR DE ENFERMAGEM | PR",
@@ -219,6 +208,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-auxiliar-de-laboratorio-farmacia-de-manipulacao-rhf-talentos-yli4w4ap",
+      "name": "Rhf talentos",
+      "role": "Auxiliar de Laboratório Farmácia de Manipulação",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/12032004?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12858702",
@@ -672,17 +672,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12488652",
-      "name": "Dasa",
-      "role": "Recepcionista - Paraná",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://dasaatendimento.gupy.io/job/eyJqb2JJZCI6MTI0ODg2NTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-pilar-hospital-carreiras-vera-cruz-hospital-lkgdrt22",
       "name": "Carreiras Vera Cruz Hospital",
       "role": "Recepcionista / Pilar Hospital",
@@ -703,17 +692,6 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-recepcionista-recepcao-central-hospital-inc-vjhd5a4y",
-      "name": "Hospital INC",
-      "role": "Recepcionista – Recepção Central",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/11905821?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-recepcionista-vendas-de-clinica-de-estetica-rh-curitiba-xxofqxyp",
@@ -1200,17 +1178,6 @@
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-parana-rede-americas-uth7tjhv",
-      "name": "Rede Américas",
-      "role": "Recepcionista - Paraná",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://dasaatendimento.gupy.io/jobs/12488652?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-pinhais-pr-pinhais-pr-tcxzax3l",
       "name": "Pinhais/PR",
       "role": "Recepcionista - Pinhais/PR",
@@ -1228,17 +1195,6 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3887624?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-secretaria-recepcionista-radar-gestao-para-advogados-ubzvbt3v",
-      "name": "Radar - Gestão para Advogados",
-      "role": "SECRETÁRIA/RECEPCIONISTA",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://radardagestao.pandape.infojobs.com.br/Detail/3720451?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
