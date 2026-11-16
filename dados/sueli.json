@@ -804,15 +804,15 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12725985",
+      "id": "api-tecnico-a-de-enfermagem-curitiba-pr-nina-saude-fxwciwoj",
       "name": "Nina Saúde",
       "role": "Técnico(a) de Enfermagem - Curitiba, PR",
-      "area": "Curitiba, Paraná",
+      "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://ninasaude.gupy.io/job/eyJqb2JJZCI6MTI3MjU5ODUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://ninasaude.gupy.io/jobs/12725985?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-de-enfermagem-do-trabalho-rh-genoma-ltda-54e4ilmt",
@@ -978,6 +978,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-tecnico-a-enfermagem-folguista-diurno-rh-center-trabalho-temporario-ltda-uyh3oka",
+      "name": "Rh center trabalho temporario ltda",
+      "role": "Tecnico(a) Enfermagem Folguista (Diurno)",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/12033333?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-a-enfermagem-folguista-diurno-parana-clinicas-planos-de-saude-s-a-cmopdv",
