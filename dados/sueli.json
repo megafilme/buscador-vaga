@@ -1,6 +1,28 @@
 {
   "jobs": [
     {
+      "id": "api-atendente-de-farmacia-118880-manpower-baw3dpkp",
+      "name": "Manpower",
+      "role": "Atendente de Farmácia-118880",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11915784?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-atendente-de-farmacia-118881-manpower-cy4hsqgh",
+      "name": "Manpower",
+      "role": "Atendente de Farmácia-118881",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11915462?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-atendente-de-farmacia-120172-manpower-j3widojp",
       "name": "Manpower",
       "role": "Atendente de Farmácia-120172",
@@ -188,6 +210,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-auxiliar-de-farmacia-hospital-costantini-npkczrn2",
+      "name": "Hospital Costantini",
+      "role": "Auxiliar de Farmácia",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11899973?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-auxiliar-de-farmacia-de-manipulacao-bm-vagas-rimqxgwf",
       "name": "BM VAGAS",
       "role": "AUXILIAR DE FARMÁCIA DE MANIPULAÇÃO",
@@ -282,6 +315,17 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://www.empregos.com.br/vaga/11909699?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-bringel-medical-tecnico-a-de-enfermagem-curitiba-pr-grupo-bringel-4vvqlqof",
+      "name": "Grupo Bringel",
+      "role": "BRINGEL MEDICAL - TÉCNICO (A) DE ENFERMAGEM - CURITIBA / PR",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11925867?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -562,17 +606,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12832930",
-      "name": "Carreiras Pilar Hospital",
-      "role": "Recepcionista (12x36) / CEDIP Bom Retiro",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4MzI5MzAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-ambulatorial-gi-group-djkp35c4",
       "name": "Gi Group",
       "role": "Recepcionista Ambulatorial",
@@ -689,6 +722,17 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://bourbon.pandape.infojobs.com.br/Detail/3741815?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-recepcionista-para-clinica-medica-em-curitiba-pr-fg-business-otd3hpbr",
+      "name": "FG BUSINESS",
+      "role": "Recepcionista para Clínica Médica em Curitiba/PR",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://www.catho.com.br/vagas/recepcionista-para-clinica-medica-em-curitiba-pr/39313460/?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1173,17 +1217,6 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://www.empregos.com.br/vaga/11994960?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-recepcionista-bm-vagas-vekyx6fg",
-      "name": "BM VAGAS",
-      "role": "RECEPCIONISTA",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/11979705?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
