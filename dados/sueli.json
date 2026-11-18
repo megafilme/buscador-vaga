@@ -177,6 +177,17 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-auxiliar-de-enfermagem-unidade-de-internacao-irmandade-da-santa-casa-de-miserico",
+      "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
+      "role": "Auxiliar de Enfermagem | Unidade de Internação",
+      "area": "Curitiba - PR",
+      "zone": "curitiba",
+      "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3786308?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-auxiliar-de-farmacia-hospital-das-nacoes-odexal3m",
       "name": "HOSPITAL DAS NAÇÕES",
       "role": "Auxiliar de Farmácia",
@@ -716,17 +727,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-junior-bourbon-hospitalidade-qeslscj4",
-      "name": "Bourbon Hospitalidade",
-      "role": "Recepcionista Júnior",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://bourbon.pandape.infojobs.com.br/Detail/3741815?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-para-clinica-medica-em-curitiba-pr-fg-business-otd3hpbr",
       "name": "FG BUSINESS",
       "role": "Recepcionista para Clínica Médica em Curitiba/PR",
@@ -991,6 +991,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12767429",
+      "name": "Carreiras Pilar Hospital",
+      "role": "Técnico de Enfermagem UTI / Pilar Hospital",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3Njc0MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12818303",
       "name": "DaVita Tratamento Renal - Serviços Assistenciais aos Pacientes",
       "role": "Técnico Enfermagem Agudo",
@@ -1176,6 +1187,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-atendente-escala-5x2-agua-verde-curitiba-grupo-panvel-fhqxcjzj",
+      "name": "Grupo Panvel",
+      "role": "ATENDENTE | ESCALA 5X2 - ÁGUA VERDE - CURITIBA",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://lojaspanvel.gupy.io/jobs/12774905?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-recepcionista-agilidade-gestao-de-pessoas-e-solucoes-kw47ak5a",

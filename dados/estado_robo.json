@@ -323,6 +323,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12862031": {
+      "visto": "2026-11-18",
+      "fonte": "gupy",
+      "score": 45,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "gupy-12862031",
+        "name": "Grupo Positivo",
+        "role": "INSPETOR(A) ESCOLAR | ÂNGELO SAMPAIO",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI4NjIwMzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12692506": {
       "visto": "2026-11-18",
       "fonte": "gupy",
@@ -1124,6 +1141,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-auxiliar-de-enfermagem-unidade-de-internacao-irmandade-da-santa-casa-de-miserico": {
+      "visto": "2026-11-18",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-auxiliar-de-enfermagem-unidade-de-internacao-irmandade-da-santa-casa-de-miserico",
+        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
+        "role": "Auxiliar de Enfermagem | Unidade de Internação",
+        "area": "Curitiba - PR",
+        "zone": "curitiba",
+        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3786308?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-de-enfermagem-pr-pagina-de-carreira-nodsenc3": {
       "visto": "2026-11-18",
       "fonte": "freehire",
@@ -1445,6 +1479,23 @@
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-escala-5x2-agua-verde-curitiba-grupo-panvel-fhqxcjzj": {
+      "visto": "2026-11-18",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-escala-5x2-agua-verde-curitiba-grupo-panvel-fhqxcjzj",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE | ESCALA 5X2 - ÁGUA VERDE - CURITIBA",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://lojaspanvel.gupy.io/jobs/12774905?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
     "api-recepcionista-para-clinica-medica-em-curitiba-pr-fg-business-otd3hpbr": {
@@ -1855,23 +1906,6 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-recepcionista-junior-bourbon-hospitalidade-qeslscj4": {
-      "visto": "2026-11-18",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-junior-bourbon-hospitalidade-qeslscj4",
-        "name": "Bourbon Hospitalidade",
-        "role": "Recepcionista Júnior",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://bourbon.pandape.infojobs.com.br/Detail/3741815?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-estagio-em-farmacia-departamento-tecnico-1-grifols-6ubc6tjd": {
       "visto": "2026-11-18",
       "fonte": "freehire",
@@ -1921,6 +1955,23 @@
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12767429": {
+      "visto": "2026-11-18",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12767429",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Técnico de Enfermagem UTI / Pilar Hospital",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3Njc0MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
     "gupy-12890614": {
