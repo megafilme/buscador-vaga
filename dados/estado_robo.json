@@ -68,6 +68,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-inspetor-a-de-alunos-sefe-sistema-educacional-familia-e-escola-ltda-4tx5a77x": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 55,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-inspetor-a-de-alunos-sefe-sistema-educacional-familia-e-escola-ltda-4tx5a77x",
+        "name": "SEFE - SISTEMA EDUCACIONAL FAMILIA E ESCOLA LTDA",
+        "role": "Inspetor(a) de Alunos",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://editoraopet.vagas.solides.com.br/vaga/955505?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-secretaria-executiva-sefe-sistema-educacional-familia-e-escola-ltda-fk4an3hx": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -131,6 +148,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://www.empregos.com.br/vaga/12017753?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-gac-taruma-servopa-ei3kgwh3": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 20,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "api-recepcionista-gac-taruma-servopa-ei3kgwh3",
+        "name": "SERVOPA",
+        "role": "Recepcionista - GAC - TARUMÃ",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://www.catho.com.br/vagas/recepcionista-gac-taruma/39331809/?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -835,23 +869,6 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-pr-a-tecnico-de-enfermagem-ii-pr-grupo-fleury-75s5jie6": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-pr-a-tecnico-de-enfermagem-ii-pr-grupo-fleury-75s5jie6",
-        "name": "Grupo Fleury",
-        "role": "PR A+ - Tecnico de Enfermagem II - PR",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.vagas.com.br/vagas/v2839700/pr-a-tecnico-de-enfermagem-ii-pr?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-tecnica-de-enfermagem-clinica-medica-b7jznr25": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -1119,40 +1136,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://hapvidandi.gupy.io/jobs/12887866?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-enfermagem-hospitalar-uti-neonatal-hospital-e-maternidade-santa-brigida-": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-enfermagem-hospitalar-uti-neonatal-hospital-e-maternidade-santa-brigida-",
-        "name": "hapvidandi (Gupy)",
-        "role": "TECNICO ENFERMAGEM HOSPITALAR- UTI NEONATAL - HOSPITAL E MATERNIDADE SANTA BRIGIDA",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://hapvidandi.gupy.io/jobs/12857858?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-enfermagem-hospitalar-maternidade-hospital-e-maternidade-santa-brigida-p": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-enfermagem-hospitalar-maternidade-hospital-e-maternidade-santa-brigida-p",
-        "name": "hapvidandi (Gupy)",
-        "role": "TECNICO ENFERMAGEM HOSPITALAR- MATERNIDADE - HOSPITAL E MATERNIDADE SANTA BRIGIDA",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://hapvidandi.gupy.io/jobs/12857643?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1804,6 +1787,23 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-recepcionista-foursales-goxizuct": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 40,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-foursales-goxizuct",
+        "name": "Foursales",
+        "role": "Recepcionista",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/11882457?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-recepcionista-the-foursales-company-2d5iak2h": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -2008,6 +2008,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12824313": {
+      "visto": "2026-11-19",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12824313",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4MjQzMTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12767429": {
       "visto": "2026-11-19",
       "fonte": "gupy",
@@ -2076,6 +2093,40 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12857858": {
+      "visto": "2026-11-19",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12857858",
+        "name": "hapvidandi (Gupy)",
+        "role": "TECNICO ENFERMAGEM HOSPITALAR- UTI NEONATAL - HOSPITAL E MATERNIDADE SANTA BRIGIDA",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4NTc4NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12857643": {
+      "visto": "2026-11-19",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12857643",
+        "name": "hapvidandi (Gupy)",
+        "role": "TECNICO ENFERMAGEM HOSPITALAR- MATERNIDADE - HOSPITAL E MATERNIDADE SANTA BRIGIDA",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4NTc2NDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12857444": {
       "visto": "2026-11-19",
       "fonte": "gupy",
@@ -2139,23 +2190,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://oportunidadesconfidenciais.gupy.io/job/eyJqb2JJZCI6MTI2Nzc1MjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12802995": {
-      "visto": "2026-11-19",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12802995",
-        "name": "Carreiras Pilar Hospital",
-        "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4MDI5OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."

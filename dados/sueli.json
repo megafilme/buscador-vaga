@@ -562,17 +562,6 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-pr-a-tecnico-de-enfermagem-ii-pr-grupo-fleury-75s5jie6",
-      "name": "Grupo Fleury",
-      "role": "PR A+ - Tecnico de Enfermagem II - PR",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://www.vagas.com.br/vagas/v2839700/pr-a-tecnico-de-enfermagem-ii-pr?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-hospital-das-nacoes-o62o5j7j",
       "name": "HOSPITAL DAS NAÇÕES",
       "role": "Recepcionista",
@@ -969,12 +958,12 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12802995",
+      "id": "gupy-12824313",
       "name": "Carreiras Pilar Hospital",
       "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4MDI5OTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4MjQzMTMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -1134,15 +1123,15 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-enfermagem-hospitalar-maternidade-hospital-e-maternidade-santa-brigida-p",
+      "id": "gupy-12857643",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM HOSPITALAR- MATERNIDADE - HOSPITAL E MATERNIDADE SANTA BRIGIDA",
-      "area": "Curitiba, PR, Brasil",
+      "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12857643?utm_source=freehire.me",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4NTc2NDMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnico-enfermagem-hospitalar-pronto-socorro-hospital-onix-mateus-leme-pagina-de",
@@ -1156,15 +1145,15 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-enfermagem-hospitalar-uti-neonatal-hospital-e-maternidade-santa-brigida-",
+      "id": "gupy-12857858",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM HOSPITALAR- UTI NEONATAL - HOSPITAL E MATERNIDADE SANTA BRIGIDA",
-      "area": "Curitiba, PR, Brasil",
+      "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12857858?utm_source=freehire.me",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4NTc4NTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12858133",
@@ -1283,6 +1272,17 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://gd9rh.pandape.infojobs.com.br/Detail/3576891?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-recepcionista-foursales-goxizuct",
+      "name": "Foursales",
+      "role": "Recepcionista",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11882457?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
