@@ -331,17 +331,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-bringel-medical-tecnico-a-de-enfermagem-curitiba-pr-grupo-bringel-4vvqlqof",
-      "name": "Grupo Bringel",
-      "role": "BRINGEL MEDICAL - TÉCNICO (A) DE ENFERMAGEM - CURITIBA / PR",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/11925867?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-estagiario-de-enfermagem-nivel-tecnico-pilar-hospital-carreiras-vera-cruz-hospit",
       "name": "Carreiras Vera Cruz Hospital",
       "role": "Estagiário de Enfermagem (Nível Técnico) / Pilar Hospital",
@@ -672,6 +661,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-recepcionista-comercial-clinica-de-cirurgia-estetica-glasses-santana-costa-dgm5h",
+      "name": "GLASSES SANTANA COSTA",
+      "role": "Recepcionista /Comercial - Clinica de Cirurgia Estética",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://glassessantanacosta.pandape.infojobs.com.br/Detail/3939574?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-recepcionista-comercial-clinica-estetica-glasses-santana-costa-w5prip5e",
       "name": "GLASSES SANTANA COSTA",
       "role": "Recepcionista Comercial - Clinica Estética",
@@ -991,6 +991,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-tecnico-de-enfermagem-uti-pilar-hospital-carreiras-vera-cruz-hospital-arqlxypl",
+      "name": "Carreiras Vera Cruz Hospital",
+      "role": "Técnico de Enfermagem UTI / Pilar Hospital",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/jobs/12767429?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12767429",
       "name": "Carreiras Pilar Hospital",
       "role": "Técnico de Enfermagem UTI / Pilar Hospital",
@@ -1195,6 +1206,17 @@
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
       "source": "https://lojaspanvel.gupy.io/jobs/12774905?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-atendente-escala-5x2-ahu-curitiba-grupo-panvel-zvhzv6yq",
+      "name": "Grupo Panvel",
+      "role": "ATENDENTE | ESCALA 5X2 - AHÚ - CURITIBA",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://lojaspanvel.gupy.io/jobs/12830669?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
