@@ -408,6 +408,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12920760": {
+      "visto": "2026-11-19",
+      "fonte": "gupy",
+      "score": 20,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "gupy-12920760",
+        "name": "Vem Pra Vivo",
+        "role": "Atendente Relacionamento B2B | Presencial | Curitiba",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://atendimentovivo.gupy.io/job/eyJqb2JJZCI6MTI5MjA3NjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12753639": {
       "visto": "2026-11-19",
       "fonte": "gupy",
@@ -512,6 +529,23 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-atendente-escala-5x2-shopping-curitiba-curitiba-grupo-panvel-4t5w2eiu": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-escala-5x2-shopping-curitiba-curitiba-grupo-panvel-4t5w2eiu",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE | ESCALA 5X2 - SHOPPING CURITIBA - CURITIBA",
+        "area": "Pinhais, PR, Brasil",
+        "zone": "pinhais",
+        "source": "https://lojaspanvel.gupy.io/jobs/12836354?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-recepcionista-pinhais-pr-pinhais-pr-tcxzax3l": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -609,6 +643,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://interligasolucoesemservicosdesaudeltda.pandape.infojobs.com.br/Detail/3739942?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-de-enfermagem-centro-cirurgico-pilar-hospital-carreiras-vera-cruz-hospit": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-centro-cirurgico-pilar-hospital-carreiras-vera-cruz-hospit",
+        "name": "Carreiras Vera Cruz Hospital",
+        "role": "Técnico de Enfermagem Centro Cirúrgico / Pilar Hospital",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/jobs/12633557?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -903,6 +954,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnicoa-de-enfermagem-do-trabalho-concentrix-7xjyvmsf": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnicoa-de-enfermagem-do-trabalho-concentrix-7xjyvmsf",
+        "name": "Concentrix",
+        "role": "Técnicoa de Enfermagem do Trabalho",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/11854239?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-pessoa-tecnica-de-enfermagem-huc-pcd-grupo-marista-hkhqd25d": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -1085,57 +1153,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://hapvidanditea.gupy.io/jobs/12890614?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-enfermagem-centro-cirurgico-i-curitiba-pr-pagina-de-carreira-jpcqlr44": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-enfermagem-centro-cirurgico-i-curitiba-pr-pagina-de-carreira-jpcqlr44",
-        "name": "hapvidandi (Gupy)",
-        "role": "TECNICO ENFERMAGEM CENTRO CIRURGICO I CURITIBA (PR)",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://hapvidandi.gupy.io/jobs/12888257?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-a-enfermagem-folguista-diurno-parana-clinicas-planos-de-saude-s-a-cmopdv": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-a-enfermagem-folguista-diurno-parana-clinicas-planos-de-saude-s-a-cmopdv",
-        "name": "PARANÁ CLINICAS - PLANOS DE SAUDE S/A.",
-        "role": "Tecnico(a) Enfermagem Folguista (Diurno)",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/12025878?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-enfermagem-hospitalar-i-curitiba-pr-pagina-de-carreira-rqbv72vc": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-enfermagem-hospitalar-i-curitiba-pr-pagina-de-carreira-rqbv72vc",
-        "name": "hapvidandi (Gupy)",
-        "role": "TECNICO ENFERMAGEM HOSPITALAR I CURITIBA (PR)",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://hapvidandi.gupy.io/jobs/12887866?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1481,6 +1498,74 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-atendente-escala-5x2-mossungue-curitiba-grupo-panvel-rqv7mysf": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-escala-5x2-mossungue-curitiba-grupo-panvel-rqv7mysf",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE | ESCALA 5X2 -MOSSUNGUÊ - CURITIBA",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://lojaspanvel.gupy.io/jobs/12920667?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-escala-5x2-jardim-das-americas-curitiba-grupo-panvel-ni4zxfil": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-escala-5x2-jardim-das-americas-curitiba-grupo-panvel-ni4zxfil",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE | ESCALA 5X2 - JARDIM DAS AMÉRICAS - CURITIBA",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://lojaspanvel.gupy.io/jobs/12920460?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-escala-5x2-batel-curitiba-grupo-panvel-cuogveh5": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-escala-5x2-batel-curitiba-grupo-panvel-cuogveh5",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE | ESCALA 5X2 - BATEL - CURITIBA",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://lojaspanvel.gupy.io/jobs/12920412?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-escala-5x2-curitiba-centro-grupo-panvel-jduluzqh": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-escala-5x2-curitiba-centro-grupo-panvel-jduluzqh",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE | ESCALA 5X2 - CURITIBA - CENTRO",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://lojaspanvel.gupy.io/jobs/12833693?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-atendente-escala-5x2-ahu-curitiba-grupo-panvel-zvhzv6yq": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -1680,23 +1765,6 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://brilharrh.pandape.infojobs.com.br/Detail/3919753?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-recepcionista-glasses-santana-costa-ioniddrf": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 40,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-glasses-santana-costa-ioniddrf",
-        "name": "GLASSES SANTANA COSTA",
-        "role": "Recepcionista",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://glassessantanacosta.pandape.infojobs.com.br/Detail/3912750?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1923,23 +1991,6 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2",
-        "name": "Carreiras Vera Cruz Hospital",
-        "role": "Recepcionista / CEDIP Alto da XV",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/jobs/12675389?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -2008,6 +2059,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12633557": {
+      "visto": "2026-11-19",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12633557",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Técnico de Enfermagem Centro Cirúrgico / Pilar Hospital",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI2MzM1NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12824313": {
       "visto": "2026-11-19",
       "fonte": "gupy",
@@ -2054,6 +2122,40 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://hapvidanditea.gupy.io/job/eyJqb2JJZCI6MTI4OTA2MTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12888257": {
+      "visto": "2026-11-19",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12888257",
+        "name": "hapvidandi (Gupy)",
+        "role": "TECNICO ENFERMAGEM CENTRO CIRURGICO I CURITIBA (PR)",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4ODgyNTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12887866": {
+      "visto": "2026-11-19",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12887866",
+        "name": "hapvidandi (Gupy)",
+        "role": "TECNICO ENFERMAGEM HOSPITALAR I CURITIBA (PR)",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4ODc4NjYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -2416,23 +2518,6 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
-    "gupy-12839744": {
-      "visto": "2026-11-19",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "gupy-12839744",
-        "name": "CLAMED Lojas",
-        "role": "Atendente de Farmácia Pivô - CURITIBA E REGIÃO/PR",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI4Mzk3NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
     "gupy-12829193": {
       "visto": "2026-11-19",
       "fonte": "gupy",
@@ -2479,23 +2564,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDgwNjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12745012": {
-      "visto": "2026-11-19",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "gupy-12745012",
-        "name": "Carreiras Pilar Hospital",
-        "role": "Recepcionista / Pilar Hospital",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3NDUwMTIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
