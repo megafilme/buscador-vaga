@@ -958,6 +958,17 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-tecnico-de-enfermagem-uti-hospital-inc-m6ngkctp",
+      "name": "Hospital INC",
+      "role": "Técnico de Enfermagem - UTI",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/12042526?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnico-de-enfermagem-uti-irmandade-da-santa-casa-de-misericordia-de-curitiba-hy",
       "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
       "role": "Técnico de Enfermagem UTI",
@@ -1002,17 +1013,6 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-enfermagem-ambulatorial-curitiba-pr-pagina-de-carreira-vmfd2x72",
-      "name": "hapvidanditea (Gupy)",
-      "role": "TECNICO ENFERMAGEM AMBULATORIAL | CURITIBA (PR)",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://hapvidanditea.gupy.io/jobs/12890614?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "gupy-12890614",
       "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
       "role": "TECNICO ENFERMAGEM AMBULATORIAL | CURITIBA (PR)",
@@ -1055,17 +1055,6 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-a-enfermagem-folguista-diurno-rh-center-trabalho-temporario-ltda-uyh3oka",
-      "name": "Rh center trabalho temporario ltda",
-      "role": "Tecnico(a) Enfermagem Folguista (Diurno)",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/12033333?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12857444",
@@ -1156,15 +1145,15 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-enfermagem-uti-neonatal-i-curitiba-pr-pagina-de-carreira-mc7j4lmz",
+      "id": "gupy-12895474",
       "name": "hapvidandi (Gupy)",
       "role": "TECNICO ENFERMAGEM UTI NEONATAL I CURITIBA (PR)",
-      "area": "Curitiba, PR, Brasil",
+      "area": "Curitiba, Paraná",
       "zone": "curitiba",
-      "source": "https://hapvidandi.gupy.io/jobs/12895474?utm_source=freehire.me",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4OTU0NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-tecnicoa-de-enfermagem-do-trabalho-concentrix-7xjyvmsf",
@@ -1261,6 +1250,17 @@
       "area": "Pinhais, PR",
       "zone": "pinhais",
       "source": "https://www.empregos.com.br/vaga/12020697?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-recepcionista-glasses-santana-costa-2kqig7rd",
+      "name": "GLASSES SANTANA COSTA",
+      "role": "Recepcionista",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://glassessantanacosta.pandape.infojobs.com.br/Detail/3944197?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."

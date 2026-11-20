@@ -170,23 +170,6 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-recepcionista-servopa-matriz-servopa-axgd4osi": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 20,
-      "categoria": "Escola — recepção/administrativo",
-      "vaga": {
-        "id": "api-recepcionista-servopa-matriz-servopa-axgd4osi",
-        "name": "SERVOPA",
-        "role": "Recepcionista - Servopa Matriz",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.catho.com.br/vagas/recepcionista-servopa-matriz/39263568/?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-estagio-secretaria-escolar-souza-santos-consultoria-kkfgg3ge": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -648,6 +631,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnico-de-enfermagem-uti-hospital-inc-m6ngkctp": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-uti-hospital-inc-m6ngkctp",
+        "name": "Hospital INC",
+        "role": "Técnico de Enfermagem - UTI",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/12042526?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-de-enfermagem-centro-cirurgico-pilar-hospital-carreiras-vera-cruz-hospit": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -1102,57 +1102,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://hapvidandi.gupy.io/jobs/12904303?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-enfermagem-uti-neonatal-i-curitiba-pr-pagina-de-carreira-mc7j4lmz": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-enfermagem-uti-neonatal-i-curitiba-pr-pagina-de-carreira-mc7j4lmz",
-        "name": "hapvidandi (Gupy)",
-        "role": "TECNICO ENFERMAGEM UTI NEONATAL I CURITIBA (PR)",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://hapvidandi.gupy.io/jobs/12895474?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-a-enfermagem-folguista-diurno-rh-center-trabalho-temporario-ltda-uyh3oka": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-a-enfermagem-folguista-diurno-rh-center-trabalho-temporario-ltda-uyh3oka",
-        "name": "Rh center trabalho temporario ltda",
-        "role": "Tecnico(a) Enfermagem Folguista (Diurno)",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/12033333?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-enfermagem-ambulatorial-curitiba-pr-pagina-de-carreira-vmfd2x72": {
-      "visto": "2026-11-19",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-enfermagem-ambulatorial-curitiba-pr-pagina-de-carreira-vmfd2x72",
-        "name": "hapvidanditea (Gupy)",
-        "role": "TECNICO ENFERMAGEM AMBULATORIAL | CURITIBA (PR)",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://hapvidanditea.gupy.io/jobs/12890614?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1753,6 +1702,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-recepcionista-glasses-santana-costa-2kqig7rd": {
+      "visto": "2026-11-19",
+      "fonte": "freehire",
+      "score": 40,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-glasses-santana-costa-2kqig7rd",
+        "name": "GLASSES SANTANA COSTA",
+        "role": "Recepcionista",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://glassessantanacosta.pandape.infojobs.com.br/Detail/3944197?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-recepcionista-brilhar-rh-cu6ormj4": {
       "visto": "2026-11-19",
       "fonte": "freehire",
@@ -2105,6 +2071,23 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3Njc0MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12895474": {
+      "visto": "2026-11-19",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12895474",
+        "name": "hapvidandi (Gupy)",
+        "role": "TECNICO ENFERMAGEM UTI NEONATAL I CURITIBA (PR)",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4OTU0NzQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
