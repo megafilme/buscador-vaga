@@ -512,23 +512,6 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-atendente-escala-5x2-shopping-curitiba-curitiba-grupo-panvel-4t5w2eiu": {
-      "visto": "2026-11-21",
-      "fonte": "freehire",
-      "score": 45,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "api-atendente-escala-5x2-shopping-curitiba-curitiba-grupo-panvel-4t5w2eiu",
-        "name": "Grupo Panvel",
-        "role": "ATENDENTE | ESCALA 5X2 - SHOPPING CURITIBA - CURITIBA",
-        "area": "Pinhais, PR, Brasil",
-        "zone": "pinhais",
-        "source": "https://lojaspanvel.gupy.io/jobs/12836354?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-recepcionista-pinhais-pr-pinhais-pr-tcxzax3l": {
       "visto": "2026-11-21",
       "fonte": "freehire",
