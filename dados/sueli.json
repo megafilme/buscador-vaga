@@ -683,17 +683,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-pilar-hospital-carreiras-vera-cruz-hospital-lkgdrt22",
-      "name": "Carreiras Vera Cruz Hospital",
-      "role": "Recepcionista / Pilar Hospital",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/jobs/12745012?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-vendas-de-clinica-de-estetica-rh-curitiba-xxofqxyp",
       "name": "RH CURITIBA",
       "role": "Recepcionista / Vendas de clinica de estética",
@@ -1184,6 +1173,17 @@
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
       "source": "https://lojaspanvel.gupy.io/jobs/12920667?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-atendente-escala-5x2-shopping-curitiba-curitiba-grupo-panvel-fggyow26",
+      "name": "Grupo Panvel",
+      "role": "ATENDENTE | ESCALA 5X2 - SHOPPING CURITIBA - CURITIBA",
+      "area": "Pinhais, PR, Brasil",
+      "zone": "pinhais",
+      "source": "https://lojaspanvel.gupy.io/jobs/12921724?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
