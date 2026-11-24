@@ -17,6 +17,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-estagiario-a-de-educacao-infantil-curitiba-arqhuman-2heznvnn": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 55,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-estagiario-a-de-educacao-infantil-curitiba-arqhuman-2heznvnn",
+        "name": "Arqhuman",
+        "role": "Estagiário(a) de Educação Infantil - Curitiba",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://arqhuman.pandape.infojobs.com.br/Detail/3797041?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-professor-a-regente-educacao-infantil-banco-de-talentos-grupo-positivo-7kk5nd2c": {
       "visto": "2026-11-24",
       "fonte": "freehire",
@@ -85,6 +102,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-atendente-angelo-sampaio-grupo-positivo-5qgamdcj": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 20,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "api-atendente-angelo-sampaio-grupo-positivo-5qgamdcj",
+        "name": "Grupo Positivo",
+        "role": "ATENDENTE | ÂNGELO SAMPAIO",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://positivo.gupy.io/jobs/12753639?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-secretaria-executiva-sefe-sistema-educacional-familia-e-escola-ltda-fk4an3hx": {
       "visto": "2026-11-24",
       "fonte": "freehire",
@@ -97,6 +131,57 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://editoraopet.vagas.solides.com.br/vaga/943241?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-inspetor-a-escolar-agua-verde-grupo-positivo-xufym4td": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-inspetor-a-escolar-agua-verde-grupo-positivo-xufym4td",
+        "name": "Grupo Positivo",
+        "role": "INSPETOR(A) ESCOLAR | ÁGUA VERDE",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://positivo.gupy.io/jobs/12692506?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-auxiliar-de-sala-hospital-costantini-yw3kn4wv": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-auxiliar-de-sala-hospital-costantini-yw3kn4wv",
+        "name": "Hospital Costantini",
+        "role": "Auxiliar de sala",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/11976435?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-auxiliar-de-sala-ferista-hospital-costantini-7vmvq2hy": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-auxiliar-de-sala-ferista-hospital-costantini-7vmvq2hy",
+        "name": "Hospital Costantini",
+        "role": "Auxiliar de Sala Ferista",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://www.empregos.com.br/vaga/12023166?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -134,23 +219,6 @@
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-auxiliar-administrativo-comercial-rhf-talentos-4ihacbcs": {
-      "visto": "2026-11-24",
-      "fonte": "freehire",
-      "score": 20,
-      "categoria": "Escola — recepção/administrativo",
-      "vaga": {
-        "id": "api-auxiliar-administrativo-comercial-rhf-talentos-4ihacbcs",
-        "name": "Rhf talentos",
-        "role": "Auxiliar Administrativo Comercial",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/12017753?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
     "api-recepcionista-gac-taruma-servopa-ei3kgwh3": {
@@ -323,6 +391,23 @@
         "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12936235": {
+      "visto": "2026-11-24",
+      "fonte": "gupy",
+      "score": 65,
+      "categoria": "Escola — recepção/administrativo",
+      "vaga": {
+        "id": "gupy-12936235",
+        "name": "Elite",
+        "role": "Recepcionista | Elite SJP Afonso Pena",
+        "area": "São José dos Pinhais, Paraná",
+        "zone": "sjp",
+        "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI5MzYyMzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12684017": {
       "visto": "2026-11-24",
       "fonte": "gupy",
@@ -374,23 +459,6 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
-    "gupy-12692506": {
-      "visto": "2026-11-24",
-      "fonte": "gupy",
-      "score": 45,
-      "categoria": "Escola / educação infantil",
-      "vaga": {
-        "id": "gupy-12692506",
-        "name": "Grupo Positivo",
-        "role": "INSPETOR(A) ESCOLAR | ÁGUA VERDE",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI2OTI1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
     "gupy-12920760": {
       "visto": "2026-11-24",
       "fonte": "gupy",
@@ -403,23 +471,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://atendimentovivo.gupy.io/job/eyJqb2JJZCI6MTI5MjA3NjAsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12753639": {
-      "visto": "2026-11-24",
-      "fonte": "gupy",
-      "score": 20,
-      "categoria": "Escola — recepção/administrativo",
-      "vaga": {
-        "id": "gupy-12753639",
-        "name": "Grupo Positivo",
-        "role": "ATENDENTE | ÂNGELO SAMPAIO",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI3NTM2MzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -495,6 +546,23 @@
     }
   },
   "sueli": {
+    "api-recepcionista-agilidade-gestao-de-pessoas-e-solucoes-ybtxdm2l": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 40,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-agilidade-gestao-de-pessoas-e-solucoes-ybtxdm2l",
+        "name": "Agilidade gestão de pessoas e soluções",
+        "role": "Recepcionista",
+        "area": "Pinhais, PR",
+        "zone": "pinhais",
+        "source": "https://www.empregos.com.br/vaga/12048294?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-atendente-escala-5x2-shopping-curitiba-curitiba-grupo-panvel-fggyow26": {
       "visto": "2026-11-24",
       "fonte": "freehire",
@@ -546,6 +614,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnico-de-enfermagem-irmandade-da-santa-casa-de-misericordia-de-curitiba-5hogfu": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-irmandade-da-santa-casa-de-misericordia-de-curitiba-5hogfu",
+        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
+        "role": "Técnico de enfermagem",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3781522?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-de-enfermagem-medilar-emergencias-medicas-campinas-5lslwuch": {
       "visto": "2026-11-24",
       "fonte": "freehire",
@@ -575,23 +660,6 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://www.empregos.com.br/vaga/11976419?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-de-enfermagem-irmandade-da-santa-casa-de-misericordia-de-curitiba-jozjol": {
-      "visto": "2026-11-24",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-irmandade-da-santa-casa-de-misericordia-de-curitiba-jozjol",
-        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
-        "role": "Técnico de enfermagem",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3773307?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1039,6 +1107,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-auxiliar-de-farmacia-hospital-pequeno-principe-vqjqvwcx": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-auxiliar-de-farmacia-hospital-pequeno-principe-vqjqvwcx",
+        "name": "Hospital Pequeno Príncipe",
+        "role": "Auxiliar de Farmácia",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://www.vagas.com.br/vagas/v2844421/auxiliar-de-farmacia?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-de-farmacia-hospital-das-nacoes-odexal3m": {
       "visto": "2026-11-24",
       "fonte": "freehire",
@@ -1051,23 +1136,6 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://www.empregos.com.br/vaga/12034659?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-auxiliar-de-laboratorio-farmacia-de-manipulacao-rhf-talentos-yli4w4ap": {
-      "visto": "2026-11-24",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "api-auxiliar-de-laboratorio-farmacia-de-manipulacao-rhf-talentos-yli4w4ap",
-        "name": "Rhf talentos",
-        "role": "Auxiliar de Laboratório Farmácia de Manipulação",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/12032004?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1396,6 +1464,57 @@
         "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-atendente-escala-5x2-guabirotuba-curitiba-grupo-panvel-eqly5ci5": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-escala-5x2-guabirotuba-curitiba-grupo-panvel-eqly5ci5",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE - ESCALA 5X2 - GUABIROTUBA - CURITIBA",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://lojaspanvel.gupy.io/jobs/12896571?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-escala-5x2-madrugada-agua-verde-curitiba-grupo-panvel-wellzinv": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-escala-5x2-madrugada-agua-verde-curitiba-grupo-panvel-wellzinv",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE | ESCALA 5X2 - MADRUGADA - ÁGUA VERDE - CURITIBA",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://lojaspanvel.gupy.io/jobs/12890938?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-atendente-parana-vaga-afirmativa-para-pcd-grupo-panvel-3tcum3kl": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Farmácia",
+      "vaga": {
+        "id": "api-atendente-parana-vaga-afirmativa-para-pcd-grupo-panvel-3tcum3kl",
+        "name": "Grupo Panvel",
+        "role": "ATENDENTE | PARANÁ (VAGA AFIRMATIVA PARA PCD)",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://lojaspanvel.gupy.io/jobs/12888199?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-atendente-escala-5x2-curitiba-centro-grupo-panvel-jduluzqh": {
       "visto": "2026-11-24",
       "fonte": "freehire",
@@ -1425,23 +1544,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://lojaspanvel.gupy.io/jobs/12830669?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-atendente-escala-5x2-agua-verde-curitiba-grupo-panvel-fhqxcjzj": {
-      "visto": "2026-11-24",
-      "fonte": "freehire",
-      "score": 45,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "api-atendente-escala-5x2-agua-verde-curitiba-grupo-panvel-fhqxcjzj",
-        "name": "Grupo Panvel",
-        "role": "ATENDENTE | ESCALA 5X2 - ÁGUA VERDE - CURITIBA",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://lojaspanvel.gupy.io/jobs/12774905?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1595,6 +1697,23 @@
         "area": "Curitiba - PR",
         "zone": "curitiba",
         "source": "https://realizaagenciamentodemaodeobraegestaodeestagiosltda.pandape.infojobs.com.br/Detail/3455292?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-clinica-de-cirurgia-plastica-al65r6cr": {
+      "visto": "2026-11-24",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-clinica-de-cirurgia-plastica-al65r6cr",
+        "name": "Clínica de Cirurgia Plástica",
+        "role": "Recepcionista",
+        "area": "Curitiba, Paraná, Brazil",
+        "zone": "curitiba",
+        "source": "https://www.linkedin.com/jobs/view/4492672630/?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1889,6 +2008,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12687556": {
+      "visto": "2026-11-24",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12687556",
+        "name": "DaVita Tratamento Renal - Serviços Assistenciais aos Pacientes",
+        "role": "Técnico Enfermagem Crônico",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://servicosassistenciais.gupy.io/job/eyJqb2JJZCI6MTI2ODc1NTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12633557": {
       "visto": "2026-11-24",
       "fonte": "gupy",
@@ -2105,23 +2241,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4NTc0NDQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12715821": {
-      "visto": "2026-11-24",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12715821",
-        "name": "DaVita Tratamento Renal - Serviços Assistenciais aos Pacientes",
-        "role": "Técnico Enfermagem Crônico",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://servicosassistenciais.gupy.io/job/eyJqb2JJZCI6MTI3MTU4MjEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -2377,6 +2496,23 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://rdsaude-farmacia.gupy.io/job/eyJqb2JJZCI6MTI2NDgwNjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12868842": {
+      "visto": "2026-11-24",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "gupy-12868842",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Recepcionista (12x36) / CEDIP Bom Retiro",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI4Njg4NDIsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."

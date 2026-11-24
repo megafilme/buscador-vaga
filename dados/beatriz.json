@@ -12,6 +12,17 @@
       "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "gupy-12936235",
+      "name": "Elite",
+      "role": "Recepcionista | Elite SJP Afonso Pena",
+      "area": "São José dos Pinhais, Paraná",
+      "zone": "sjp",
+      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI5MzYyMzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12684591",
       "name": "Colégio Everest Internacional Curitiba",
       "role": "Auxiliar de professor - Banco de talentos",
@@ -21,6 +32,17 @@
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-estagiario-a-de-educacao-infantil-curitiba-arqhuman-2heznvnn",
+      "name": "Arqhuman",
+      "role": "Estagiário(a) de Educação Infantil - Curitiba",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://arqhuman.pandape.infojobs.com.br/Detail/3797041?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-inspetor-a-de-alunos-sefe-sistema-educacional-familia-e-escola-ltda-4tx5a77x",
@@ -144,12 +166,34 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-auxiliar-de-sala-hospital-costantini-yw3kn4wv",
+      "name": "Hospital Costantini",
+      "role": "Auxiliar de sala",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/11976435?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-auxiliar-de-sala-de-exame-irmandade-da-santa-casa-de-misericordia-de-curitiba-rd",
       "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
       "role": "Auxiliar de Sala de Exame",
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3447268?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-auxiliar-de-sala-ferista-hospital-costantini-7vmvq2hy",
+      "name": "Hospital Costantini",
+      "role": "Auxiliar de Sala Ferista",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://www.empregos.com.br/vaga/12023166?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -166,15 +210,15 @@
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12692506",
+      "id": "api-inspetor-a-escolar-agua-verde-grupo-positivo-xufym4td",
       "name": "Grupo Positivo",
       "role": "INSPETOR(A) ESCOLAR | ÁGUA VERDE",
-      "area": "Curitiba, Paraná",
+      "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI2OTI1MDYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://positivo.gupy.io/jobs/12692506?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12862031",
@@ -276,15 +320,15 @@
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12753639",
+      "id": "api-atendente-angelo-sampaio-grupo-positivo-5qgamdcj",
       "name": "Grupo Positivo",
       "role": "ATENDENTE | ÂNGELO SAMPAIO",
-      "area": "Curitiba, Paraná",
+      "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI3NTM2MzksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://positivo.gupy.io/jobs/12753639?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12920760",
@@ -296,17 +340,6 @@
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-auxiliar-administrativo-comercial-rhf-talentos-4ihacbcs",
-      "name": "Rhf talentos",
-      "role": "Auxiliar Administrativo Comercial",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/12017753?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-recepcionista-gac-taruma-servopa-ei3kgwh3",
