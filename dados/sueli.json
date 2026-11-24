@@ -342,17 +342,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-pessoa-tecnica-de-enfermagem-centro-cirurgico-hemodinamica-hsmc-grupo-marista-g3",
-      "name": "Grupo Marista",
-      "role": "Pessoa Técnica de Enfermagem | Centro Cirúrgico Hemodinâmica | HSMC",
-      "area": "Curitiba, Paraná, Brasil",
-      "zone": "curitiba",
-      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI1ODE0MTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-pessoa-tecnica-de-enfermagem-centro-cirurgico-video-hsmc-grupo-marista-l4rbtfit",
       "name": "Grupo Marista",
       "role": "Pessoa Técnica de Enfermagem | Centro Cirúrgico Vídeo | HSMC",
@@ -430,28 +419,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-pessoa-tecnica-de-enfermagem-unidade-de-internacao-hsmc-grupo-marista-m5w6nr7c",
-      "name": "Grupo Marista",
-      "role": "Pessoa Técnica de Enfermagem | Unidade de Internação | HSMC",
-      "area": "Curitiba, Paraná, Brasil",
-      "zone": "curitiba",
-      "source": "https://hospitalsaomarcelinochampagnat.gupy.io/job/eyJqb2JJZCI6MTI1ODQ3MzgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "gupy-12584524",
-      "name": "Hospital Universitário Cajuru",
-      "role": "Pessoa Técnica de Enfermagem | Unidade de Internação | HUC",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://hospitaluniversitariocajuru.gupy.io/job/eyJqb2JJZCI6MTI1ODQ1MjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "gupy-12766821",
       "name": "Hospital Universitário Cajuru",
       "role": "Pessoa Técnica de Enfermagem | Vaga exclusiva para pessoas com deficiência e reabilitados do INSS | HUC",
@@ -485,15 +452,15 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12927308",
+      "id": "api-pp-atendente-de-farmacia-batel-curitiba-pr-clamed-lojas-e2eu2qnt",
       "name": "CLAMED Lojas",
       "role": "(PP) Atendente de Farmácia - Batel | Curitiba/ PR",
-      "area": "Curitiba, Paraná",
+      "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://clamedlojas.gupy.io/job/eyJqb2JJZCI6MTI5MjczMDgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "source": "https://clamedlojas.gupy.io/jobs/12927308?utm_source=freehire.me",
       "wa": "",
       "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-pp-atendente-de-farmacia-boqueirao-curitiba-pr-clamed-lojas-xfh3t5vw",
