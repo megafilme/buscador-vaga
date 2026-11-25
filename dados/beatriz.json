@@ -12,6 +12,17 @@
       "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-recepcionista-elite-sjp-afonso-pena-colegio-nota-10-tznv7tlh",
+      "name": "Colégio Nota 10",
+      "role": "Recepcionista | Elite SJP Afonso Pena",
+      "area": "São José dos Pinhais, PR, Brasil",
+      "zone": "sjp",
+      "source": "https://freehire.me/api/v1/go/recepcionista-elite-sjp-afonso-pena-colegio-nota-10-tznv7tlh?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12936235",
       "name": "Elite",
       "role": "Recepcionista | Elite SJP Afonso Pena",

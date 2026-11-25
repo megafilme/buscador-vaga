@@ -204,7 +204,7 @@
       "role": "Auxiliar de farmácia",
       "area": "Curitiba, PR",
       "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/12011490?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/auxiliar-de-farmacia-callfarma-qkmrccjy?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -469,6 +469,17 @@
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
       "source": "https://clamedlojas.gupy.io/jobs/12895418?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-pp-atendente-de-farmacia-campo-comprido-curitiba-pr-clamed-lojas-44u36xes",
+      "name": "CLAMED Lojas",
+      "role": "(PP) Atendente de Farmácia - Campo Comprido | Curitiba/PR",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/pp-atendente-de-farmacia-campo-comprido-curitiba-pr-clamed-lojas-44u36xes?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -936,17 +947,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "gupy-12767429",
-      "name": "Carreiras Pilar Hospital",
-      "role": "Técnico de Enfermagem UTI / Pilar Hospital",
-      "area": "Curitiba, Paraná",
-      "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI3Njc0MjksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "gupy-12890614",
       "name": "Pagina dedicada à cargos especializados em TEA e Medicina preventiva",
       "role": "TECNICO ENFERMAGEM AMBULATORIAL | CURITIBA (PR)",
@@ -1090,34 +1090,12 @@
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-atendente-escala-5x2-ahu-curitiba-grupo-panvel-zvhzv6yq",
-      "name": "Grupo Panvel",
-      "role": "ATENDENTE | ESCALA 5X2 - AHÚ - CURITIBA",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://lojaspanvel.gupy.io/jobs/12830669?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-atendente-escala-5x2-batel-curitiba-grupo-panvel-cuogveh5",
       "name": "Grupo Panvel",
       "role": "ATENDENTE | ESCALA 5X2 - BATEL - CURITIBA",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
       "source": "https://lojaspanvel.gupy.io/jobs/12920412?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-atendente-escala-5x2-curitiba-centro-grupo-panvel-jduluzqh",
-      "name": "Grupo Panvel",
-      "role": "ATENDENTE | ESCALA 5X2 - CURITIBA - CENTRO",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://lojaspanvel.gupy.io/jobs/12833693?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
