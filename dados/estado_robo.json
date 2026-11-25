@@ -1,5 +1,39 @@
 {
   "beatriz": {
+    "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-cent": {
+      "visto": "2026-11-25",
+      "fonte": "freehire",
+      "score": 100,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-cent",
+        "name": "Colégio Nota 10",
+        "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais - Centro | PR",
+        "area": "São José dos Pinhais, PR, Brasil",
+        "zone": "sjp",
+        "source": "https://freehire.me/api/v1/go/elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-centro-pr-colegio-nota-10-5ib3m4yf?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-secretario-escolar-elite-sao-jose-dos-pinhais-colegio-nota-10-5lpeitko": {
+      "visto": "2026-11-25",
+      "fonte": "freehire",
+      "score": 100,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-secretario-escolar-elite-sao-jose-dos-pinhais-colegio-nota-10-5lpeitko",
+        "name": "Colégio Nota 10",
+        "role": "Secretário Escolar | Elite São José dos Pinhais",
+        "area": "São José dos Pinhais, PR, Brasil",
+        "zone": "sjp",
+        "source": "https://freehire.me/api/v1/go/secretario-escolar-elite-sao-jose-dos-pinhais-colegio-nota-10-5lpeitko?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-recepcionista-elite-sjp-afonso-pena-colegio-nota-10-tznv7tlh": {
       "visto": "2026-11-25",
       "fonte": "freehire",
@@ -130,7 +164,7 @@
         "role": "ATENDENTE | ÂNGELO SAMPAIO",
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://positivo.gupy.io/jobs/12753639?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/atendente-angelo-sampaio-grupo-positivo-5qgamdcj?src=web",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -440,6 +474,23 @@
         "wa": "",
         "email": "",
         "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12941964": {
+      "visto": "2026-11-25",
+      "fonte": "gupy",
+      "score": 90,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "gupy-12941964",
+        "name": "Elite",
+        "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais - Centro | PR",
+        "area": "São José dos Pinhais, Paraná",
+        "zone": "sjp",
+        "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI5NDE5NjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
     "gupy-12684017": {
@@ -1192,6 +1243,40 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-1204152-auxiliar-de-enfermagem-ambulatorial-curitiba-hospital-onix-mateus-leme-p": {
+      "visto": "2026-11-25",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-1204152-auxiliar-de-enfermagem-ambulatorial-curitiba-hospital-onix-mateus-leme-p",
+        "name": "Página de Carreira",
+        "role": "1204152 - AUXILIAR DE ENFERMAGEM AMBULATORIAL (CURITIBA - HOSPITAL ONIX MATEUS LEME)",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/1204152-auxiliar-de-enfermagem-ambulatorial-curitiba-hospital-onix-mateus-leme-pagina-de-carreira-vlnlnnpn?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-1187572-auxiliar-de-enfermagem-ambulatorial-laboratorio-curitiba-cmd-pagina-de-c": {
+      "visto": "2026-11-25",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-1187572-auxiliar-de-enfermagem-ambulatorial-laboratorio-curitiba-cmd-pagina-de-c",
+        "name": "Página de Carreira",
+        "role": "1187572 - AUXILIAR DE ENFERMAGEM AMBULATORIAL (Laboratório CURITIBA CMD)",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/1187572-auxiliar-de-enfermagem-ambulatorial-laboratorio-curitiba-cmd-pagina-de-carreira-vfhdi3gc?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-auxiliar-de-farmacia-hospital-pequeno-principe-vqjqvwcx": {
       "visto": "2026-11-25",
       "fonte": "freehire",
@@ -1305,7 +1390,7 @@
         "role": "Atendente de Farmácia | Uberaba - Curitiba/PR",
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://farmaciaspmenos.gupy.io/jobs/12864058?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/atendente-de-farmacia-uberaba-curitiba-pr-farmacias-pague-menos-saegwi7j?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1322,7 +1407,7 @@
         "role": "Atendente de Farmácia | Campo Comprido - Curitiba/PR",
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://farmaciaspmenos.gupy.io/jobs/12863995?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/atendente-de-farmacia-campo-comprido-curitiba-pr-farmacias-pague-menos-dxnee6hs?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1339,7 +1424,7 @@
         "role": "Atendente de Farmácia | Bigorrilho - Curitiba/PR",
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://farmaciaspmenos.gupy.io/jobs/12863895?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/atendente-de-farmacia-bigorrilho-curitiba-pr-farmacias-pague-menos-5iiuepff?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1356,7 +1441,7 @@
         "role": "Atendente de Farmácia | Água Verde - Curitiba/PR",
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://farmaciaspmenos.gupy.io/jobs/12863231?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/atendente-de-farmacia-agua-verde-curitiba-pr-farmacias-pague-menos-utxne7kr?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -2399,6 +2484,40 @@
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12945136": {
+      "visto": "2026-11-25",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12945136",
+        "name": "hapvidandi (Gupy)",
+        "role": "1204152 - AUXILIAR DE ENFERMAGEM AMBULATORIAL (CURITIBA - HOSPITAL ONIX MATEUS LEME)",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI5NDUxMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12661091": {
+      "visto": "2026-11-25",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12661091",
+        "name": "hapvidandi (Gupy)",
+        "role": "1187572 - AUXILIAR DE ENFERMAGEM AMBULATORIAL (Laboratório CURITIBA CMD)",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2NjEwOTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12895244": {
       "visto": "2026-11-25",
       "fonte": "gupy",
@@ -2584,6 +2703,23 @@
         "wa": "",
         "email": "",
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12675389": {
+      "visto": "2026-11-25",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "gupy-12675389",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Recepcionista / CEDIP Alto da XV",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI2NzUzODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
     "gupy-12829600": {

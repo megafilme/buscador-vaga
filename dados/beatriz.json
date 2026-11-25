@@ -1,6 +1,39 @@
 {
   "jobs": [
     {
+      "id": "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-cent",
+      "name": "Colégio Nota 10",
+      "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais - Centro | PR",
+      "area": "São José dos Pinhais, PR, Brasil",
+      "zone": "sjp",
+      "source": "https://freehire.me/api/v1/go/elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-centro-pr-colegio-nota-10-5ib3m4yf?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-secretario-escolar-elite-sao-jose-dos-pinhais-colegio-nota-10-5lpeitko",
+      "name": "Colégio Nota 10",
+      "role": "Secretário Escolar | Elite São José dos Pinhais",
+      "area": "São José dos Pinhais, PR, Brasil",
+      "zone": "sjp",
+      "source": "https://freehire.me/api/v1/go/secretario-escolar-elite-sao-jose-dos-pinhais-colegio-nota-10-5lpeitko?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12941964",
+      "name": "Elite",
+      "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais - Centro | PR",
+      "area": "São José dos Pinhais, Paraná",
+      "zone": "sjp",
+      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI5NDE5NjQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12776473",
       "name": "Elite",
       "role": "Inspetor Escolar | Elite - SJP AFONSO PENA",
@@ -369,7 +402,7 @@
       "role": "ATENDENTE | ÂNGELO SAMPAIO",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://positivo.gupy.io/jobs/12753639?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/atendente-angelo-sampaio-grupo-positivo-5qgamdcj?src=web",
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."

@@ -1,6 +1,50 @@
 {
   "jobs": [
     {
+      "id": "api-1187572-auxiliar-de-enfermagem-ambulatorial-laboratorio-curitiba-cmd-pagina-de-c",
+      "name": "Página de Carreira",
+      "role": "1187572 - AUXILIAR DE ENFERMAGEM AMBULATORIAL (Laboratório CURITIBA CMD)",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/1187572-auxiliar-de-enfermagem-ambulatorial-laboratorio-curitiba-cmd-pagina-de-carreira-vfhdi3gc?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12661091",
+      "name": "hapvidandi (Gupy)",
+      "role": "1187572 - AUXILIAR DE ENFERMAGEM AMBULATORIAL (Laboratório CURITIBA CMD)",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI2NjEwOTEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-1204152-auxiliar-de-enfermagem-ambulatorial-curitiba-hospital-onix-mateus-leme-p",
+      "name": "Página de Carreira",
+      "role": "1204152 - AUXILIAR DE ENFERMAGEM AMBULATORIAL (CURITIBA - HOSPITAL ONIX MATEUS LEME)",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/1204152-auxiliar-de-enfermagem-ambulatorial-curitiba-hospital-onix-mateus-leme-pagina-de-carreira-vlnlnnpn?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12945136",
+      "name": "hapvidandi (Gupy)",
+      "role": "1204152 - AUXILIAR DE ENFERMAGEM AMBULATORIAL (CURITIBA - HOSPITAL ONIX MATEUS LEME)",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI5NDUxMzYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-atendente-de-farmacia-118880-manpower-baw3dpkp",
       "name": "Manpower",
       "role": "Atendente de Farmácia-118880",
@@ -39,7 +83,7 @@
       "role": "Atendente de Farmácia | Água Verde - Curitiba/PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://farmaciaspmenos.gupy.io/jobs/12863231?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/atendente-de-farmacia-agua-verde-curitiba-pr-farmacias-pague-menos-utxne7kr?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -50,7 +94,7 @@
       "role": "Atendente de Farmácia | Bigorrilho - Curitiba/PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://farmaciaspmenos.gupy.io/jobs/12863895?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/atendente-de-farmacia-bigorrilho-curitiba-pr-farmacias-pague-menos-5iiuepff?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -61,7 +105,7 @@
       "role": "Atendente de Farmácia | Campo Comprido - Curitiba/PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://farmaciaspmenos.gupy.io/jobs/12863995?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/atendente-de-farmacia-campo-comprido-curitiba-pr-farmacias-pague-menos-dxnee6hs?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -138,7 +182,7 @@
       "role": "Atendente de Farmácia | Uberaba - Curitiba/PR",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://farmaciaspmenos.gupy.io/jobs/12864058?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/atendente-de-farmacia-uberaba-curitiba-pr-farmacias-pague-menos-saegwi7j?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -579,6 +623,17 @@
       "area": "Curitiba, Paraná",
       "zone": "curitiba",
       "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI4Nzg1NjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12675389",
+      "name": "Carreiras Pilar Hospital",
+      "role": "Recepcionista / CEDIP Alto da XV",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI2NzUzODksInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
