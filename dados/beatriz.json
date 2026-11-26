@@ -309,6 +309,17 @@
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-tecnico-de-enfermagem-centro-cirurgico-hospital-pequeno-principe-tqedh7kp",
+      "name": "HOSPITAL PEQUENO PRÍNCIPE",
+      "role": "Técnico de Enfermagem - Centro Cirúrgico",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-centro-cirurgico-hospital-pequeno-principe-tqedh7kp?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnico-de-enfermagem-setor-unidade-de-internacao-hospital-pequeno-principe-2px7",
       "name": "HOSPITAL PEQUENO PRÍNCIPE",
       "role": "Técnico de Enfermagem - Setor Unidade de Internação",
@@ -419,12 +430,12 @@
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-gac-taruma-servopa-ei3kgwh3",
+      "id": "api-recepcionista-gac-portao-servopa-mcnnmhzc",
       "name": "SERVOPA",
-      "role": "Recepcionista - GAC - TARUMÃ",
+      "role": "Recepcionista - GAC - PORTÃO",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://freehire.me/api/v1/go/recepcionista-gac-taruma-servopa-ei3kgwh3?src=web",
+      "source": "https://freehire.me/api/v1/go/recepcionista-gac-portao-servopa-mcnnmhzc?src=web",
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
