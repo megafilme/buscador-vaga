@@ -1,5 +1,22 @@
 {
   "beatriz": {
+    "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-afon": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 100,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-afon",
+        "name": "Colégio Nota 10",
+        "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais – Afonso Pena | PR",
+        "area": "São José dos Pinhais, PR, Brasil",
+        "zone": "sjp",
+        "source": "https://freehire.me/api/v1/go/elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-afonso-pena-pr-colegio-nota-10-qedbrczb?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-cent": {
       "visto": "2026-11-26",
       "fonte": "freehire",
@@ -97,6 +114,23 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://colegiopositivo.gupy.io/jobs/12684017?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-curitiba-novo-mundo-pr-co": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 55,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-curitiba-novo-mundo-pr-co",
+        "name": "Colégio Nota 10",
+        "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite Curitiba Novo Mundo | PR",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/elite-2027-estagiario-auxiliar-de-turma-mediador-elite-curitiba-novo-mundo-pr-colegio-nota-10-7gkwsgij?src=web",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -249,7 +283,7 @@
         "role": "Auxiliar de Sala de Exame",
         "area": "Curitiba, PR",
         "zone": "curitiba",
-        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3447268?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/auxiliar-de-sala-de-exame-irmandade-da-santa-casa-de-misericordia-de-curitiba-rdjcrxno?src=web",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -527,6 +561,23 @@
         "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12948335": {
+      "visto": "2026-11-26",
+      "fonte": "gupy",
+      "score": 90,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "gupy-12948335",
+        "name": "Elite",
+        "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais – Afonso Pena | PR",
+        "area": "São José dos Pinhais, Paraná",
+        "zone": "sjp",
+        "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI5NDgzMzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12941964": {
       "visto": "2026-11-26",
       "fonte": "gupy",
@@ -542,6 +593,23 @@
         "wa": "",
         "email": "",
         "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12908616": {
+      "visto": "2026-11-26",
+      "fonte": "gupy",
+      "score": 55,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "gupy-12908616",
+        "name": "Grupo Positivo",
+        "role": "PROFESSOR(A) REGENTE EDUCAÇÃO INFANTIL",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI5MDg2MTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
       }
     },
     "gupy-12684017": {
@@ -590,6 +658,23 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI4NjIwMzEsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12948168": {
+      "visto": "2026-11-26",
+      "fonte": "gupy",
+      "score": 45,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "gupy-12948168",
+        "name": "Elite",
+        "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite Curitiba Novo Mundo | PR",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI5NDgxNjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
@@ -784,6 +869,23 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-tecnico-de-enfermagem-hospital-das-nacoes-qmrtwrfe": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-hospital-das-nacoes-qmrtwrfe",
+        "name": "HOSPITAL DAS NAÇÕES",
+        "role": "Técnico de Enfermagem",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-hospital-das-nacoes-qmrtwrfe?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-de-enfermagem-irmandade-da-santa-casa-de-misericordia-de-curitiba-5hogfu": {
       "visto": "2026-11-26",
       "fonte": "freehire",
@@ -830,6 +932,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://www.empregos.com.br/vaga/11976419?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-de-enfermagem-hemodinamica-hospital-das-nacoes-vghdagwo": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-hemodinamica-hospital-das-nacoes-vghdagwo",
+        "name": "HOSPITAL DAS NAÇÕES",
+        "role": "Técnico de Enfermagem Hemodinâmica",
+        "area": "Curitiba, PR",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-hemodinamica-hospital-das-nacoes-vghdagwo?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1153,6 +1272,23 @@
         "area": "Curitiba, Paraná, Brasil",
         "zone": "curitiba",
         "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI2MTM0NTUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal&utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-pr-a-tecnico-de-enfermagem-ii-pr-grupo-fleury-75s5jie6": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-pr-a-tecnico-de-enfermagem-ii-pr-grupo-fleury-75s5jie6",
+        "name": "Grupo Fleury",
+        "role": "PR A+ - Tecnico de Enfermagem II - PR",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/pr-a-tecnico-de-enfermagem-ii-pr-grupo-fleury-75s5jie6?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."

@@ -1,6 +1,17 @@
 {
   "jobs": [
     {
+      "id": "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-afon",
+      "name": "Colégio Nota 10",
+      "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais – Afonso Pena | PR",
+      "area": "São José dos Pinhais, PR, Brasil",
+      "zone": "sjp",
+      "source": "https://freehire.me/api/v1/go/elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-afonso-pena-pr-colegio-nota-10-qedbrczb?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-sao-jose-dos-pinhais-cent",
       "name": "Colégio Nota 10",
       "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais - Centro | PR",
@@ -21,6 +32,17 @@
       "wa": "",
       "email": "",
       "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12948335",
+      "name": "Elite",
+      "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite São José dos Pinhais – Afonso Pena | PR",
+      "area": "São José dos Pinhais, Paraná",
+      "zone": "sjp",
+      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI5NDgzMzUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Endereço da escola não confirmado; verificar proximidade da Colônia Rio Grande. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12941964",
@@ -89,6 +111,17 @@
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-elite-2027-estagiario-auxiliar-de-turma-mediador-elite-curitiba-novo-mundo-pr-co",
+      "name": "Colégio Nota 10",
+      "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite Curitiba Novo Mundo | PR",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/elite-2027-estagiario-auxiliar-de-turma-mediador-elite-curitiba-novo-mundo-pr-colegio-nota-10-7gkwsgij?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-estagiario-a-de-educacao-infantil-curitiba-arqhuman-2heznvnn",
       "name": "Arqhuman",
       "role": "Estagiário(a) de Educação Infantil - Curitiba",
@@ -131,6 +164,17 @@
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12908616",
+      "name": "Grupo Positivo",
+      "role": "PROFESSOR(A) REGENTE EDUCAÇÃO INFANTIL",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://positivo.gupy.io/job/eyJqb2JJZCI6MTI5MDg2MTYsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-professor-a-regente-educacao-infantil-banco-de-talentos-grupo-positivo-7kk5nd2c",
@@ -270,7 +314,7 @@
       "role": "Auxiliar de Sala de Exame",
       "area": "Curitiba, PR",
       "zone": "curitiba",
-      "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3447268?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/auxiliar-de-sala-de-exame-irmandade-da-santa-casa-de-misericordia-de-curitiba-rdjcrxno?src=web",
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -285,6 +329,17 @@
       "wa": "",
       "email": "",
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "gupy-12948168",
+      "name": "Elite",
+      "role": "Elite 2027 | Estagiário Auxiliar de Turma/Mediador - Elite Curitiba Novo Mundo | PR",
+      "area": "Curitiba, Paraná",
+      "zone": "curitiba",
+      "source": "https://elite.gupy.io/job/eyJqb2JJZCI6MTI5NDgxNjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+      "wa": "",
+      "email": "",
+      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
       "id": "api-estagio-secretaria-escolar-souza-santos-consultoria-kkfgg3ge",

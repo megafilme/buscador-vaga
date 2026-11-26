@@ -562,6 +562,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-pr-a-tecnico-de-enfermagem-ii-pr-grupo-fleury-75s5jie6",
+      "name": "Grupo Fleury",
+      "role": "PR A+ - Tecnico de Enfermagem II - PR",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/pr-a-tecnico-de-enfermagem-ii-pr-grupo-fleury-75s5jie6?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-recepcionista-clinica-de-cirurgia-plastica-al65r6cr",
       "name": "Clínica de Cirurgia Plástica",
       "role": "Recepcionista",
@@ -804,6 +815,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-tecnico-de-enfermagem-hospital-das-nacoes-qmrtwrfe",
+      "name": "HOSPITAL DAS NAÇÕES",
+      "role": "Técnico de Enfermagem",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-hospital-das-nacoes-qmrtwrfe?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "api-tecnico-de-enfermagem-irmandade-da-santa-casa-de-misericordia-de-curitiba-5hogfu",
       "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
       "role": "Técnico de enfermagem",
@@ -942,6 +964,17 @@
       "area": "Curitiba, PR, BR",
       "zone": "curitiba",
       "source": "https://construtoraelevacao.inhire.app/vagas/d63bf883-e435-4435-beb0-093ff4de945c/tecnico-de-enfermagem-do-trabalho-i?utm_source=freehire.me",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-tecnico-de-enfermagem-hemodinamica-hospital-das-nacoes-vghdagwo",
+      "name": "HOSPITAL DAS NAÇÕES",
+      "role": "Técnico de Enfermagem Hemodinâmica",
+      "area": "Curitiba, PR",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-hemodinamica-hospital-das-nacoes-vghdagwo?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
