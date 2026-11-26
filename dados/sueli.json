@@ -595,6 +595,17 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
+      "id": "api-recepcionista-12x36-cedip-bom-retiro-carreiras-vera-cruz-hospital-dzk3snvf",
+      "name": "Carreiras Vera Cruz Hospital",
+      "role": "Recepcionista (12x36) / CEDIP Bom Retiro",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/recepcionista-12x36-cedip-bom-retiro-carreiras-vera-cruz-hospital-dzk3snvf?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
       "id": "gupy-12868842",
       "name": "Carreiras Pilar Hospital",
       "role": "Recepcionista (12x36) / CEDIP Bom Retiro",
@@ -626,6 +637,28 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-recepcionista-atendente-clinica-cabral-nkjwlc3z",
+      "name": "clinica cabral",
+      "role": "Recepcionista / Atendente",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/recepcionista-atendente-clinica-cabral-nkjwlc3z?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2",
+      "name": "Carreiras Vera Cruz Hospital",
+      "role": "Recepcionista / CEDIP Alto da XV",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12675389",
@@ -827,11 +860,11 @@
     },
     {
       "id": "api-tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-d",
-      "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
+      "name": "IRMANDADE DA SANTA CASA DE MISERICORDIA DE CURITIBA",
       "role": "Técnico de Enfermagem-Centro Cirúrgico",
-      "area": "Curitiba, PR",
+      "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3655369?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-de-curitiba-csy75sv2?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -985,7 +1018,7 @@
       "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/jobs/12803176?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-hospital-5jmrawrk?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1019,17 +1052,6 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-uti-irmandade-da-santa-casa-de-misericordia-de-curitiba-hyc3735p?src=web",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-uti-pilar-hospital-carreiras-vera-cruz-hospital-arqlxypl",
-      "name": "Carreiras Vera Cruz Hospital",
-      "role": "Técnico de Enfermagem UTI / Pilar Hospital",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/jobs/12767429?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1266,17 +1288,6 @@
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-rh-curitiba-37jrsc44",
-      "name": "Rh curitiba",
-      "role": "RECEPCIONISTA",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://freehire.me/api/v1/go/recepcionista-rh-curitiba-37jrsc44?src=web",
-      "wa": "",
-      "email": "",
-      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-glasses-santana-costa-2kqig7rd",
       "name": "GLASSES SANTANA COSTA",
       "role": "Recepcionista",
@@ -1293,7 +1304,7 @@
       "role": "Recepcionista",
       "area": "Curitiba, PR",
       "zone": "curitiba",
-      "source": "https://brilharrh.pandape.infojobs.com.br/Detail/3919753?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/recepcionista-brilhar-rh-cu6ormj4?src=web",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."

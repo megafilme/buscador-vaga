@@ -136,6 +136,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-inspetor-de-alunos-curitiba-tingui-colegio-nota-10-hd6jevou": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 55,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-inspetor-de-alunos-curitiba-tingui-colegio-nota-10-hd6jevou",
+        "name": "Colégio Nota 10",
+        "role": "Inspetor de Alunos - Curitiba (Tingui)",
+        "area": "Curitiba - PR, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/inspetor-de-alunos-curitiba-tingui-colegio-nota-10-hd6jevou?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-inspetor-a-de-alunos-sefe-sistema-educacional-familia-e-escola-ltda-4tx5a77x": {
       "visto": "2026-11-26",
       "fonte": "freehire",
@@ -182,23 +199,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://editoraopet.vagas.solides.com.br/vaga/943241?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-inspetor-a-escolar-agua-verde-grupo-positivo-xufym4td": {
-      "visto": "2026-11-26",
-      "fonte": "freehire",
-      "score": 45,
-      "categoria": "Escola / educação infantil",
-      "vaga": {
-        "id": "api-inspetor-a-escolar-agua-verde-grupo-positivo-xufym4td",
-        "name": "Grupo Positivo",
-        "role": "INSPETOR(A) ESCOLAR | ÁGUA VERDE",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://positivo.gupy.io/jobs/12692506?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -306,6 +306,23 @@
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-inspetor-a-escolar-agua-verde-grupo-positivo-xufym4td": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 45,
+      "categoria": "Escola / educação infantil",
+      "vaga": {
+        "id": "api-inspetor-a-escolar-agua-verde-grupo-positivo-xufym4td",
+        "name": "Grupo Positivo",
+        "role": "INSPETOR(A) ESCOLAR | ÁGUA VERDE",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://positivo.gupy.io/jobs/12692506?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-tecnico-de-enfermagem-centro-cirurgico-hospital-pequeno-principe-tqedh7kp": {
       "visto": "2026-11-26",
       "fonte": "freehire",
@@ -321,6 +338,23 @@
         "wa": "",
         "email": "",
         "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-d": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 35,
+      "categoria": "Enfermagem pediátrica/neonatal",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-d",
+        "name": "IRMANDADE DA SANTA CASA DE MISERICORDIA DE CURITIBA",
+        "role": "Técnico de Enfermagem-Centro Cirúrgico",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-de-curitiba-csy75sv2?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Foco infantil citado só na descrição; confirme o setor. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
     "api-tecnico-de-enfermagem-setor-unidade-de-internacao-hospital-pequeno-principe-2px7": {
@@ -886,23 +920,6 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-tecnico-de-enfermagem-uti-pilar-hospital-carreiras-vera-cruz-hospital-arqlxypl": {
-      "visto": "2026-11-26",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-uti-pilar-hospital-carreiras-vera-cruz-hospital-arqlxypl",
-        "name": "Carreiras Vera Cruz Hospital",
-        "role": "Técnico de Enfermagem UTI / Pilar Hospital",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/jobs/12767429?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-d": {
       "visto": "2026-11-26",
       "fonte": "freehire",
@@ -910,11 +927,11 @@
       "categoria": "Enfermagem",
       "vaga": {
         "id": "api-tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-d",
-        "name": "IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE CURITIBA",
+        "name": "IRMANDADE DA SANTA CASA DE MISERICORDIA DE CURITIBA",
         "role": "Técnico de Enfermagem-Centro Cirúrgico",
-        "area": "Curitiba, PR",
+        "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://irmandadedasantacasademisericordiadecuritiba.pandape.infojobs.com.br/Detail/3655369?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-de-curitiba-csy75sv2?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -999,7 +1016,7 @@
         "role": "Técnico de Enfermagem Unidades de Internação / Pilar Hospital",
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/jobs/12803176?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-unidades-de-internacao-pilar-hospital-carreiras-vera-cruz-hospital-5jmrawrk?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1923,23 +1940,6 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-recepcionista-rh-curitiba-37jrsc44": {
-      "visto": "2026-11-26",
-      "fonte": "freehire",
-      "score": 40,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-rh-curitiba-37jrsc44",
-        "name": "Rh curitiba",
-        "role": "RECEPCIONISTA",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://freehire.me/api/v1/go/recepcionista-rh-curitiba-37jrsc44?src=web",
-        "wa": "",
-        "email": "",
-        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-recepcionista-glasses-santana-costa-2kqig7rd": {
       "visto": "2026-11-26",
       "fonte": "freehire",
@@ -1968,7 +1968,7 @@
         "role": "Recepcionista",
         "area": "Curitiba, PR",
         "zone": "curitiba",
-        "source": "https://brilharrh.pandape.infojobs.com.br/Detail/3919753?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/recepcionista-brilhar-rh-cu6ormj4?src=web",
         "wa": "",
         "email": "",
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -2076,6 +2076,40 @@
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "api-recepcionista-atendente-clinica-cabral-nkjwlc3z": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-atendente-clinica-cabral-nkjwlc3z",
+        "name": "clinica cabral",
+        "role": "Recepcionista / Atendente",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/recepcionista-atendente-clinica-cabral-nkjwlc3z?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-12x36-cedip-bom-retiro-carreiras-vera-cruz-hospital-dzk3snvf": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-12x36-cedip-bom-retiro-carreiras-vera-cruz-hospital-dzk3snvf",
+        "name": "Carreiras Vera Cruz Hospital",
+        "role": "Recepcionista (12x36) / CEDIP Bom Retiro",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/recepcionista-12x36-cedip-bom-retiro-carreiras-vera-cruz-hospital-dzk3snvf?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
     "api-recepcionista-ambulatorial-gi-group-djkp35c4": {
       "visto": "2026-11-26",
       "fonte": "freehire",
@@ -2142,6 +2176,23 @@
         "wa": "",
         "email": "",
         "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2": {
+      "visto": "2026-11-26",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Recepção saúde",
+      "vaga": {
+        "id": "api-recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2",
+        "name": "Carreiras Vera Cruz Hospital",
+        "role": "Recepcionista / CEDIP Alto da XV",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/recepcionista-cedip-alto-da-xv-carreiras-vera-cruz-hospital-rw3pvwj2?src=web",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
     "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx": {
