@@ -881,17 +881,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-d",
-      "name": "IRMANDADE DA SANTA CASA DE MISERICORDIA DE CURITIBA",
-      "role": "Técnico de Enfermagem-Centro Cirúrgico",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-centro-cirurgico-irmandade-da-santa-casa-de-misericordia-de-curitiba-csy75sv2?src=web",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-tecnico-de-enfermagem-centro-cirurgico-pilar-hospital-carreiras-vera-cruz-hospit",
       "name": "Carreiras Vera Cruz Hospital",
       "role": "Técnico de Enfermagem Centro Cirúrgico / Pilar Hospital",
@@ -1266,17 +1255,6 @@
       "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-atendente-escala-5x2-madrugada-agua-verde-curitiba-grupo-panvel-wellzinv",
-      "name": "Grupo Panvel",
-      "role": "ATENDENTE | ESCALA 5X2 - MADRUGADA - ÁGUA VERDE - CURITIBA",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://lojaspanvel.gupy.io/jobs/12890938?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-atendente-escala-5x2-mossungue-curitiba-grupo-panvel-rqv7mysf",
       "name": "Grupo Panvel",
       "role": "ATENDENTE | ESCALA 5X2 -MOSSUNGUÊ - CURITIBA",
@@ -1415,17 +1393,6 @@
       "area": "Pinhais, PR",
       "zone": "pinhais",
       "source": "https://www.empregos.com.br/vaga/11952661?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-recepcionista-vendedora-bm-vagas-nv5kuf3s",
-      "name": "BM VAGAS",
-      "role": "RECEPCIONISTA VENDEDORA",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://bmvagas.pandape.infojobs.com.br/Detail/3887624?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
