@@ -181,7 +181,7 @@
         "role": "ASSISTENTE ADMINISTRATIVO",
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://up.gupy.io/jobs/12768518?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/assistente-administrativo-cruzeiro-do-sul-educacional-s-a-7fvqb6sw?src=web",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Escola citada só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -266,7 +266,7 @@
         "role": "Auxiliar de Sala Ferista",
         "area": "Curitiba, PR",
         "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/12023166?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/auxiliar-de-sala-ferista-hospital-costantini-7vmvq2hy?src=web",
         "wa": "",
         "email": "",
         "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -2257,7 +2257,7 @@
         "role": "Estágio em Farmácia - Departamento Técnico 1",
         "area": "Curitiba - Paraná, BR",
         "zone": "curitiba",
-        "source": "https://jobsearch.grifols.com/job/Curitiba-Paran%C3%A1-Est%C3%A1gio-em-Farm%C3%A1cia-Departamento-T%C3%A9cnico-1/1456789733/?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/estagio-em-farmacia-departamento-tecnico-1-grifols-6ubc6tjd?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -2297,6 +2297,57 @@
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
+    "gupy-12915394": {
+      "visto": "2026-11-27",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12915394",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Técnico de Enfermagem CME / Pilar Hospital",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI5MTUzOTQsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12786263": {
+      "visto": "2026-11-27",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12786263",
+        "name": "DaVita Tratamento Renal - Serviços Assistenciais aos Pacientes",
+        "role": "Técnico Enfermagem Crônico",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://servicosassistenciais.gupy.io/job/eyJqb2JJZCI6MTI3ODYyNjMsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
+    "gupy-12904598": {
+      "visto": "2026-11-27",
+      "fonte": "gupy",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "gupy-12904598",
+        "name": "Carreiras Pilar Hospital",
+        "role": "Técnico de Enfermagem Centro Cirúrgico / Pilar Hospital",
+        "area": "Curitiba, Paraná",
+        "zone": "curitiba",
+        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI5MDQ1OTgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+      }
+    },
     "gupy-12952945": {
       "visto": "2026-11-27",
       "fonte": "gupy",
@@ -2309,40 +2360,6 @@
         "area": "Curitiba, Paraná",
         "zone": "curitiba",
         "source": "https://hapvidandi.gupy.io/job/eyJqb2JJZCI6MTI5NTI5NDUsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12894468": {
-      "visto": "2026-11-27",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12894468",
-        "name": "DaVita Tratamento Renal - Serviços Assistenciais aos Pacientes",
-        "role": "Técnico Enfermagem Crônico",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://servicosassistenciais.gupy.io/job/eyJqb2JJZCI6MTI4OTQ0NjgsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
-      }
-    },
-    "gupy-12633557": {
-      "visto": "2026-11-27",
-      "fonte": "gupy",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "gupy-12633557",
-        "name": "Carreiras Pilar Hospital",
-        "role": "Técnico de Enfermagem Centro Cirúrgico / Pilar Hospital",
-        "area": "Curitiba, Paraná",
-        "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/job/eyJqb2JJZCI6MTI2MzM1NTcsInNvdXJjZSI6Imd1cHlfcG9ydGFsIn0=?jobBoardSource=gupy_portal",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
