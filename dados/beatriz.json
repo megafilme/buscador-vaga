@@ -342,17 +342,6 @@
       "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-estagio-secretaria-escolar-souza-santos-consultoria-kkfgg3ge",
-      "name": "SOUZA SANTOS CONSULTORIA",
-      "role": "Estágio Secretaria Escolar",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://souzasantosconsultoria.pandape.infojobs.com.br/Detail/3767944?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Escola em Curitiba (fora de SJP): confira o deslocamento. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-inspetor-a-escolar-agua-verde-grupo-positivo-xufym4td",
       "name": "Grupo Positivo",
       "role": "INSPETOR(A) ESCOLAR | ÁGUA VERDE",
@@ -392,17 +381,6 @@
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
       "source": "https://www.vagas.com.br/vagas/v2839293/tecnico-de-enfermagem-setor-unidade-de-internacao?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-setor-uti-hospital-pequeno-principe-5xgig573",
-      "name": "HOSPITAL PEQUENO PRÍNCIPE",
-      "role": "Tecnico de Enfermagem - Setor UTI",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://www.vagas.com.br/vagas/v2836980/tecnico-de-enfermagem-setor-uti?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Hospital/maternidade com atendimento infantil. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
