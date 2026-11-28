@@ -749,17 +749,6 @@
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-recepcionista-em-clinica-de-estetica-vaga-masculina-no-perfil-agencia-de-emprego",
-      "name": "NO PERFIL - AGENCIA DE EMPREGOS",
-      "role": "Recepcionista em clinica de estética - vaga Masculina",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://www.catho.com.br/vagas/recepcionista-em-clinica-de-estetica-vaga-masculina/39261091/?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-i-hospital-pequeno-principe-5ra5rrlx",
       "name": "Hospital Pequeno Príncipe",
       "role": "Recepcionista I",
@@ -831,7 +820,7 @@
       "role": "Técnico de Enfermagem",
       "area": "Curitiba - PR",
       "zone": "curitiba",
-      "source": "https://medilaremergenciasmedicascampinas.pandape.infojobs.com.br/Detail/3874980?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-medilar-emergencias-medicas-campinas-5lslwuch?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -875,7 +864,7 @@
       "role": "Técnico de Enfermagem Centro Cirúrgico / Pilar Hospital",
       "area": "Curitiba, PR, Brasil",
       "zone": "curitiba",
-      "source": "https://pilarhospital.gupy.io/jobs/12633557?utm_source=freehire.me",
+      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-centro-cirurgico-pilar-hospital-carreiras-vera-cruz-hospital-7ftzljtp?src=web",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -890,6 +879,17 @@
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (Gupy). Confira a disponibilidade no anúncio."
+    },
+    {
+      "id": "api-tecnico-de-enfermagem-cme-pilar-hospital-carreiras-vera-cruz-hospital-rk3kcirr",
+      "name": "Carreiras Vera Cruz Hospital",
+      "role": "Técnico de Enfermagem CME / Pilar Hospital",
+      "area": "Curitiba, PR, Brasil",
+      "zone": "curitiba",
+      "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-cme-pilar-hospital-carreiras-vera-cruz-hospital-rk3kcirr?src=web",
+      "wa": "",
+      "email": "",
+      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
       "id": "gupy-12915394",
@@ -909,17 +909,6 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://dasa.pandape.infojobs.com.br/Detail/3831438?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-tecnico-de-enfermagem-curitiba-pr-imtep-saude-empresarial-dmsbqolk",
-      "name": "Imtep saúde empresarial",
-      "role": "Técnico de Enfermagem - Curitiba/PR",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://www.empregos.com.br/vaga/11987917?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1266,17 +1255,6 @@
       "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
     },
     {
-      "id": "api-atendente-parana-vaga-afirmativa-para-pcd-grupo-panvel-3tcum3kl",
-      "name": "Grupo Panvel",
-      "role": "ATENDENTE | PARANÁ (VAGA AFIRMATIVA PARA PCD)",
-      "area": "Curitiba, PR, Brasil",
-      "zone": "curitiba",
-      "source": "https://lojaspanvel.gupy.io/jobs/12888199?utm_source=freehire.me",
-      "wa": "",
-      "email": "",
-      "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
       "id": "api-recepcionista-agilidade-gestao-de-pessoas-e-solucoes-ybtxdm2l",
       "name": "Agilidade gestão de pessoas e soluções",
       "role": "Recepcionista",
@@ -1305,17 +1283,6 @@
       "area": "Curitiba, PR",
       "zone": "curitiba",
       "source": "https://freehire.me/api/v1/go/recepcionista-brilhar-rh-cu6ormj4?src=web",
-      "wa": "",
-      "email": "",
-      "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-    },
-    {
-      "id": "api-recepcionista-adecco-6lvgotti",
-      "name": "ADECCO",
-      "role": "Recepcionista",
-      "area": "Curitiba, PR",
-      "zone": "curitiba",
-      "source": "https://adecco.pandape.infojobs.com.br/Detail/3649783?utm_source=freehire.me",
       "wa": "",
       "email": "",
       "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."

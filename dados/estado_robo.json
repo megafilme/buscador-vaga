@@ -863,7 +863,7 @@
         "role": "Técnico de Enfermagem",
         "area": "Curitiba - PR",
         "zone": "curitiba",
-        "source": "https://medilaremergenciasmedicascampinas.pandape.infojobs.com.br/Detail/3874980?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-medilar-emergencias-medicas-campinas-5lslwuch?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -881,6 +881,23 @@
         "area": "Curitiba, PR",
         "zone": "curitiba",
         "source": "https://www.empregos.com.br/vaga/11976419?utm_source=freehire.me",
+        "wa": "",
+        "email": "",
+        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
+      }
+    },
+    "api-tecnico-de-enfermagem-cme-pilar-hospital-carreiras-vera-cruz-hospital-rk3kcirr": {
+      "visto": "2026-11-28",
+      "fonte": "freehire",
+      "score": 50,
+      "categoria": "Enfermagem",
+      "vaga": {
+        "id": "api-tecnico-de-enfermagem-cme-pilar-hospital-carreiras-vera-cruz-hospital-rk3kcirr",
+        "name": "Carreiras Vera Cruz Hospital",
+        "role": "Técnico de Enfermagem CME / Pilar Hospital",
+        "area": "Curitiba, PR, Brasil",
+        "zone": "curitiba",
+        "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-cme-pilar-hospital-carreiras-vera-cruz-hospital-rk3kcirr?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -982,7 +999,7 @@
         "role": "Técnico de Enfermagem Centro Cirúrgico / Pilar Hospital",
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
-        "source": "https://pilarhospital.gupy.io/jobs/12633557?utm_source=freehire.me",
+        "source": "https://freehire.me/api/v1/go/tecnico-de-enfermagem-centro-cirurgico-pilar-hospital-carreiras-vera-cruz-hospital-7ftzljtp?src=web",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1000,23 +1017,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://hapvidandi.gupy.io/jobs/12856607?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-tecnico-de-enfermagem-curitiba-pr-imtep-saude-empresarial-dmsbqolk": {
-      "visto": "2026-11-28",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Enfermagem",
-      "vaga": {
-        "id": "api-tecnico-de-enfermagem-curitiba-pr-imtep-saude-empresarial-dmsbqolk",
-        "name": "Imtep saúde empresarial",
-        "role": "Técnico de Enfermagem - Curitiba/PR",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://www.empregos.com.br/vaga/11987917?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -1770,23 +1770,6 @@
         "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
-    "api-atendente-parana-vaga-afirmativa-para-pcd-grupo-panvel-3tcum3kl": {
-      "visto": "2026-11-28",
-      "fonte": "freehire",
-      "score": 45,
-      "categoria": "Farmácia",
-      "vaga": {
-        "id": "api-atendente-parana-vaga-afirmativa-para-pcd-grupo-panvel-3tcum3kl",
-        "name": "Grupo Panvel",
-        "role": "ATENDENTE | PARANÁ (VAGA AFIRMATIVA PARA PCD)",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://lojaspanvel.gupy.io/jobs/12888199?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Atendimento em rede de farmácias. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
     "api-recepcionista-comercial-clinica-de-cirurgia-estetica-glasses-santana-costa-dgm5h": {
       "visto": "2026-11-28",
       "fonte": "freehire",
@@ -1816,23 +1799,6 @@
         "area": "Curitiba, PR, Brasil",
         "zone": "curitiba",
         "source": "https://www.catho.com.br/vagas/recepcionista-para-clinica-medica-em-curitiba-pr/39313460/?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-recepcionista-em-clinica-de-estetica-vaga-masculina-no-perfil-agencia-de-emprego": {
-      "visto": "2026-11-28",
-      "fonte": "freehire",
-      "score": 50,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-em-clinica-de-estetica-vaga-masculina-no-perfil-agencia-de-emprego",
-        "name": "NO PERFIL - AGENCIA DE EMPREGOS",
-        "role": "Recepcionista em clinica de estética - vaga Masculina",
-        "area": "Curitiba, PR, Brasil",
-        "zone": "curitiba",
-        "source": "https://www.catho.com.br/vagas/recepcionista-em-clinica-de-estetica-vaga-masculina/39261091/?utm_source=freehire.me",
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
@@ -2006,23 +1972,6 @@
         "wa": "",
         "email": "",
         "info": "Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
-      }
-    },
-    "api-recepcionista-adecco-6lvgotti": {
-      "visto": "2026-11-28",
-      "fonte": "freehire",
-      "score": 40,
-      "categoria": "Recepção saúde",
-      "vaga": {
-        "id": "api-recepcionista-adecco-6lvgotti",
-        "name": "ADECCO",
-        "role": "Recepcionista",
-        "area": "Curitiba, PR",
-        "zone": "curitiba",
-        "source": "https://adecco.pandape.infojobs.com.br/Detail/3649783?utm_source=freehire.me",
-        "wa": "",
-        "email": "",
-        "info": "Contexto de saúde citado só na descrição; confirme o local. Vaga obtida via API pública (FreeHire). Confira a disponibilidade no anúncio."
       }
     },
     "api-recepcionista-foursales-goxizuct": {
